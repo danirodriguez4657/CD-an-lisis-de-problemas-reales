@@ -1,0 +1,1151 @@
+id_estudiante,periodo_ingreso,carrera,provincia,zona_residencia,sexo,edad,estado_civil,tipo_colegio,financiamiento,modalidad,semestre_actual,promedio_bachillerato,nota_primer_ciclo,creditos_reprobados,num_materias_matriculadas,asistencia_pct,horas_trabajo_semana,distancia_universidad_km,num_hermanos,ingreso_familiar_usd,uso_tutoria,indice_satisfaccion,desercion_semestre,fecha_ultimo_pago,motivo_retiro,semestre_desercion
+EST-2020-0000,2022-S2,Administración de Empresas,Guayas,Urbana,F,22,Soltero/a,Fiscomisional,Beca parcial,Presencial,4,7.61,7.63,1,4,62.6,22.0,9.4,2,1144.0,3,6.4,0,,,
+EST-2021-0001,2022-S1,Contabilidad,Azuay,Urbana,M,27,Casado/a,Fiscal,Recursos propios,Presencial,2,7.1,4.64,0,7,39.6,40.0,9.6,0,1302.0,0,6.5,1,2024-06-06,Laboral,2.0
+EST-2022-0002,2022-S2,Medicina,Guayas,Urbana,F,22,Soltero/a,Particular,Recursos propios,Presencial,5,6.65,7.38,1,5,74.9,0.0,21.1,2,1053.0,0,6.9,0,,,
+EST-2023-0003,2023-S2,Ingeniería Civil,Guayas,Rural,M,27,Soltero/a,Fiscal,Recursos propios,Presencial,1,6.68,6.8,0,6,78.7,37.0,,2,797.0,2,5.4,1,2024-04-04,Laboral,2.0
+EST-2024-0004,2022-S2,Psicología,Azuay,Urbana,M,27,Soltero/a,Fiscal,Beca parcial,Semi-presencial,5,7.42,8.31,1,7,66.9,28.0,75.4,1,256.0,2,7.8,0,,,
+EST-2025-0005,2022-S2,Psicología,Guayas,Urbana,M,27,Casado/a,Particular,Beca completa,Presencial,2,7.91,6.82,1,4,77.7,0.0,13.2,0,582.0,0,9.5,0,,,
+EST-2020-0006,2023-S2,Psicología,Azuay,Rural,M,21,Soltero/a,Particular,Beca parcial,Semi-presencial,4,7.67,9.6,0,4,60.4,0.0,26.5,0,383.0,0,7.7,0,,,
+EST-2021-0007,2023-S2,Ciencia de Datos,Loja,Rural,M,23,Soltero/a,Particular,Beca parcial,Presencial,2,7.96,7.0,2,4,86.8,0.0,13.4,3,433.0,4,6.5,0,,,
+EST-2022-0008,2022-S2,Ciencia de Datos,Guayas,Urbana,F,27,Casado/a,Particular,Recursos propios,Presencial,1,4.79,5.48,1,8,69.8,0.0,33.7,3,1087.0,1,6.5,1,2024-08-19,Economico,2.0
+EST-2023-0009,2022-S1,Derecho,Loja,Rural,F,21,Union libre,Fiscal,Recursos propios,Semi-presencial,3,9.52,4.71,3,7,44.4,44.0,,0,1776.0,1,6.9,1,2024-04-12,Personal,4.0
+EST-2024-0010,2022-S2,Arquitectura,Manabí,Urbana,M,18,Soltero/a,Fiscal,Beca parcial,Semi-presencial,4,8.91,6.09,0,8,77.9,26.0,9.0,7,1218.0,0,2.7,1,2024-02-12,Academico,5.0
+EST-2025-0011,2022-S1,Psicología,Guayas,Rural,F,24,Soltero/a,Fiscal,Recursos propios,Semi-presencial,2,8.86,8.43,0,6,63.8,0.0,4.2,3,1277.0,3,10.0,0,,,
+EST-2020-0012,2023-S2,Ciencia de Datos,Imbabura,Rural,M,26,Soltero/a,Particular,Recursos propios,Presencial,6,8.09,,1,6,73.3,31.0,2.5,0,821.0,3,10.0,0,,,
+EST-2021-0013,2022-S2,Ciencia de Datos,Tungurahua,Urbana,F,19,Casado/a,Particular,Beca completa,Presencial,2,6.96,8.16,0,8,94.0,0.0,21.8,0,422.0,3,5.0,0,,,
+EST-2022-0014,2023-S1,Medicina,El Oro,Urbana,F,24,Soltero/a,Particular,Beca parcial,Presencial,5,6.96,8.76,2,8,69.1,11.0,1.2,1,258.0,3,6.4,0,,,
+EST-2023-0015,2022-S1,Contabilidad,Azuay,Urbana,F,17,Soltero/a,Fiscal,Recursos propios,Presencial,6,6.94,7.54,0,7,59.6,17.0,3.7,2,1032.0,1,6.9,1,2024-02-21,Academico,7.0
+EST-2024-0016,2023-S1,Psicología,Guayas,Rural,M,21,Soltero/a,Fiscal,Credito educativo,Semi-presencial,2,8.24,,0,8,68.3,44.0,38.5,2,2151.0,4,5.7,0,,,
+EST-2025-0017,2022-S2,Derecho,Guayas,Rural,M,20,Soltero/a,Fiscal,Beca completa,Presencial,6,8.02,8.09,1,6,70.9,0.0,5.4,0,798.0,3,7.7,0,,,
+EST-2020-0018,2022-S2,Ingeniería Civil,Pichincha,Rural,F,19,Soltero/a,Fiscomisional,Recursos propios,Presencial,4,9.1,7.89,1,4,61.0,12.0,12.2,0,574.0,4,6.4,0,,,
+EST-2021-0019,2022-S2,Administración de Empresas,Imbabura,Rural,M,23,Soltero/a,Particular,Recursos propios,Presencial,1,7.62,3.26,1,5,96.7,0.0,14.8,1,638.0,2,8.5,0,,,
+EST-2022-0020,2022-S1,Arquitectura,Tungurahua,Rural,M,18,Casado/a,Fiscal,Credito educativo,Presencial,1,9.12,7.69,2,6,85.5,0.0,1.7,0,637.0,4,,0,,,
+EST-2023-0021,2022-S1,Ingeniería Civil,Pichincha,Urbana,F,25,Soltero/a,Particular,Beca parcial,Presencial,1,8.54,6.12,1,5,79.9,0.0,11.1,0,453.0,3,7.5,0,,,
+EST-2024-0022,2023-S2,Arquitectura,Imbabura,Urbana,M,27,Soltero/a,Fiscal,Recursos propios,Semi-presencial,2,8.86,8.53,1,5,48.3,0.0,20.2,4,476.0,2,4.5,0,,,
+EST-2025-0023,2022-S2,Arquitectura,Guayas,Rural,F,19,Soltero/a,Particular,Beca parcial,Semi-presencial,1,9.22,5.3,1,8,75.1,0.0,56.9,1,684.0,4,7.0,0,,,
+EST-2020-0024,2022-S1,Ciencia de Datos,Chimborazo,Rural,F,26,Casado/a,Fiscal,Credito educativo,Semi-presencial,2,8.62,5.23,0,5,98.2,21.0,4.0,3,643.0,1,8.5,0,,,
+EST-2021-0025,2023-S2,Administración de Empresas,Guayas,Rural,F,17,Casado/a,Particular,Recursos propios,Semi-presencial,5,8.64,5.66,2,8,63.0,11.0,22.5,4,341.0,0,1.8,1,2024-01-12,Laboral,6.0
+EST-2022-0026,2022-S1,Ingeniería Civil,Chimborazo,Rural,F,25,Soltero/a,Fiscal,Credito educativo,Presencial,1,7.41,8.09,1,6,83.4,0.0,12.2,1,456.0,5,5.7,0,,,
+EST-2023-0027,2023-S1,Contabilidad,Guayas,Urbana,M,25,Soltero/a,Fiscal,Beca completa,Semi-presencial,4,8.19,6.49,2,6,51.4,0.0,2.4,1,1182.0,2,3.7,0,,,
+EST-2024-0028,2022-S2,Administración de Empresas,Pichincha,Urbana,F,23,Casado/a,Fiscal,Beca completa,Presencial,1,7.14,5.15,4,5,89.1,0.0,12.3,0,675.0,5,,0,,,
+EST-2025-0029,2023-S1,Ciencia de Datos,Manabí,Urbana,M,27,Soltero/a,Particular,Beca parcial,Semi-presencial,2,5.8,8.84,0,4,68.6,17.0,8.6,3,1008.0,4,6.2,0,,,
+EST-2020-0030,2023-S2,Derecho,Imbabura,Rural,F,20,Casado/a,Fiscal,Recursos propios,Presencial,5,5.94,6.98,2,7,81.6,0.0,2.7,2,1090.0,5,3.4,1,2024-08-27,Academico,5.0
+EST-2021-0031,2022-S1,Ingeniería Civil,Pichincha,Urbana,M,26,Casado/a,Fiscal,Recursos propios,Semi-presencial,6,8.92,10.0,0,5,65.5,0.0,12.4,0,927.0,5,7.7,0,,,
+EST-2022-0032,2022-S1,Ciencia de Datos,Guayas,Urbana,F,21,Soltero/a,Particular,Recursos propios,Semi-presencial,1,7.42,8.98,1,8,82.3,41.0,24.6,2,480.0,4,8.1,0,,,
+EST-2023-0033,2022-S1,Administración de Empresas,Pichincha,Rural,F,27,Soltero/a,Fiscal,Recursos propios,Semi-presencial,2,7.88,8.7,1,7,90.9,34.0,24.2,5,575.0,4,2.8,0,,,
+EST-2024-0034,2023-S1,Medicina,Pichincha,Urbana,M,20,Soltero/a,Fiscal,Recursos propios,Presencial,5,7.57,7.94,0,6,81.0,0.0,0.5,0,872.0,1,6.6,0,,,
+EST-2025-0035,2023-S1,Administración de Empresas,Guayas,Rural,M,22,Casado/a,Fiscal,Recursos propios,Presencial,6,9.59,8.97,3,4,69.2,0.0,10.8,1,579.0,5,7.4,0,,,
+EST-2020-0036,2023-S2,Ciencia de Datos,Pichincha,Rural,F,25,Soltero/a,Fiscal,Beca parcial,Presencial,3,8.02,3.55,4,6,57.2,0.0,6.4,4,663.0,4,5.6,1,2024-06-22,Laboral,3.0
+EST-2021-0037,2022-S2,Arquitectura,Pichincha,Urbana,F,25,Soltero/a,Fiscal,Recursos propios,Semi-presencial,3,6.53,7.5,0,7,81.9,0.0,7.8,3,569.0,1,,0,,,
+EST-2022-0038,2023-S1,Arquitectura,Tungurahua,Rural,F,22,Soltero/a,Particular,Credito educativo,Presencial,5,7.82,8.6,2,5,76.7,35.0,8.6,4,1680.0,0,3.5,0,,,
+EST-2023-0039,2023-S2,Psicología,Tungurahua,Rural,M,27,Soltero/a,Fiscal,Beca completa,Presencial,1,7.37,8.05,0,6,57.5,28.0,,0,1029.0,1,7.3,1,2024-08-18,Laboral,1.0
+EST-2024-0040,2022-S2,Ciencia de Datos,Loja,Urbana,F,27,Soltero/a,Fiscal,Beca parcial,Presencial,1,8.69,6.0,3,5,83.9,12.0,22.9,2,336.0,2,2.2,0,,,
+EST-2025-0041,2022-S1,Administración de Empresas,Pichincha,Urbana,F,18,Soltero/a,Fiscal,Credito educativo,Presencial,5,7.67,,1,4,80.1,0.0,55.5,3,700.0,1,4.0,0,,,
+EST-2020-0042,2022-S1,Arquitectura,Imbabura,Urbana,F,26,Casado/a,Fiscal,Beca completa,Presencial,1,8.38,5.64,2,8,59.5,0.0,18.2,0,742.0,3,,0,,,
+EST-2021-0043,2022-S1,Psicología,Pichincha,Urbana,F,23,Soltero/a,Fiscal,Beca parcial,Presencial,6,6.9,9.26,1,4,92.5,0.0,4.4,1,637.0,3,9.1,0,,,
+EST-2022-0044,2023-S2,Contabilidad,El Oro,Rural,M,22,Soltero/a,Fiscal,Recursos propios,Presencial,1,7.45,10.0,0,7,88.9,0.0,3.3,0,506.0,2,7.0,0,,,
+EST-2023-0045,2022-S1,Contabilidad,Esmeraldas,Urbana,F,19,Soltero/a,Particular,Recursos propios,Presencial,5,9.7,,1,6,81.7,0.0,13.6,2,1674.0,0,7.0,0,,,
+EST-2024-0046,2022-S1,Administración de Empresas,Loja,Urbana,F,27,Casado/a,Particular,Credito educativo,Semi-presencial,4,7.95,7.49,1,4,62.1,34.0,45.3,2,484.0,1,3.9,1,2024-05-02,Laboral,5.0
+EST-2025-0047,2023-S1,Ingeniería Civil,Azuay,Urbana,F,27,Soltero/a,Particular,Recursos propios,Presencial,3,5.56,8.26,2,5,99.2,12.0,0.5,0,598.0,4,7.8,0,,,
+EST-2020-0048,2022-S1,Psicología,Guayas,Urbana,M,27,Soltero/a,Particular,Recursos propios,Semi-presencial,5,8.61,6.19,2,5,76.6,29.0,6.5,2,650.0,3,4.7,0,,,
+EST-2021-0049,2022-S2,Ingeniería Civil,Tungurahua,Rural,F,21,Soltero/a,Fiscomisional,Credito educativo,Presencial,6,9.05,5.4,0,5,61.7,19.0,14.3,6,384.0,3,6.0,0,,,
+EST-2022-0050,2022-S1,Arquitectura,Manabí,Urbana,F,23,Casado/a,Particular,Recursos propios,Presencial,2,9.08,8.58,0,8,88.0,0.0,5.5,2,751.0,2,4.2,0,,,
+EST-2023-0051,2023-S2,Derecho,Imbabura,Urbana,M,24,Soltero/a,Fiscal,Beca completa,Presencial,6,8.98,6.89,0,6,60.1,36.0,14.6,3,642.0,2,6.6,1,2024-02-16,Laboral,6.0
+EST-2024-0052,2023-S2,Ciencia de Datos,Chimborazo,Rural,M,19,Soltero/a,Fiscal,Recursos propios,Presencial,5,8.56,8.73,0,7,65.2,36.0,47.8,3,390.0,2,7.6,0,,,
+EST-2025-0053,2023-S1,Administración de Empresas,Manabí,Rural,F,20,Soltero/a,Particular,Credito educativo,Semi-presencial,1,6.29,5.88,0,7,46.8,0.0,3.1,2,381.0,5,8.7,0,,,
+EST-2020-0054,2022-S2,Psicología,Imbabura,Urbana,M,17,Soltero/a,Particular,Recursos propios,Semi-presencial,5,7.43,,1,6,77.0,20.0,,3,675.0,2,,0,,,
+EST-2021-0055,2023-S1,Administración de Empresas,Pichincha,Urbana,F,19,Soltero/a,Particular,Beca completa,Presencial,3,8.12,7.99,0,6,74.7,43.0,17.8,1,347.0,4,5.7,0,,,
+EST-2022-0056,2023-S1,Ingeniería Civil,Pichincha,Urbana,M,17,Casado/a,Fiscal,Recursos propios,Presencial,1,6.45,7.84,3,7,100.0,27.0,90.1,3,1084.0,1,4.1,1,2024-08-04,Personal,1.0
+EST-2023-0057,2023-S1,Administración de Empresas,Pichincha,Urbana,M,19,Casado/a,Particular,Beca parcial,Semi-presencial,6,8.37,5.06,2,8,78.3,0.0,13.6,1,880.0,5,6.7,0,,,
+EST-2024-0058,2023-S2,Derecho,Azuay,Urbana,F,22,Soltero/a,Fiscal,Recursos propios,Presencial,6,8.65,8.9,0,4,80.5,0.0,9.1,2,482.0,5,6.8,0,,,
+EST-2025-0059,2023-S2,Medicina,Guayas,Urbana,M,22,Union libre,Particular,Credito educativo,Semi-presencial,5,10.0,8.01,1,8,76.6,0.0,2.2,2,298.0,1,3.5,0,,,
+EST-2020-0060,2022-S1,Derecho,Tungurahua,Urbana,F,17,Soltero/a,Fiscal,Beca completa,Presencial,6,7.08,5.69,0,5,54.0,32.0,1.5,3,304.0,4,7.7,1,2024-05-04,Economico,7.0
+EST-2021-0061,2022-S1,Ingeniería Civil,Guayas,Urbana,M,25,Casado/a,Fiscal,Credito educativo,Presencial,4,7.85,6.73,5,6,73.1,0.0,39.0,4,800.0,1,7.0,1,2024-07-20,Economico,5.0
+EST-2022-0062,2023-S1,Arquitectura,Imbabura,Rural,F,27,Soltero/a,Fiscal,Recursos propios,Presencial,4,6.98,,3,5,68.2,14.0,16.1,0,650.0,1,,1,2024-03-18,Laboral,5.0
+EST-2023-0063,2022-S2,Arquitectura,Pichincha,Rural,M,19,Soltero/a,Particular,Beca parcial,Presencial,1,6.83,,2,4,73.5,0.0,6.7,0,460.0,2,7.4,0,,,
+EST-2024-0064,2022-S1,Derecho,Esmeraldas,Urbana,M,20,Casado/a,Fiscal,Credito educativo,Semi-presencial,1,7.13,7.98,1,6,80.0,0.0,5.1,2,776.0,1,7.0,0,,,
+EST-2025-0065,2023-S1,Administración de Empresas,Guayas,Urbana,F,25,Soltero/a,Fiscal,Recursos propios,Semi-presencial,1,9.16,8.72,4,5,82.9,0.0,,0,1145.0,5,6.2,0,,,
+EST-2020-0066,2022-S2,Contabilidad,Guayas,Urbana,F,23,Soltero/a,Fiscal,Recursos propios,Presencial,3,6.72,8.19,0,7,75.2,0.0,45.3,0,347.0,2,9.2,0,,,
+EST-2021-0067,2022-S1,Ingeniería Civil,Imbabura,Urbana,F,25,Casado/a,Particular,Beca completa,Presencial,6,7.18,4.93,2,8,61.2,31.0,0.5,0,463.0,2,4.6,1,2024-06-04,Academico,7.0
+EST-2022-0068,2023-S2,Psicología,Azuay,Rural,M,22,Soltero/a,Fiscal,Credito educativo,Semi-presencial,3,7.73,8.29,0,6,70.1,27.0,19.3,0,1031.0,2,4.3,0,,,
+EST-2023-0069,2023-S2,Psicología,El Oro,Rural,F,18,Soltero/a,Fiscal,Beca parcial,Presencial,3,9.24,9.3,2,4,77.0,0.0,0.5,1,630.0,3,7.5,0,,,
+EST-2024-0070,2023-S2,Medicina,Guayas,Urbana,M,22,Casado/a,Particular,Beca completa,Presencial,4,10.0,,0,6,74.2,0.0,16.5,2,2557.0,4,7.3,0,,,
+EST-2025-0071,2022-S1,Contabilidad,Loja,Urbana,M,18,Union libre,Particular,Credito educativo,Presencial,5,7.27,5.07,2,4,74.4,0.0,41.5,4,401.0,1,8.7,1,2024-04-15,Laboral,5.0
+EST-2020-0072,2022-S2,Ingeniería Civil,Guayas,Urbana,M,26,Soltero/a,Fiscal,Beca parcial,Presencial,1,7.98,3.76,2,4,89.2,0.0,14.0,2,1207.0,5,6.2,0,,,
+EST-2021-0073,2023-S1,Arquitectura,Tungurahua,Rural,F,23,Soltero/a,Fiscal,Credito educativo,Presencial,6,9.25,7.88,1,5,70.9,29.0,33.4,1,903.0,2,3.7,1,2024-05-20,Economico,6.0
+EST-2022-0074,2023-S2,Derecho,Azuay,Urbana,M,25,Soltero/a,Particular,Beca parcial,Presencial,2,8.03,,1,7,66.6,0.0,59.1,2,1301.0,2,7.6,0,,,
+EST-2023-0075,2022-S2,Derecho,Guayas,Rural,F,26,Union libre,Particular,Credito educativo,Presencial,6,8.83,7.78,0,4,100.0,0.0,68.9,2,1042.0,1,6.2,0,,,
+EST-2024-0076,2023-S1,Psicología,Chimborazo,Rural,M,23,Casado/a,Fiscomisional,Beca completa,Presencial,3,6.8,,2,8,75.8,0.0,7.3,1,718.0,2,7.2,1,2024-05-11,Personal,3.0
+EST-2025-0077,2022-S1,Ciencia de Datos,Chimborazo,Rural,M,22,Soltero/a,Particular,Beca parcial,Semi-presencial,1,9.86,5.47,0,7,100.0,36.0,17.9,1,703.0,1,6.0,0,,,
+EST-2020-0078,2022-S1,Derecho,Chimborazo,Rural,M,24,Soltero/a,Fiscal,Recursos propios,Presencial,5,7.39,6.51,1,6,71.4,36.0,2.2,0,1072.0,5,6.5,1,2024-07-09,Laboral,6.0
+EST-2021-0079,2023-S2,Contabilidad,Manabí,Urbana,F,20,Soltero/a,Fiscal,Credito educativo,Semi-presencial,5,7.64,7.89,1,5,50.1,0.0,73.1,0,473.0,4,7.8,0,,,
+EST-2022-0080,2022-S2,Arquitectura,El Oro,Urbana,F,27,Soltero/a,Particular,Beca completa,Presencial,1,8.31,,1,4,77.2,0.0,32.0,5,1049.0,1,,0,,,
+EST-2023-0081,2023-S2,Ingeniería Civil,Azuay,Urbana,M,24,Casado/a,Fiscal,Credito educativo,Semi-presencial,1,8.87,6.97,1,5,75.3,31.0,4.0,2,631.0,5,5.4,0,,,
+EST-2024-0082,2023-S2,Arquitectura,Pichincha,Rural,F,18,Soltero/a,Particular,Recursos propios,Presencial,1,7.77,6.26,0,8,75.1,0.0,2.5,1,755.0,2,,0,,,
+EST-2025-0083,2023-S1,Medicina,Guayas,Urbana,M,21,Casado/a,Particular,Recursos propios,Semi-presencial,2,7.2,9.21,2,6,79.0,0.0,26.2,3,961.0,5,9.8,0,,,
+EST-2020-0084,2023-S2,Ciencia de Datos,Guayas,Rural,M,18,Soltero/a,Fiscal,Beca completa,Presencial,4,8.13,6.62,2,8,63.6,0.0,1.0,3,1786.0,2,6.6,0,,,
+EST-2021-0085,2023-S2,Psicología,Tungurahua,Urbana,F,23,Soltero/a,Fiscal,Beca completa,Presencial,1,8.68,7.28,0,7,80.2,0.0,7.1,3,1185.0,5,5.6,0,,,
+EST-2022-0086,2022-S2,Ciencia de Datos,Chimborazo,Urbana,M,21,Soltero/a,Particular,Beca completa,Semi-presencial,5,7.68,5.72,1,7,100.0,0.0,29.6,0,549.0,4,,0,,,
+EST-2023-0087,2023-S2,Ingeniería Civil,Esmeraldas,Urbana,F,21,Soltero/a,Fiscomisional,Credito educativo,Presencial,1,7.18,7.1,3,5,82.5,31.0,5.0,1,621.0,0,6.6,0,,,
+EST-2024-0088,2023-S2,Ciencia de Datos,Pichincha,Rural,F,21,Casado/a,Fiscal,Credito educativo,Semi-presencial,6,8.3,6.47,0,7,71.4,40.0,,1,1464.0,1,7.9,1,2024-01-11,Laboral,6.0
+EST-2025-0089,2023-S2,Administración de Empresas,El Oro,Urbana,F,26,Casado/a,Fiscal,Beca parcial,Presencial,6,9.15,8.97,1,4,80.2,0.0,7.2,5,778.0,1,6.5,0,,,
+EST-2020-0090,2022-S1,Medicina,Pichincha,Urbana,M,25,Soltero/a,Fiscomisional,Recursos propios,Presencial,1,7.43,7.85,1,4,77.8,0.0,0.5,0,318.0,4,4.7,0,,,
+EST-2021-0091,2022-S2,Arquitectura,Pichincha,Rural,M,20,Soltero/a,Particular,Recursos propios,Presencial,5,6.22,6.79,3,8,81.3,0.0,10.9,3,769.0,0,4.0,0,,,
+EST-2022-0092,2023-S2,Ingeniería Civil,Esmeraldas,Urbana,F,18,Soltero/a,Particular,Recursos propios,Semi-presencial,1,9.16,6.64,3,5,76.3,31.0,39.0,2,395.0,3,3.9,0,,,
+EST-2023-0093,2023-S1,Contabilidad,Pichincha,Urbana,F,22,Soltero/a,Fiscal,Recursos propios,Semi-presencial,4,6.91,5.3,1,7,94.1,0.0,36.2,4,659.0,4,9.1,0,,,
+EST-2024-0094,2022-S2,Derecho,Pichincha,Urbana,F,21,Soltero/a,Particular,Beca completa,Presencial,3,6.99,6.78,1,4,48.9,0.0,9.2,2,1423.0,4,7.9,0,,,
+EST-2025-0095,2023-S1,Administración de Empresas,Tungurahua,Rural,M,25,Soltero/a,Fiscomisional,Beca parcial,Presencial,1,8.57,7.97,0,8,64.8,0.0,16.6,1,806.0,4,7.0,0,,,
+EST-2020-0096,2023-S1,Contabilidad,Pichincha,Urbana,M,24,Soltero/a,Fiscal,Credito educativo,Presencial,1,7.54,8.17,2,6,72.5,0.0,9.0,1,1910.0,4,5.1,0,,,
+EST-2021-0097,2022-S1,Ciencia de Datos,Chimborazo,Rural,M,27,Soltero/a,Particular,Recursos propios,Presencial,6,7.14,3.74,1,5,54.3,0.0,17.1,1,646.0,5,7.5,0,,,
+EST-2022-0098,2022-S2,Contabilidad,Tungurahua,Urbana,F,26,Soltero/a,Particular,Credito educativo,Presencial,6,7.61,8.7,1,8,82.9,41.0,17.8,0,528.0,1,6.4,0,,,
+EST-2023-0099,2023-S1,Ingeniería Civil,Manabí,Urbana,M,21,Soltero/a,Fiscal,Recursos propios,Presencial,3,8.73,10.0,2,4,94.6,18.0,2.5,1,627.0,3,7.9,0,,,
+EST-2024-0100,2023-S2,Derecho,Azuay,Urbana,F,25,Soltero/a,Particular,Beca parcial,Presencial,3,8.35,8.15,2,4,82.0,0.0,27.9,1,1027.0,3,,0,,,
+EST-2025-0101,2022-S1,Derecho,Tungurahua,Rural,M,17,Soltero/a,Fiscomisional,Recursos propios,Presencial,6,7.84,7.61,0,5,56.8,0.0,73.7,0,840.0,3,6.4,1,2024-03-04,Laboral,7.0
+EST-2020-0102,2023-S2,Ingeniería Civil,Tungurahua,Urbana,F,18,Soltero/a,Fiscal,Beca completa,Presencial,3,8.31,6.38,1,4,90.0,0.0,42.8,0,808.0,1,6.7,0,,,
+EST-2021-0103,2023-S1,Ciencia de Datos,Manabí,Urbana,M,27,Soltero/a,Particular,Beca completa,Presencial,5,7.1,6.87,2,4,87.8,31.0,34.9,2,1047.0,4,6.2,0,,,
+EST-2022-0104,2023-S1,Ciencia de Datos,Chimborazo,Urbana,M,17,Casado/a,Particular,Recursos propios,Presencial,3,6.4,8.56,3,8,72.3,0.0,11.6,0,626.0,0,5.3,0,,,
+EST-2023-0105,2022-S2,Derecho,Guayas,Urbana,F,23,Soltero/a,Fiscomisional,Recursos propios,Presencial,3,7.67,6.77,1,5,79.3,0.0,17.8,1,1030.0,4,,0,,,
+EST-2024-0106,2023-S1,Derecho,Azuay,Urbana,F,24,Union libre,Fiscal,Recursos propios,Presencial,5,7.68,7.01,2,5,82.9,36.0,,2,1105.0,2,7.5,1,2024-08-02,Personal,5.0
+EST-2025-0107,2023-S2,Medicina,Guayas,Urbana,M,22,Soltero/a,Fiscal,Beca parcial,Presencial,5,7.62,5.16,1,8,98.6,20.0,19.2,0,453.0,4,5.9,0,,,
+EST-2020-0108,2022-S1,Administración de Empresas,Pichincha,Rural,M,19,Casado/a,Particular,Beca parcial,Semi-presencial,4,9.83,7.85,2,4,87.4,21.0,27.9,2,294.0,2,6.2,0,,,
+EST-2021-0109,2022-S1,Psicología,Guayas,Urbana,M,27,Soltero/a,Particular,Beca parcial,Semi-presencial,6,6.98,7.9,1,7,82.0,14.0,,3,249.0,0,8.8,0,,,
+EST-2022-0110,2022-S2,Arquitectura,Azuay,Urbana,M,27,Soltero/a,Fiscal,Beca parcial,Semi-presencial,4,7.81,8.07,1,8,76.6,42.0,6.4,1,1895.0,3,3.9,1,2024-02-15,Laboral,5.0
+EST-2023-0111,2023-S1,Psicología,Guayas,Rural,F,22,Soltero/a,Particular,Recursos propios,Presencial,4,7.45,9.01,1,5,56.0,40.0,37.5,3,621.0,5,6.2,1,2024-01-08,Laboral,5.0
+EST-2024-0112,2022-S1,Contabilidad,Azuay,Urbana,F,22,Soltero/a,Particular,Recursos propios,Presencial,2,7.6,7.5,1,5,85.4,41.0,29.7,2,508.0,5,6.2,0,,,
+EST-2025-0113,2022-S1,Arquitectura,Guayas,Urbana,M,22,Casado/a,Fiscal,Beca completa,Presencial,6,6.6,4.17,1,6,91.5,0.0,4.2,5,907.0,3,5.1,0,,,
+EST-2020-0114,2022-S2,Ciencia de Datos,Azuay,Rural,F,22,Soltero/a,Fiscal,Recursos propios,Semi-presencial,3,7.27,10.0,0,5,65.1,0.0,6.9,2,748.0,5,6.3,0,,,
+EST-2021-0115,2023-S1,Administración de Empresas,Pichincha,Rural,M,27,Soltero/a,Fiscomisional,Beca parcial,Presencial,2,7.5,6.83,2,8,100.0,0.0,2.1,5,223.0,3,7.2,0,,,
+EST-2022-0116,2023-S1,Arquitectura,Tungurahua,Urbana,M,26,Casado/a,Fiscal,Credito educativo,Presencial,2,8.66,5.16,4,4,92.4,0.0,18.6,0,1747.0,1,3.9,1,2024-08-02,Academico,2.0
+EST-2023-0117,2022-S1,Ingeniería Civil,Guayas,Urbana,M,25,Casado/a,Particular,Credito educativo,Presencial,3,7.85,6.14,2,7,85.2,12.0,,2,1163.0,1,6.3,0,,,
+EST-2024-0118,2023-S2,Derecho,Pichincha,Urbana,F,17,Casado/a,Fiscal,Beca parcial,Presencial,1,7.24,5.86,1,8,77.1,0.0,27.9,1,421.0,3,4.5,1,2024-04-05,Academico,2.0
+EST-2025-0119,2022-S2,Psicología,El Oro,Urbana,F,19,Soltero/a,Fiscal,Beca completa,Presencial,3,7.37,6.24,0,4,91.2,0.0,2.4,1,240.0,2,5.8,0,,,
+EST-2020-0120,2022-S2,Administración de Empresas,Pichincha,Urbana,M,23,Casado/a,Fiscal,Recursos propios,Presencial,1,8.71,7.1,2,6,100.0,27.0,19.2,2,643.0,3,6.1,0,,,
+EST-2021-0121,2022-S1,Psicología,Pichincha,Urbana,F,27,Soltero/a,Fiscomisional,Credito educativo,Semi-presencial,5,6.75,6.79,1,8,77.7,0.0,19.6,0,664.0,5,6.2,0,,,
+EST-2022-0122,2023-S2,Derecho,Pichincha,Urbana,F,17,Union libre,Fiscal,Beca parcial,Presencial,1,7.01,10.0,1,4,69.7,19.0,34.3,1,251.0,0,5.0,0,,,
+EST-2023-0123,2022-S2,Psicología,Pichincha,Urbana,M,19,Soltero/a,Fiscal,Recursos propios,Semi-presencial,5,6.98,4.31,3,8,72.2,0.0,7.1,1,555.0,2,6.0,0,,,
+EST-2024-0124,2022-S2,Administración de Empresas,Guayas,Rural,F,26,Soltero/a,Fiscal,Credito educativo,Presencial,3,8.9,6.28,2,6,67.0,42.0,5.8,1,659.0,2,5.5,1,2024-08-07,Laboral,3.0
+EST-2025-0125,2022-S2,Medicina,Pichincha,Urbana,M,18,Soltero/a,Fiscal,Recursos propios,Presencial,4,8.88,7.03,0,6,87.3,43.0,8.6,3,476.0,0,7.3,0,,,
+EST-2020-0126,2022-S1,Psicología,Loja,Urbana,M,24,Union libre,Fiscal,Beca parcial,Presencial,6,8.45,6.04,1,7,82.0,0.0,9.4,3,200.0,3,5.8,0,,,
+EST-2021-0127,2023-S1,Contabilidad,Pichincha,Rural,M,27,Soltero/a,Particular,Credito educativo,Presencial,1,9.74,7.05,1,6,89.0,0.0,33.1,0,573.0,3,5.6,0,,,
+EST-2022-0128,2023-S2,Administración de Empresas,Esmeraldas,Urbana,F,23,Union libre,Fiscal,Recursos propios,Presencial,6,10.0,9.26,1,4,90.6,27.0,6.4,4,847.0,2,9.0,0,,,
+EST-2023-0129,2022-S1,Psicología,Azuay,Rural,M,22,Soltero/a,Particular,Beca completa,Presencial,1,9.5,7.04,0,7,62.0,0.0,0.9,0,573.0,1,5.9,0,,,
+EST-2024-0130,2022-S2,Derecho,Guayas,Urbana,F,21,Union libre,Fiscal,Beca parcial,Presencial,2,7.43,,1,4,50.1,0.0,15.3,3,531.0,5,4.7,1,2024-07-02,Personal,2.0
+EST-2025-0131,2023-S2,Derecho,Chimborazo,Rural,M,21,Soltero/a,Fiscal,Beca parcial,Presencial,5,7.64,7.33,1,4,44.0,0.0,37.1,0,502.0,4,5.6,0,,,
+EST-2020-0132,2023-S2,Ingeniería Civil,Guayas,Urbana,M,19,Soltero/a,Fiscal,Beca parcial,Semi-presencial,3,5.68,8.36,2,5,99.9,0.0,3.1,0,548.0,2,,0,,,
+EST-2021-0133,2023-S1,Derecho,Manabí,Urbana,F,22,Soltero/a,Fiscal,Recursos propios,Presencial,5,7.61,6.81,0,4,91.2,0.0,57.4,1,525.0,3,6.9,0,,,
+EST-2022-0134,2023-S2,Administración de Empresas,Manabí,Urbana,F,23,Casado/a,Fiscal,Credito educativo,Presencial,3,5.81,5.76,2,7,76.0,39.0,12.0,0,404.0,4,7.4,1,2024-04-09,Laboral,4.0
+EST-2023-0135,2023-S2,Contabilidad,Imbabura,Rural,F,20,Casado/a,Fiscomisional,Credito educativo,Presencial,2,8.48,7.93,4,5,81.1,0.0,11.4,1,555.0,3,5.4,0,,,
+EST-2024-0136,2022-S2,Arquitectura,Guayas,Urbana,F,23,Union libre,Particular,Beca parcial,Semi-presencial,4,6.35,8.73,3,4,71.4,34.0,11.1,2,716.0,3,7.8,1,2024-04-04,Personal,4.0
+EST-2025-0137,2023-S2,Ciencia de Datos,Chimborazo,Urbana,M,23,Soltero/a,Particular,Beca parcial,Semi-presencial,3,8.79,6.14,2,7,81.8,13.0,10.9,4,491.0,4,6.5,0,,,
+EST-2020-0138,2022-S1,Contabilidad,Pichincha,Urbana,F,18,Soltero/a,Fiscomisional,Recursos propios,Semi-presencial,3,8.32,7.39,1,8,100.0,22.0,26.9,2,482.0,2,9.5,0,,,
+EST-2021-0139,2023-S1,Ciencia de Datos,Guayas,Urbana,F,19,Union libre,Particular,Beca completa,Semi-presencial,5,8.23,8.59,2,6,88.6,0.0,7.5,3,369.0,1,4.6,0,,,
+EST-2022-0140,2022-S2,Contabilidad,Manabí,Urbana,F,19,Union libre,Fiscal,Beca parcial,Presencial,1,6.96,5.81,2,5,82.9,0.0,6.5,1,1254.0,3,6.8,0,,,
+EST-2023-0141,2022-S2,Ciencia de Datos,Azuay,Urbana,M,27,Casado/a,Fiscal,Beca completa,Presencial,3,7.33,6.66,0,4,79.8,0.0,61.7,1,927.0,0,6.7,1,2024-04-04,Economico,3.0
+EST-2024-0142,2023-S2,Medicina,Azuay,Urbana,M,26,Soltero/a,Particular,Beca parcial,Presencial,4,5.62,8.66,4,6,77.2,0.0,3.7,2,1187.0,5,2.3,0,,,
+EST-2025-0143,2022-S2,Ingeniería Civil,Pichincha,Urbana,M,26,Soltero/a,Particular,Credito educativo,Semi-presencial,6,8.11,8.46,0,7,63.2,33.0,21.2,2,357.0,2,9.2,0,,,
+EST-2020-0144,2022-S1,Contabilidad,Manabí,Rural,F,27,Casado/a,Fiscal,Recursos propios,Presencial,5,6.85,6.16,0,5,81.7,34.0,33.2,4,534.0,4,6.3,1,2024-08-12,Laboral,6.0
+EST-2021-0145,2023-S1,Contabilidad,Azuay,Rural,F,22,Soltero/a,Particular,Beca completa,Presencial,6,9.77,7.44,1,4,87.4,26.0,43.7,1,322.0,4,10.0,0,,,
+EST-2022-0146,2022-S2,Ciencia de Datos,Imbabura,Urbana,F,19,Soltero/a,Fiscal,Beca parcial,Presencial,3,7.62,7.68,1,7,83.1,0.0,9.9,3,871.0,4,,0,,,
+EST-2023-0147,2023-S1,Ingeniería Civil,Tungurahua,Urbana,M,22,Soltero/a,Fiscal,Beca completa,Presencial,4,10.0,9.67,1,8,62.1,0.0,21.3,4,588.0,2,8.1,0,,,
+EST-2024-0148,2022-S2,Ciencia de Datos,Loja,Urbana,F,27,Soltero/a,Fiscal,Beca parcial,Semi-presencial,5,5.76,,1,5,98.2,40.0,12.0,2,543.0,1,4.8,0,,,
+EST-2025-0149,2023-S1,Arquitectura,Azuay,Urbana,F,23,Soltero/a,Fiscal,Beca completa,Presencial,5,8.19,9.92,1,8,89.5,0.0,3.6,2,647.0,1,4.5,0,,,
+EST-2020-0150,2022-S2,Ingeniería Civil,Manabí,Urbana,F,18,Soltero/a,Fiscal,Recursos propios,Semi-presencial,4,9.21,9.27,0,4,98.9,0.0,12.9,1,359.0,4,4.6,0,,,
+EST-2021-0151,2023-S1,Ingeniería Civil,Guayas,Rural,F,17,Union libre,Fiscal,Beca parcial,Semi-presencial,1,8.7,6.41,3,6,76.7,10.0,16.0,1,719.0,1,5.9,1,2024-01-25,Laboral,1.0
+EST-2022-0152,2023-S2,Administración de Empresas,Imbabura,Urbana,F,22,Casado/a,Particular,Recursos propios,Presencial,4,8.13,5.42,2,5,100.0,0.0,25.5,0,438.0,5,5.4,0,,,
+EST-2023-0153,2023-S2,Contabilidad,Chimborazo,Urbana,M,19,Casado/a,Particular,Recursos propios,Semi-presencial,3,8.63,6.38,2,6,49.4,38.0,49.7,3,1473.0,5,,1,2024-04-01,Personal,4.0
+EST-2024-0154,2022-S1,Derecho,El Oro,Rural,M,22,Soltero/a,Particular,Recursos propios,Semi-presencial,3,6.0,,1,4,75.5,33.0,21.5,0,456.0,0,6.2,1,2024-02-23,Academico,3.0
+EST-2025-0155,2022-S2,Administración de Empresas,Pichincha,Urbana,M,20,Soltero/a,Fiscal,Beca parcial,Semi-presencial,4,6.19,4.74,0,5,73.0,18.0,30.2,1,800.0,1,3.7,1,2024-01-26,Personal,5.0
+EST-2020-0156,2023-S1,Administración de Empresas,Guayas,Rural,F,22,Casado/a,Fiscal,Beca completa,Presencial,4,9.22,6.77,0,8,73.8,0.0,9.9,1,558.0,4,6.2,0,,,
+EST-2021-0157,2022-S2,Ciencia de Datos,Manabí,Urbana,M,18,Soltero/a,Fiscal,Recursos propios,Semi-presencial,5,8.27,8.58,1,4,80.0,0.0,14.6,2,587.0,5,9.2,0,,,
+EST-2022-0158,2023-S1,Arquitectura,Loja,Urbana,F,22,Soltero/a,Particular,Beca completa,Presencial,6,7.47,7.05,3,7,66.7,20.0,40.6,2,825.0,4,,0,,,
+EST-2023-0159,2023-S1,Medicina,Tungurahua,Rural,F,26,Soltero/a,Fiscal,Recursos propios,Presencial,3,7.74,8.72,2,6,77.8,0.0,23.7,3,572.0,0,7.0,1,2024-04-20,Personal,4.0
+EST-2024-0160,2022-S1,Administración de Empresas,Tungurahua,Rural,F,24,Soltero/a,Particular,Beca parcial,Semi-presencial,1,8.09,8.95,2,4,79.3,0.0,48.6,3,770.0,3,7.0,0,,,
+EST-2025-0161,2022-S1,Psicología,Manabí,Urbana,F,23,Casado/a,Fiscal,Beca parcial,Presencial,4,7.65,5.62,1,6,88.5,0.0,5.8,1,419.0,4,7.7,0,,,
+EST-2020-0162,2023-S1,Ciencia de Datos,Manabí,Urbana,F,19,Casado/a,Fiscomisional,Credito educativo,Presencial,1,10.0,8.6,2,4,81.4,0.0,12.5,1,1261.0,4,7.4,0,,,
+EST-2021-0163,2022-S2,Medicina,Tungurahua,Rural,F,23,Soltero/a,Fiscal,Recursos propios,Presencial,5,7.66,9.08,4,7,68.6,0.0,2.1,3,790.0,2,3.3,1,2024-02-19,Laboral,6.0
+EST-2022-0164,2023-S2,Arquitectura,Pichincha,Urbana,F,17,Soltero/a,Particular,Credito educativo,Presencial,3,7.98,6.06,1,8,88.7,27.0,4.0,3,1298.0,3,5.5,0,,,
+EST-2023-0165,2023-S2,Contabilidad,Guayas,Urbana,M,27,Soltero/a,Particular,Recursos propios,Presencial,5,8.75,7.79,1,8,73.9,0.0,21.4,0,1242.0,4,5.8,0,,,
+EST-2024-0166,2022-S1,Ciencia de Datos,Imbabura,Rural,F,26,Soltero/a,Particular,Recursos propios,Presencial,1,10.0,6.56,4,5,66.3,15.0,24.6,3,625.0,0,5.5,1,2024-05-05,Academico,1.0
+EST-2025-0167,2023-S2,Contabilidad,Chimborazo,Urbana,F,20,Casado/a,Fiscal,Credito educativo,Presencial,3,9.17,5.37,3,8,70.9,0.0,18.1,2,302.0,5,7.7,1,2024-03-16,Personal,3.0
+EST-2020-0168,2023-S1,Psicología,Esmeraldas,Rural,M,20,Soltero/a,Fiscal,Recursos propios,Presencial,2,8.17,5.05,2,4,53.6,41.0,87.2,2,969.0,4,6.9,1,2024-05-05,Economico,3.0
+EST-2021-0169,2023-S1,Derecho,Guayas,Urbana,M,25,Soltero/a,Fiscal,Credito educativo,Presencial,4,6.75,5.91,0,7,75.2,24.0,33.0,0,958.0,2,7.4,0,,,
+EST-2022-0170,2022-S1,Derecho,Azuay,Urbana,F,24,Soltero/a,Particular,Beca parcial,Presencial,2,10.0,6.09,0,7,81.6,0.0,7.9,3,582.0,4,3.4,0,,,
+EST-2023-0171,2022-S2,Medicina,Pichincha,Urbana,M,26,Soltero/a,Particular,Credito educativo,Presencial,3,8.25,6.46,1,7,55.2,0.0,16.3,2,955.0,5,6.6,0,,,
+EST-2024-0172,2022-S1,Administración de Empresas,Chimborazo,Urbana,M,27,Soltero/a,Fiscal,Credito educativo,Presencial,6,10.0,8.56,1,5,66.1,13.0,9.3,1,524.0,0,5.4,1,2024-08-05,Academico,6.0
+EST-2025-0173,2022-S2,Arquitectura,Chimborazo,Urbana,M,21,Soltero/a,Particular,Beca parcial,Presencial,6,7.35,4.98,0,6,85.8,0.0,0.5,1,766.0,4,4.5,0,,,
+EST-2020-0174,2023-S1,Ingeniería Civil,Pichincha,Urbana,M,17,Soltero/a,Particular,Recursos propios,Presencial,2,8.55,8.57,1,8,74.7,0.0,39.8,0,383.0,2,6.5,0,,,
+EST-2021-0175,2022-S1,Arquitectura,Pichincha,Urbana,M,20,Soltero/a,Fiscomisional,Credito educativo,Presencial,3,5.88,6.71,0,4,67.0,18.0,10.9,1,728.0,1,,0,,,
+EST-2022-0176,2022-S2,Ingeniería Civil,Pichincha,Urbana,F,27,Union libre,Fiscal,Beca completa,Presencial,5,6.55,9.23,0,7,93.9,0.0,9.2,2,623.0,3,8.2,0,,,
+EST-2023-0177,2023-S2,Ingeniería Civil,Guayas,Urbana,F,26,Union libre,Fiscal,Credito educativo,Presencial,2,8.1,6.26,1,7,100.0,10.0,19.9,0,1734.0,3,5.4,0,,,
+EST-2024-0178,2022-S2,Ingeniería Civil,Esmeraldas,Rural,M,21,Soltero/a,Fiscal,Credito educativo,Presencial,2,7.79,6.27,2,7,99.8,38.0,8.8,4,685.0,1,3.8,1,2024-07-20,Economico,3.0
+EST-2025-0179,2023-S1,Medicina,Pichincha,Urbana,M,19,Casado/a,Fiscomisional,Recursos propios,Presencial,6,9.08,6.87,1,4,87.8,0.0,18.7,0,1631.0,2,5.7,0,,,
+EST-2020-0180,2022-S2,Derecho,Chimborazo,Rural,F,26,Soltero/a,Particular,Recursos propios,Presencial,3,7.8,9.21,2,4,56.6,0.0,4.5,1,649.0,0,7.7,0,,,
+EST-2021-0181,2023-S2,Arquitectura,Chimborazo,Urbana,M,23,Casado/a,Fiscal,Beca completa,Presencial,6,10.0,8.72,1,7,81.9,37.0,4.4,1,518.0,0,6.4,0,,,
+EST-2022-0182,2023-S1,Psicología,Guayas,Rural,F,27,Soltero/a,Fiscal,Recursos propios,Presencial,6,5.94,8.44,1,7,41.3,35.0,27.9,3,2934.0,5,9.5,1,2024-08-09,Personal,7.0
+EST-2023-0183,2022-S2,Derecho,Esmeraldas,Rural,F,24,Soltero/a,Fiscal,Beca completa,Presencial,2,8.94,,2,5,81.5,0.0,0.7,0,454.0,0,5.7,0,,,
+EST-2024-0184,2023-S2,Ingeniería Civil,Manabí,Urbana,M,26,Soltero/a,Fiscal,Beca parcial,Semi-presencial,3,8.82,,2,7,71.0,0.0,21.1,3,498.0,1,6.2,0,,,
+EST-2025-0185,2022-S1,Psicología,Manabí,Rural,F,25,Soltero/a,Fiscal,Beca parcial,Presencial,5,7.92,7.23,1,4,100.0,0.0,6.3,6,719.0,5,6.9,0,,,
+EST-2020-0186,2022-S2,Medicina,Manabí,Rural,F,27,Soltero/a,Particular,Beca completa,Semi-presencial,1,7.48,,2,5,57.7,0.0,6.0,0,543.0,1,6.6,1,2024-05-08,Economico,1.0
+EST-2021-0187,2022-S2,Contabilidad,Loja,Rural,F,27,Soltero/a,Particular,Beca parcial,Semi-presencial,3,7.0,4.89,1,8,81.2,37.0,9.5,1,1372.0,5,8.3,0,,,
+EST-2022-0188,2023-S2,Derecho,Chimborazo,Urbana,F,18,Soltero/a,Fiscal,Beca parcial,Presencial,5,9.15,8.25,0,8,78.4,39.0,31.9,3,972.0,4,,0,,,
+EST-2023-0189,2023-S1,Medicina,El Oro,Urbana,M,17,Soltero/a,Fiscal,Beca parcial,Presencial,2,7.32,8.22,4,4,70.0,40.0,31.9,2,1285.0,5,6.5,1,2024-01-25,Economico,2.0
+EST-2024-0190,2023-S1,Ingeniería Civil,Pichincha,Urbana,M,24,Soltero/a,Particular,Beca parcial,Semi-presencial,5,7.58,7.53,1,8,100.0,0.0,39.7,3,2969.0,2,6.0,0,,,
+EST-2025-0191,2022-S1,Administración de Empresas,Manabí,Urbana,F,20,Casado/a,Particular,Beca completa,Presencial,6,9.52,8.54,0,8,85.1,0.0,33.5,0,943.0,3,5.2,0,,,
+EST-2020-0192,2022-S2,Ciencia de Datos,Pichincha,Urbana,F,24,Casado/a,Fiscal,Recursos propios,Semi-presencial,6,7.91,5.95,0,5,88.3,23.0,6.9,0,595.0,5,5.4,0,,,
+EST-2021-0193,2023-S2,Ingeniería Civil,Tungurahua,Urbana,F,27,Soltero/a,Fiscal,Credito educativo,Presencial,1,6.09,,1,4,75.4,31.0,,1,282.0,1,7.3,1,2024-08-03,Academico,2.0
+EST-2022-0194,2022-S1,Ingeniería Civil,Guayas,Rural,M,17,Soltero/a,Fiscal,Beca completa,Presencial,5,7.57,,0,7,83.8,38.0,5.5,4,829.0,5,3.9,1,2024-03-17,Academico,6.0
+EST-2023-0195,2022-S2,Contabilidad,Azuay,Rural,M,19,Soltero/a,Fiscal,Recursos propios,Presencial,1,8.99,,0,7,71.2,17.0,6.3,2,550.0,5,7.2,0,,,
+EST-2024-0196,2023-S2,Arquitectura,El Oro,Urbana,F,25,Casado/a,Fiscal,Beca parcial,Presencial,4,9.34,6.24,0,5,85.7,0.0,7.9,1,838.0,1,8.9,0,,,
+EST-2025-0197,2023-S1,Administración de Empresas,Guayas,Urbana,F,19,Soltero/a,Fiscal,Beca completa,Presencial,4,8.48,6.0,1,6,68.6,18.0,12.9,0,200.0,4,7.4,0,,,
+EST-2020-0198,2023-S2,Arquitectura,Guayas,Urbana,M,20,Casado/a,Fiscal,Recursos propios,Semi-presencial,2,6.82,8.04,0,5,71.8,0.0,0.5,2,385.0,1,5.9,0,,,
+EST-2021-0199,2023-S1,Administración de Empresas,Loja,Rural,M,25,Casado/a,Fiscal,Beca parcial,Presencial,3,7.39,7.12,2,4,84.2,0.0,3.3,2,1097.0,0,5.3,0,,,
+EST-2022-0200,2023-S1,Administración de Empresas,Loja,Urbana,F,20,Casado/a,Fiscomisional,Beca parcial,Semi-presencial,2,10.0,8.25,2,4,97.3,0.0,33.2,1,369.0,2,10.0,0,,,
+EST-2023-0201,2023-S1,Psicología,Guayas,Urbana,F,23,Casado/a,Particular,Recursos propios,Presencial,5,7.31,7.41,2,8,68.7,32.0,6.1,2,758.0,2,6.9,0,,,
+EST-2024-0202,2022-S2,Contabilidad,Manabí,Urbana,F,22,Soltero/a,Particular,Credito educativo,Presencial,1,7.68,8.47,3,8,69.4,0.0,2.3,3,1218.0,2,5.3,0,,,
+EST-2025-0203,2022-S1,Ciencia de Datos,Azuay,Urbana,M,18,Soltero/a,Particular,Recursos propios,Presencial,2,7.06,6.45,0,5,71.3,0.0,23.8,1,2997.0,3,4.8,0,,,
+EST-2020-0204,2022-S1,Arquitectura,Loja,Urbana,M,21,Soltero/a,Particular,Recursos propios,Semi-presencial,2,10.0,5.14,2,7,83.0,34.0,16.7,3,1307.0,1,5.0,0,,,
+EST-2021-0205,2022-S2,Ciencia de Datos,Tungurahua,Urbana,F,17,Soltero/a,Particular,Beca completa,Presencial,5,8.57,6.09,3,7,49.0,0.0,23.4,1,865.0,1,9.4,0,,,
+EST-2022-0206,2023-S1,Derecho,Manabí,Urbana,F,27,Soltero/a,Particular,Beca parcial,Presencial,4,7.88,7.2,1,4,52.0,0.0,30.1,1,439.0,5,7.4,0,,,
+EST-2023-0207,2023-S1,Psicología,Chimborazo,Urbana,M,26,Soltero/a,Fiscal,Credito educativo,Presencial,4,7.03,,1,6,53.8,0.0,3.7,3,483.0,5,9.0,1,2024-08-24,Academico,4.0
+EST-2024-0208,2023-S2,Psicología,Guayas,Urbana,M,20,Soltero/a,Fiscal,Recursos propios,Semi-presencial,1,7.55,5.53,2,6,71.5,0.0,21.8,2,1311.0,2,7.0,0,,,
+EST-2025-0209,2023-S1,Ciencia de Datos,Imbabura,Urbana,F,17,Soltero/a,Fiscal,Recursos propios,Presencial,2,7.33,5.73,2,8,100.0,0.0,14.2,2,574.0,0,5.8,0,,,
+EST-2020-0210,2023-S1,Derecho,Pichincha,Rural,M,24,Soltero/a,Fiscal,Beca parcial,Presencial,3,9.27,2.32,1,6,52.9,0.0,36.7,0,531.0,2,,1,2024-04-26,Laboral,4.0
+EST-2021-0211,2023-S1,Ciencia de Datos,Pichincha,Urbana,M,22,Soltero/a,Particular,Beca parcial,Presencial,2,6.95,4.97,0,4,39.8,0.0,9.6,1,410.0,4,7.1,1,2024-02-16,Academico,3.0
+EST-2022-0212,2022-S1,Medicina,Pichincha,Urbana,F,25,Soltero/a,Particular,Beca completa,Presencial,4,8.4,6.65,2,8,98.0,0.0,,5,683.0,4,,0,,,
+EST-2023-0213,2023-S1,Administración de Empresas,Pichincha,Urbana,F,25,Union libre,Particular,Beca parcial,Presencial,3,7.28,6.67,0,8,76.4,0.0,64.7,2,361.0,5,4.4,0,,,
+EST-2024-0214,2023-S2,Administración de Empresas,Pichincha,Urbana,M,27,Soltero/a,Particular,Beca parcial,Presencial,5,6.5,8.01,1,6,98.0,0.0,,0,362.0,3,9.8,0,,,
+EST-2025-0215,2022-S2,Contabilidad,Azuay,Rural,F,17,Soltero/a,Fiscal,Beca parcial,Presencial,4,7.14,,0,8,65.4,23.0,11.9,2,332.0,1,10.0,1,2024-03-20,Academico,5.0
+EST-2020-0216,2022-S2,Administración de Empresas,Loja,Urbana,F,22,Soltero/a,Fiscal,Recursos propios,Presencial,3,8.11,8.64,0,8,73.3,0.0,2.4,2,860.0,1,4.2,0,,,
+EST-2021-0217,2023-S1,Ciencia de Datos,El Oro,Urbana,F,18,Soltero/a,Particular,Recursos propios,Presencial,2,7.09,7.4,1,7,72.1,0.0,0.5,4,686.0,2,4.0,0,,,
+EST-2022-0218,2022-S2,Psicología,Loja,Rural,F,21,Soltero/a,Fiscal,Beca parcial,Presencial,4,8.02,8.11,2,4,72.5,36.0,14.7,2,1047.0,1,7.9,1,2024-04-21,Economico,4.0
+EST-2023-0219,2023-S1,Ingeniería Civil,Manabí,Urbana,M,21,Soltero/a,Particular,Beca completa,Presencial,1,6.42,7.79,1,7,71.2,0.0,10.5,2,655.0,2,7.2,0,,,
+EST-2024-0220,2023-S2,Derecho,Manabí,Rural,F,20,Union libre,Fiscomisional,Beca parcial,Semi-presencial,5,7.85,4.14,0,7,95.7,32.0,13.3,0,891.0,3,8.6,0,,,
+EST-2025-0221,2022-S1,Ingeniería Civil,Loja,Urbana,F,23,Soltero/a,Fiscal,Credito educativo,Presencial,1,7.56,7.86,3,4,72.3,40.0,0.5,1,857.0,5,5.5,1,2024-04-03,Personal,1.0
+EST-2020-0222,2022-S1,Ciencia de Datos,El Oro,Urbana,M,24,Soltero/a,Fiscal,Recursos propios,Presencial,6,6.79,8.26,1,7,64.0,0.0,17.1,0,1005.0,4,,0,,,
+EST-2021-0223,2023-S1,Ciencia de Datos,Manabí,Urbana,F,21,Soltero/a,Particular,Credito educativo,Presencial,3,8.12,,1,4,82.7,0.0,5.6,2,451.0,4,5.3,0,,,
+EST-2022-0224,2022-S1,Ciencia de Datos,El Oro,Urbana,M,27,Soltero/a,Particular,Beca parcial,Semi-presencial,3,6.93,6.85,0,8,80.2,0.0,34.1,0,631.0,2,7.0,0,,,
+EST-2023-0225,2022-S2,Derecho,Tungurahua,Urbana,M,23,Casado/a,Particular,Credito educativo,Presencial,1,10.0,6.52,1,6,87.4,25.0,20.2,2,541.0,3,6.7,0,,,
+EST-2024-0226,2022-S2,Contabilidad,Guayas,Rural,M,27,Soltero/a,Particular,Credito educativo,Presencial,5,9.5,8.22,2,4,90.5,11.0,9.9,2,637.0,5,4.1,0,,,
+EST-2025-0227,2022-S1,Contabilidad,Loja,Urbana,F,23,Union libre,Fiscal,Beca completa,Presencial,3,7.93,8.29,3,4,78.5,18.0,13.1,0,365.0,2,3.7,1,2024-04-12,Economico,3.0
+EST-2020-0228,2022-S1,Administración de Empresas,Manabí,Rural,M,22,Soltero/a,Fiscomisional,Recursos propios,Semi-presencial,1,7.38,5.69,0,7,58.6,0.0,1.2,3,655.0,2,8.1,0,,,
+EST-2021-0229,2023-S2,Arquitectura,Manabí,Urbana,M,25,Casado/a,Fiscal,Beca completa,Presencial,4,8.01,6.46,3,5,70.5,19.0,15.0,2,515.0,0,6.6,1,2024-02-15,Academico,5.0
+EST-2022-0230,2022-S2,Administración de Empresas,Azuay,Urbana,F,20,Soltero/a,Fiscal,Beca parcial,Presencial,6,7.54,5.62,5,8,40.6,11.0,43.2,2,487.0,2,4.8,1,2024-04-09,Economico,7.0
+EST-2023-0231,2022-S1,Ingeniería Civil,Manabí,Rural,F,23,Soltero/a,Particular,Credito educativo,Presencial,3,8.84,8.28,1,8,70.7,0.0,28.6,3,924.0,1,2.5,0,,,
+EST-2024-0232,2022-S1,Arquitectura,Esmeraldas,Urbana,F,24,Soltero/a,Fiscomisional,Beca completa,Semi-presencial,3,8.58,6.98,0,6,68.2,0.0,11.8,0,814.0,0,4.5,0,,,
+EST-2025-0233,2023-S1,Derecho,El Oro,Urbana,F,22,Casado/a,Fiscomisional,Recursos propios,Presencial,5,7.2,7.4,1,7,86.8,25.0,15.3,2,294.0,0,8.9,0,,,
+EST-2020-0234,2022-S1,Psicología,Tungurahua,Urbana,M,24,Soltero/a,Particular,Beca completa,Presencial,4,8.9,7.04,1,5,97.3,25.0,14.4,3,416.0,5,6.1,0,,,
+EST-2021-0235,2023-S1,Contabilidad,El Oro,Urbana,M,23,Casado/a,Fiscomisional,Recursos propios,Presencial,5,6.93,6.53,0,4,88.5,0.0,18.6,2,1649.0,2,6.1,0,,,
+EST-2022-0236,2022-S2,Derecho,El Oro,Urbana,F,20,Casado/a,Fiscal,Beca parcial,Semi-presencial,3,6.24,5.02,0,5,82.5,40.0,6.1,4,965.0,1,7.1,1,2024-08-10,Economico,3.0
+EST-2023-0237,2022-S2,Contabilidad,Guayas,Urbana,M,18,Casado/a,Particular,Beca completa,Presencial,4,7.71,8.82,0,4,100.0,0.0,5.1,3,769.0,0,6.4,0,,,
+EST-2024-0238,2022-S1,Contabilidad,Guayas,Urbana,M,17,Casado/a,Fiscomisional,Credito educativo,Presencial,2,7.77,7.41,2,8,84.1,15.0,23.6,2,3010.0,5,5.0,0,,,
+EST-2025-0239,2023-S2,Ciencia de Datos,Loja,Urbana,F,26,Soltero/a,Particular,Credito educativo,Semi-presencial,3,7.35,9.46,1,8,71.1,0.0,14.8,0,222.0,4,8.2,0,,,
+EST-2020-0240,2023-S1,Contabilidad,Pichincha,Rural,M,17,Soltero/a,Fiscal,Credito educativo,Presencial,4,6.65,9.41,1,8,82.2,13.0,0.9,0,870.0,5,7.3,0,,,
+EST-2021-0241,2022-S1,Administración de Empresas,Guayas,Urbana,M,22,Soltero/a,Fiscal,Recursos propios,Semi-presencial,4,8.94,7.41,1,6,51.1,0.0,10.1,3,250.0,1,6.2,1,2024-06-02,Economico,4.0
+EST-2022-0242,2022-S2,Medicina,Chimborazo,Urbana,M,27,Soltero/a,Particular,Beca completa,Semi-presencial,2,8.03,7.13,0,5,96.1,12.0,21.4,4,622.0,3,4.1,0,,,
+EST-2023-0243,2022-S1,Ingeniería Civil,Tungurahua,Urbana,M,24,Soltero/a,Fiscal,Recursos propios,Presencial,6,7.12,8.79,1,8,78.2,0.0,17.8,2,886.0,5,8.5,0,,,
+EST-2024-0244,2022-S2,Psicología,Guayas,Urbana,F,20,Soltero/a,Fiscal,Beca parcial,Presencial,1,7.8,5.69,0,5,84.0,32.0,27.3,2,225.0,2,5.0,0,,,
+EST-2025-0245,2022-S1,Contabilidad,Pichincha,Urbana,M,21,Casado/a,Fiscal,Recursos propios,Presencial,3,6.04,,2,6,94.3,0.0,,1,700.0,3,6.7,0,,,
+EST-2020-0246,2023-S1,Ciencia de Datos,Guayas,Urbana,M,27,Soltero/a,Fiscomisional,Beca parcial,Presencial,3,8.53,6.41,1,6,76.8,0.0,30.0,2,829.0,1,,0,,,
+EST-2021-0247,2023-S2,Ciencia de Datos,Guayas,Urbana,F,23,Casado/a,Fiscal,Recursos propios,Semi-presencial,6,9.0,5.21,1,4,90.2,0.0,17.0,2,200.0,1,6.7,0,,,
+EST-2022-0248,2022-S1,Psicología,Esmeraldas,Urbana,F,21,Soltero/a,Fiscal,Recursos propios,Presencial,4,8.36,6.95,1,7,92.6,0.0,,2,593.0,3,5.0,0,,,
+EST-2023-0249,2023-S2,Arquitectura,Chimborazo,Rural,M,17,Casado/a,Fiscal,Credito educativo,Presencial,4,7.25,7.64,1,5,53.2,18.0,10.0,2,816.0,4,3.6,1,2024-04-14,Economico,5.0
+EST-2024-0250,2022-S2,Derecho,Manabí,Urbana,M,26,Soltero/a,Particular,Recursos propios,Presencial,3,8.56,6.16,1,6,80.4,0.0,27.5,3,1131.0,3,5.5,0,,,
+EST-2025-0251,2023-S1,Derecho,Manabí,Urbana,F,20,Casado/a,Fiscal,Credito educativo,Semi-presencial,4,8.84,8.86,1,5,90.2,0.0,24.1,1,478.0,2,9.9,0,,,
+EST-2020-0252,2023-S1,Medicina,Pichincha,Urbana,M,17,Soltero/a,Fiscal,Recursos propios,Presencial,5,7.91,8.76,1,5,58.0,0.0,4.5,2,878.0,4,,0,,,
+EST-2021-0253,2022-S1,Psicología,Azuay,Urbana,F,22,Soltero/a,Fiscal,Beca completa,Presencial,5,10.0,6.96,2,6,71.7,0.0,10.6,3,729.0,1,4.2,0,,,
+EST-2022-0254,2023-S1,Administración de Empresas,El Oro,Urbana,M,17,Soltero/a,Fiscal,Recursos propios,Presencial,1,7.75,8.64,1,7,92.3,24.0,1.8,1,1402.0,5,7.0,0,,,
+EST-2023-0255,2022-S1,Administración de Empresas,Pichincha,Urbana,M,22,Soltero/a,Fiscomisional,Credito educativo,Presencial,1,8.15,5.9,0,8,65.4,0.0,0.5,1,577.0,3,4.8,0,,,
+EST-2024-0256,2022-S1,Arquitectura,Pichincha,Urbana,F,19,Soltero/a,Fiscomisional,Credito educativo,Semi-presencial,1,6.82,6.07,2,4,89.7,24.0,35.2,3,358.0,1,7.8,1,2024-05-17,Laboral,2.0
+EST-2025-0257,2023-S1,Medicina,Manabí,Urbana,F,23,Soltero/a,Fiscal,Recursos propios,Presencial,4,7.86,6.44,2,6,86.0,37.0,25.0,5,360.0,5,5.1,1,2024-07-27,Personal,5.0
+EST-2020-0258,2022-S2,Ciencia de Datos,Tungurahua,Urbana,M,18,Soltero/a,Particular,Beca parcial,Presencial,6,7.17,8.2,1,7,78.6,0.0,,0,1073.0,2,3.9,0,,,
+EST-2021-0259,2023-S1,Administración de Empresas,Imbabura,Rural,M,17,Soltero/a,Particular,Beca completa,Presencial,2,8.91,7.55,1,4,75.5,22.0,39.0,2,532.0,2,5.8,0,,,
+EST-2022-0260,2023-S2,Derecho,Guayas,Rural,F,18,Soltero/a,Fiscal,Recursos propios,Presencial,5,8.93,7.78,3,5,43.2,32.0,2.0,2,816.0,4,6.0,1,2024-05-15,Laboral,5.0
+EST-2023-0261,2023-S2,Contabilidad,Esmeraldas,Urbana,M,17,Soltero/a,Particular,Beca completa,Presencial,4,10.0,6.82,1,7,75.8,0.0,16.8,0,1619.0,0,7.0,0,,,
+EST-2024-0262,2022-S2,Ingeniería Civil,Manabí,Rural,F,21,Soltero/a,Particular,Credito educativo,Presencial,3,7.86,9.58,2,8,78.7,32.0,1.4,0,507.0,3,6.1,0,,,
+EST-2025-0263,2022-S2,Contabilidad,Guayas,Rural,F,24,Union libre,Fiscal,Beca parcial,Presencial,3,7.78,,1,8,72.9,0.0,37.0,2,222.0,4,8.1,1,2024-06-15,Economico,4.0
+EST-2020-0264,2022-S2,Psicología,Pichincha,Rural,M,25,Union libre,Fiscal,Beca completa,Presencial,4,6.87,7.8,0,5,95.5,0.0,90.1,4,482.0,4,,0,,,
+EST-2021-0265,2022-S2,Psicología,Pichincha,Urbana,F,26,Soltero/a,Particular,Recursos propios,Presencial,3,7.43,9.0,2,5,79.7,0.0,26.0,2,526.0,1,5.2,0,,,
+EST-2022-0266,2023-S2,Administración de Empresas,Tungurahua,Urbana,F,17,Soltero/a,Fiscal,Credito educativo,Presencial,4,8.51,7.57,2,7,55.8,0.0,12.7,1,582.0,3,5.3,0,,,
+EST-2023-0267,2022-S2,Arquitectura,Imbabura,Urbana,M,19,Soltero/a,Fiscal,Recursos propios,Presencial,3,8.24,8.53,3,5,66.9,0.0,0.5,0,584.0,0,10.0,0,,,
+EST-2024-0268,2023-S1,Ingeniería Civil,Azuay,Urbana,M,18,Soltero/a,Fiscal,Recursos propios,Presencial,5,6.54,6.79,0,7,78.8,0.0,15.8,0,1152.0,0,5.2,0,,,
+EST-2025-0269,2023-S1,Derecho,Tungurahua,Urbana,F,27,Casado/a,Fiscal,Beca completa,Semi-presencial,5,6.8,6.71,0,7,66.7,0.0,35.5,1,574.0,4,6.6,0,,,
+EST-2020-0270,2023-S1,Contabilidad,Azuay,Urbana,M,20,Soltero/a,Fiscal,Recursos propios,Presencial,3,8.64,,0,5,63.2,41.0,23.4,1,1071.0,5,8.1,0,,,
+EST-2021-0271,2023-S2,Psicología,Guayas,Rural,M,25,Soltero/a,Particular,Beca parcial,Presencial,4,7.94,5.19,0,5,100.0,17.0,8.2,1,946.0,3,8.2,0,,,
+EST-2022-0272,2023-S2,Ingeniería Civil,Chimborazo,Urbana,M,25,Casado/a,Fiscal,Beca parcial,Presencial,1,7.89,7.81,0,4,49.5,41.0,0.9,3,304.0,3,9.0,1,2024-07-19,Laboral,1.0
+EST-2023-0273,2022-S1,Arquitectura,Pichincha,Rural,F,18,Soltero/a,Fiscal,Recursos propios,Presencial,3,7.02,7.88,3,4,71.3,17.0,4.5,1,811.0,4,10.0,1,2024-08-13,Personal,4.0
+EST-2024-0274,2023-S2,Arquitectura,Azuay,Rural,M,17,Casado/a,Fiscomisional,Recursos propios,Presencial,2,9.98,7.86,4,7,77.6,33.0,10.4,3,839.0,2,6.0,0,,,
+EST-2025-0275,2022-S2,Ciencia de Datos,Azuay,Urbana,M,19,Union libre,Particular,Beca completa,Presencial,2,8.92,,2,7,100.0,0.0,13.9,0,418.0,0,8.0,0,,,
+EST-2020-0276,2023-S1,Arquitectura,Esmeraldas,Urbana,F,21,Soltero/a,Fiscal,Credito educativo,Presencial,4,6.39,6.35,0,4,84.8,0.0,15.2,3,1084.0,0,6.5,0,,,
+EST-2021-0277,2022-S2,Ingeniería Civil,Chimborazo,Urbana,M,24,Soltero/a,Fiscal,Credito educativo,Presencial,6,5.88,5.87,1,5,71.5,0.0,1.7,1,983.0,4,4.7,0,,,
+EST-2022-0278,2023-S1,Ciencia de Datos,Azuay,Rural,F,23,Soltero/a,Fiscal,Recursos propios,Semi-presencial,4,6.83,7.57,1,4,74.9,11.0,31.3,3,200.0,5,5.8,0,,,
+EST-2023-0279,2022-S1,Arquitectura,Guayas,Urbana,M,23,Casado/a,Fiscal,Beca completa,Presencial,2,7.2,6.4,2,6,71.9,37.0,6.2,4,432.0,0,8.2,1,2024-01-11,Economico,3.0
+EST-2024-0280,2023-S1,Arquitectura,Pichincha,Urbana,M,25,Soltero/a,Fiscomisional,Recursos propios,Semi-presencial,5,9.91,7.62,1,6,68.8,0.0,7.0,2,572.0,2,5.5,0,,,
+EST-2025-0281,2022-S2,Ingeniería Civil,Pichincha,Rural,F,24,Soltero/a,Fiscal,Recursos propios,Semi-presencial,3,8.06,7.52,0,7,56.5,0.0,4.8,1,962.0,1,8.4,1,2024-05-26,Personal,4.0
+EST-2020-0282,2023-S2,Arquitectura,Pichincha,Urbana,F,18,Soltero/a,Fiscal,Beca completa,Presencial,4,8.49,8.44,1,8,78.6,37.0,33.0,1,886.0,0,5.7,0,,,
+EST-2021-0283,2023-S2,Derecho,Azuay,Urbana,M,18,Soltero/a,Particular,Beca completa,Presencial,4,8.85,6.29,3,6,56.2,18.0,5.2,0,1442.0,5,9.1,1,2024-08-14,Personal,4.0
+EST-2022-0284,2023-S1,Contabilidad,Pichincha,Rural,F,22,Soltero/a,Particular,Recursos propios,Semi-presencial,6,7.28,7.57,0,8,69.6,39.0,26.5,0,1323.0,1,5.9,1,2024-08-09,Academico,6.0
+EST-2023-0285,2023-S2,Contabilidad,El Oro,Urbana,M,24,Casado/a,Fiscal,Beca parcial,Presencial,5,7.05,6.56,1,5,92.1,0.0,2.1,2,335.0,0,8.1,0,,,
+EST-2024-0286,2023-S2,Contabilidad,Pichincha,Rural,F,27,Soltero/a,Particular,Credito educativo,Presencial,2,8.75,7.78,0,7,67.1,27.0,21.3,0,568.0,1,7.1,1,2024-01-22,Economico,2.0
+EST-2025-0287,2022-S2,Ingeniería Civil,El Oro,Urbana,M,18,Casado/a,Particular,Beca parcial,Presencial,2,8.02,6.1,0,4,100.0,27.0,29.8,2,1201.0,5,8.0,0,,,
+EST-2020-0288,2022-S1,Psicología,El Oro,Rural,M,17,Soltero/a,Fiscal,Recursos propios,Presencial,1,7.75,8.71,3,5,100.0,24.0,14.5,3,531.0,2,6.8,0,,,
+EST-2021-0289,2023-S1,Administración de Empresas,Guayas,Urbana,F,21,Soltero/a,Fiscal,Recursos propios,Semi-presencial,6,9.43,7.87,1,5,72.9,31.0,19.9,2,297.0,4,5.1,0,,,
+EST-2022-0290,2022-S1,Derecho,El Oro,Urbana,M,24,Casado/a,Fiscal,Recursos propios,Semi-presencial,2,6.27,8.69,0,8,100.0,44.0,7.9,1,360.0,5,6.2,0,,,
+EST-2023-0291,2023-S1,Derecho,Azuay,Urbana,M,19,Union libre,Fiscal,Recursos propios,Semi-presencial,1,9.09,8.19,2,8,64.6,0.0,18.2,5,557.0,4,8.8,0,,,
+EST-2024-0292,2022-S1,Contabilidad,Esmeraldas,Rural,F,24,Casado/a,Particular,Credito educativo,Presencial,3,9.26,6.7,0,5,87.8,20.0,31.0,1,369.0,3,6.8,0,,,
+EST-2025-0293,2023-S2,Ingeniería Civil,Pichincha,Urbana,F,17,Soltero/a,Fiscomisional,Beca parcial,Semi-presencial,6,9.11,7.77,0,7,75.9,26.0,19.0,1,888.0,2,7.5,0,,,
+EST-2020-0294,2023-S2,Contabilidad,Azuay,Urbana,M,17,Soltero/a,Particular,Recursos propios,Presencial,1,7.42,8.01,3,8,78.7,0.0,16.0,2,1892.0,4,5.6,0,,,
+EST-2021-0295,2022-S1,Medicina,Azuay,Rural,F,27,Casado/a,Fiscal,Beca completa,Presencial,6,7.13,8.48,2,4,39.4,0.0,2.0,1,587.0,4,6.5,1,2024-04-16,Personal,7.0
+EST-2022-0296,2022-S1,Contabilidad,Tungurahua,Urbana,M,21,Soltero/a,Fiscal,Credito educativo,Presencial,6,8.18,9.15,0,5,83.5,0.0,4.0,2,480.0,3,6.1,0,,,
+EST-2023-0297,2023-S1,Administración de Empresas,Chimborazo,Urbana,F,27,Soltero/a,Particular,Beca completa,Semi-presencial,2,8.67,6.15,1,7,59.6,0.0,2.5,0,342.0,3,8.6,0,,,
+EST-2024-0298,2023-S1,Ciencia de Datos,Guayas,Urbana,F,21,Soltero/a,Fiscal,Beca parcial,Presencial,1,8.39,5.48,2,6,65.9,0.0,24.7,3,612.0,1,6.2,0,,,
+EST-2025-0299,2023-S2,Ciencia de Datos,Pichincha,Urbana,M,21,Soltero/a,Particular,Recursos propios,Semi-presencial,1,7.57,8.28,0,8,98.1,0.0,20.3,0,206.0,2,6.6,0,,,
+EST-2020-0300,2022-S2,Psicología,Manabí,Rural,F,22,Soltero/a,Particular,Beca parcial,Semi-presencial,5,7.93,8.57,0,8,70.2,0.0,17.4,4,959.0,2,4.5,0,,,
+EST-2021-0301,2022-S1,Psicología,El Oro,Urbana,M,25,Soltero/a,Fiscal,Beca parcial,Semi-presencial,6,8.32,7.53,2,6,65.7,0.0,42.3,4,1372.0,2,9.8,0,,,
+EST-2022-0302,2022-S1,Administración de Empresas,Tungurahua,Urbana,M,18,Soltero/a,Fiscal,Recursos propios,Semi-presencial,6,7.85,7.93,2,4,84.4,33.0,5.2,2,261.0,0,6.9,0,,,
+EST-2023-0303,2023-S2,Ingeniería Civil,El Oro,Rural,F,17,Soltero/a,Fiscal,Beca completa,Presencial,5,9.5,7.48,0,8,58.5,0.0,22.2,2,392.0,0,4.8,0,,,
+EST-2024-0304,2022-S2,Arquitectura,Pichincha,Rural,F,20,Casado/a,Particular,Credito educativo,Presencial,3,8.38,7.99,2,8,75.4,12.0,2.9,2,1046.0,5,8.4,0,,,
+EST-2025-0305,2023-S2,Arquitectura,Azuay,Urbana,M,25,Soltero/a,Fiscal,Beca completa,Semi-presencial,2,7.7,4.39,1,6,84.4,0.0,2.7,1,756.0,2,4.5,0,,,
+EST-2020-0306,2023-S1,Ingeniería Civil,Guayas,Urbana,M,17,Soltero/a,Fiscal,Beca parcial,Presencial,4,9.8,7.39,3,8,78.4,30.0,4.9,1,820.0,5,3.5,1,2024-07-10,Personal,5.0
+EST-2021-0307,2022-S2,Administración de Empresas,Tungurahua,Urbana,F,21,Casado/a,Particular,Recursos propios,Presencial,5,7.08,6.01,2,5,76.5,0.0,36.1,1,617.0,1,4.6,0,,,
+EST-2022-0308,2022-S1,Derecho,Esmeraldas,Urbana,M,19,Soltero/a,Fiscal,Recursos propios,Presencial,1,6.47,5.04,2,4,94.8,0.0,1.1,1,639.0,2,9.5,0,,,
+EST-2023-0309,2022-S2,Ciencia de Datos,Guayas,Rural,M,17,Union libre,Fiscal,Beca completa,Presencial,5,8.37,6.38,1,7,95.1,39.0,17.6,0,863.0,5,,0,,,
+EST-2024-0310,2022-S1,Derecho,Guayas,Urbana,M,21,Soltero/a,Particular,Recursos propios,Presencial,2,9.13,7.49,1,5,61.4,0.0,,0,640.0,0,5.1,1,2024-08-15,Academico,2.0
+EST-2025-0311,2023-S2,Psicología,Pichincha,Urbana,F,19,Soltero/a,Particular,Beca parcial,Presencial,3,8.2,6.57,1,7,82.8,0.0,13.3,3,735.0,5,7.9,0,,,
+EST-2020-0312,2022-S1,Derecho,Guayas,Rural,F,17,Soltero/a,Particular,Credito educativo,Presencial,6,7.95,7.03,0,4,82.4,0.0,39.8,1,615.0,2,6.0,0,,,
+EST-2021-0313,2022-S1,Psicología,Imbabura,Urbana,M,25,Soltero/a,Particular,Beca parcial,Presencial,2,7.14,9.6,0,8,65.7,0.0,3.9,1,1463.0,1,4.1,0,,,
+EST-2022-0314,2023-S1,Psicología,Imbabura,Urbana,M,27,Union libre,Particular,Beca parcial,Presencial,3,7.75,7.82,2,8,100.0,31.0,28.3,2,753.0,1,5.3,0,,,
+EST-2023-0315,2023-S1,Contabilidad,Pichincha,Rural,M,24,Casado/a,Fiscal,Beca parcial,Presencial,2,8.23,8.42,2,5,62.9,23.0,52.1,2,627.0,3,6.2,1,2024-07-16,Academico,2.0
+EST-2024-0316,2022-S2,Medicina,Azuay,Urbana,F,23,Soltero/a,Particular,Beca completa,Presencial,2,6.89,10.0,2,4,73.1,0.0,30.3,1,1035.0,2,8.2,0,,,
+EST-2025-0317,2023-S2,Medicina,El Oro,Rural,M,27,Union libre,Particular,Recursos propios,Presencial,5,6.98,5.57,0,6,85.4,0.0,3.6,1,406.0,3,5.5,0,,,
+EST-2020-0318,2023-S2,Derecho,Loja,Urbana,F,17,Soltero/a,Fiscal,Recursos propios,Presencial,4,7.65,6.94,1,6,87.5,0.0,26.8,0,1301.0,4,4.0,0,,,
+EST-2021-0319,2023-S1,Administración de Empresas,Esmeraldas,Rural,M,17,Soltero/a,Particular,Beca completa,Presencial,2,7.73,10.0,3,8,72.4,0.0,8.6,1,802.0,3,7.5,0,,,
+EST-2022-0320,2022-S1,Medicina,Tungurahua,Rural,F,27,Soltero/a,Fiscal,Beca parcial,Presencial,6,6.41,6.61,2,8,81.7,15.0,73.1,1,1445.0,0,,1,2024-03-06,Laboral,7.0
+EST-2023-0321,2023-S1,Contabilidad,Manabí,Urbana,M,25,Casado/a,Fiscal,Recursos propios,Presencial,2,8.0,7.38,1,8,66.9,16.0,2.2,1,989.0,5,6.4,0,,,
+EST-2024-0322,2022-S1,Psicología,Manabí,Urbana,F,27,Union libre,Fiscal,Recursos propios,Presencial,4,8.33,6.13,2,6,70.7,14.0,3.3,3,689.0,0,5.5,1,2024-04-10,Laboral,5.0
+EST-2025-0323,2022-S1,Arquitectura,Manabí,Urbana,F,20,Soltero/a,Fiscal,Credito educativo,Semi-presencial,3,8.64,7.74,1,8,97.1,0.0,,1,966.0,4,7.5,0,,,
+EST-2020-0324,2023-S1,Arquitectura,Chimborazo,Urbana,M,19,Casado/a,Particular,Beca parcial,Semi-presencial,4,8.42,6.15,1,7,60.0,0.0,3.1,1,463.0,2,3.6,0,,,
+EST-2021-0325,2022-S2,Derecho,Guayas,Urbana,M,18,Soltero/a,Fiscomisional,Recursos propios,Presencial,1,6.84,7.85,1,4,70.0,0.0,4.0,2,445.0,5,6.0,0,,,
+EST-2022-0326,2023-S1,Administración de Empresas,Guayas,Urbana,M,24,Casado/a,Fiscal,Recursos propios,Presencial,3,5.54,10.0,0,6,70.3,0.0,24.0,0,204.0,4,4.2,0,,,
+EST-2023-0327,2022-S2,Administración de Empresas,Pichincha,Urbana,M,18,Soltero/a,Fiscomisional,Beca parcial,Semi-presencial,6,6.97,6.74,1,7,65.9,0.0,6.1,0,2148.0,0,10.0,0,,,
+EST-2024-0328,2022-S2,Administración de Empresas,Guayas,Urbana,M,18,Soltero/a,Fiscal,Beca parcial,Presencial,1,8.0,8.31,4,7,83.8,44.0,14.9,3,1179.0,3,9.0,1,2024-03-22,Economico,1.0
+EST-2025-0329,2023-S1,Arquitectura,Imbabura,Urbana,M,19,Soltero/a,Fiscomisional,Credito educativo,Presencial,4,10.0,7.7,1,5,69.7,0.0,6.0,2,448.0,5,6.2,0,,,
+EST-2020-0330,2023-S1,Administración de Empresas,Pichincha,Urbana,M,18,Casado/a,Fiscal,Recursos propios,Presencial,4,7.53,8.66,1,8,95.9,16.0,20.7,0,1661.0,2,5.3,0,,,
+EST-2021-0331,2022-S2,Contabilidad,Imbabura,Urbana,M,26,Soltero/a,Fiscomisional,Credito educativo,Presencial,5,7.1,7.16,2,6,86.0,0.0,8.6,2,1298.0,2,6.8,0,,,
+EST-2022-0332,2022-S1,Contabilidad,Guayas,Urbana,M,17,Soltero/a,Particular,Beca parcial,Semi-presencial,3,9.0,,0,7,96.4,35.0,3.8,1,831.0,1,4.6,0,,,
+EST-2023-0333,2023-S2,Contabilidad,Esmeraldas,Rural,F,26,Casado/a,Fiscomisional,Recursos propios,Presencial,5,4.75,7.06,2,4,66.0,28.0,29.8,1,598.0,2,4.7,1,2024-08-21,Laboral,6.0
+EST-2024-0334,2023-S2,Administración de Empresas,Loja,Urbana,F,23,Soltero/a,Particular,Recursos propios,Presencial,5,8.36,8.05,0,8,85.3,0.0,26.9,2,425.0,5,8.0,0,,,
+EST-2025-0335,2022-S2,Ciencia de Datos,El Oro,Rural,F,21,Casado/a,Fiscal,Beca completa,Presencial,6,5.31,4.05,1,7,77.5,0.0,5.9,1,612.0,3,5.5,1,2024-04-18,Laboral,6.0
+EST-2020-0336,2023-S1,Medicina,Azuay,Urbana,M,26,Casado/a,Particular,Recursos propios,Semi-presencial,3,7.09,10.0,0,5,73.9,37.0,,0,1430.0,2,7.6,0,,,
+EST-2021-0337,2022-S1,Ciencia de Datos,Loja,Rural,F,20,Casado/a,Fiscomisional,Beca parcial,Presencial,4,6.45,6.72,1,8,67.6,11.0,7.4,0,1153.0,4,5.6,1,2024-02-26,Academico,4.0
+EST-2022-0338,2023-S2,Psicología,Pichincha,Urbana,M,20,Soltero/a,Fiscal,Recursos propios,Presencial,3,7.43,5.76,1,7,63.0,0.0,9.6,1,1145.0,5,5.3,0,,,
+EST-2023-0339,2022-S2,Ciencia de Datos,Loja,Urbana,F,19,Soltero/a,Fiscal,Beca parcial,Presencial,3,8.53,6.45,4,5,50.9,0.0,0.5,3,709.0,0,8.1,1,2024-08-23,Economico,3.0
+EST-2024-0340,2022-S2,Psicología,Esmeraldas,Rural,F,19,Casado/a,Fiscal,Recursos propios,Presencial,1,7.23,5.32,2,6,72.7,0.0,19.4,0,679.0,2,9.5,1,2024-07-24,Laboral,1.0
+EST-2025-0341,2022-S2,Arquitectura,Azuay,Rural,M,23,Soltero/a,Particular,Recursos propios,Presencial,1,7.28,6.84,3,6,79.5,40.0,1.6,1,631.0,4,7.6,1,2024-03-25,Laboral,1.0
+EST-2020-0342,2022-S1,Administración de Empresas,Manabí,Urbana,F,27,Soltero/a,Fiscal,Beca parcial,Presencial,4,6.2,9.73,1,5,80.6,0.0,15.8,3,884.0,2,7.0,0,,,
+EST-2021-0343,2023-S2,Ingeniería Civil,Imbabura,Urbana,F,19,Casado/a,Fiscal,Credito educativo,Presencial,1,7.21,8.32,1,7,70.8,10.0,56.3,1,1293.0,2,3.7,0,,,
+EST-2022-0344,2022-S1,Psicología,Guayas,Urbana,M,27,Soltero/a,Fiscal,Recursos propios,Semi-presencial,3,7.6,9.24,0,7,72.3,0.0,15.4,2,488.0,5,10.0,0,,,
+EST-2023-0345,2023-S1,Ciencia de Datos,El Oro,Urbana,F,22,Soltero/a,Particular,Beca completa,Presencial,1,8.77,7.64,0,8,100.0,0.0,35.7,1,328.0,4,6.8,0,,,
+EST-2024-0346,2023-S1,Medicina,Imbabura,Urbana,M,22,Soltero/a,Fiscal,Beca parcial,Presencial,4,6.55,7.47,1,6,57.6,0.0,8.6,3,2085.0,0,7.0,0,,,
+EST-2025-0347,2023-S2,Derecho,Guayas,Urbana,M,17,Soltero/a,Particular,Recursos propios,Presencial,4,5.77,,0,5,80.5,29.0,32.9,1,688.0,5,4.9,0,,,
+EST-2020-0348,2022-S2,Administración de Empresas,Tungurahua,Urbana,M,21,Soltero/a,Fiscal,Credito educativo,Semi-presencial,1,6.45,10.0,0,4,53.6,15.0,7.3,2,692.0,5,9.1,0,,,
+EST-2021-0349,2022-S2,Medicina,Loja,Urbana,M,18,Soltero/a,Particular,Beca completa,Semi-presencial,2,7.85,6.0,2,5,55.8,0.0,18.0,3,992.0,0,5.3,1,2024-02-10,Laboral,3.0
+EST-2022-0350,2023-S1,Contabilidad,Pichincha,Urbana,F,19,Casado/a,Fiscal,Beca completa,Semi-presencial,2,7.45,6.43,2,8,69.9,0.0,49.5,5,1073.0,4,7.2,0,,,
+EST-2023-0351,2022-S1,Administración de Empresas,Imbabura,Rural,M,25,Soltero/a,Fiscal,Beca completa,Presencial,2,8.68,5.98,4,8,74.8,0.0,15.0,1,786.0,5,7.8,0,,,
+EST-2024-0352,2023-S1,Arquitectura,Imbabura,Rural,M,23,Soltero/a,Fiscal,Credito educativo,Presencial,6,7.68,8.9,2,6,97.8,0.0,29.8,1,499.0,4,7.1,0,,,
+EST-2025-0353,2023-S2,Contabilidad,Pichincha,Rural,F,20,Soltero/a,Fiscomisional,Credito educativo,Presencial,3,7.36,2.65,2,8,75.3,23.0,9.8,4,474.0,2,7.4,1,2024-07-22,Academico,4.0
+EST-2020-0354,2023-S1,Psicología,Azuay,Urbana,F,20,Casado/a,Fiscal,Credito educativo,Presencial,3,8.23,6.31,1,6,85.4,0.0,66.2,1,904.0,1,5.8,0,,,
+EST-2021-0355,2023-S2,Ingeniería Civil,Loja,Urbana,M,27,Union libre,Particular,Beca completa,Semi-presencial,5,6.39,6.91,0,7,85.7,0.0,6.9,2,216.0,4,7.3,0,,,
+EST-2022-0356,2022-S1,Psicología,Azuay,Rural,F,17,Soltero/a,Particular,Beca completa,Presencial,5,7.79,7.34,0,8,80.5,0.0,21.4,2,863.0,5,10.0,0,,,
+EST-2023-0357,2023-S2,Psicología,Imbabura,Rural,F,24,Soltero/a,Fiscomisional,Beca completa,Presencial,5,7.12,,0,7,58.7,0.0,6.0,1,1974.0,3,6.8,0,,,
+EST-2024-0358,2023-S1,Administración de Empresas,Guayas,Urbana,F,18,Soltero/a,Particular,Beca completa,Presencial,2,7.3,7.59,0,5,100.0,0.0,4.6,2,325.0,4,8.1,0,,,
+EST-2025-0359,2023-S1,Ciencia de Datos,Imbabura,Rural,M,19,Soltero/a,Fiscal,Beca parcial,Presencial,4,8.23,8.1,0,7,73.7,42.0,2.2,1,913.0,0,6.9,1,2024-06-11,Laboral,5.0
+EST-2020-0360,2023-S1,Derecho,Guayas,Rural,F,22,Soltero/a,Fiscal,Beca parcial,Semi-presencial,6,7.9,7.62,0,8,69.0,0.0,11.1,1,282.0,5,6.8,0,,,
+EST-2021-0361,2023-S1,Medicina,Guayas,Rural,M,27,Soltero/a,Particular,Beca parcial,Presencial,1,7.54,8.53,1,8,56.5,11.0,37.7,1,494.0,5,8.9,0,,,
+EST-2022-0362,2022-S2,Derecho,El Oro,Urbana,F,19,Soltero/a,Fiscal,Recursos propios,Semi-presencial,5,6.03,9.62,2,7,60.8,26.0,43.4,2,1445.0,5,7.0,1,2024-08-01,Personal,5.0
+EST-2023-0363,2023-S1,Ingeniería Civil,Guayas,Urbana,F,24,Soltero/a,Particular,Recursos propios,Presencial,2,8.84,8.14,1,5,84.5,0.0,51.2,1,536.0,1,7.4,0,,,
+EST-2024-0364,2023-S2,Contabilidad,Manabí,Rural,F,27,Soltero/a,Fiscal,Beca completa,Presencial,4,6.75,6.67,0,6,65.7,24.0,1.5,3,845.0,1,,0,,,
+EST-2025-0365,2022-S2,Ingeniería Civil,Pichincha,Rural,F,22,Soltero/a,Particular,Recursos propios,Semi-presencial,1,10.0,6.95,2,7,67.8,11.0,1.9,3,632.0,5,5.1,0,,,
+EST-2020-0366,2023-S1,Contabilidad,Pichincha,Urbana,M,26,Soltero/a,Fiscal,Recursos propios,Presencial,3,6.18,9.07,0,7,58.7,34.0,14.1,2,798.0,5,5.0,0,,,
+EST-2021-0367,2022-S2,Ingeniería Civil,Loja,Urbana,F,25,Soltero/a,Fiscal,Beca parcial,Presencial,4,7.44,,2,8,100.0,0.0,15.3,3,1029.0,2,4.4,0,,,
+EST-2022-0368,2022-S2,Derecho,Esmeraldas,Urbana,M,21,Union libre,Particular,Beca parcial,Semi-presencial,4,7.71,5.58,2,5,68.1,27.0,6.1,0,300.0,2,7.0,0,,,
+EST-2023-0369,2022-S1,Arquitectura,Azuay,Urbana,M,20,Soltero/a,Fiscal,Beca parcial,Presencial,4,7.65,9.19,1,7,91.1,0.0,18.6,1,666.0,5,9.6,0,,,
+EST-2024-0370,2023-S2,Ingeniería Civil,Pichincha,Urbana,M,23,Soltero/a,Fiscal,Credito educativo,Semi-presencial,2,5.11,6.46,2,5,63.1,0.0,1.8,1,1754.0,2,5.8,1,2024-07-10,Laboral,2.0
+EST-2025-0371,2022-S2,Ciencia de Datos,Manabí,Urbana,F,26,Soltero/a,Fiscal,Recursos propios,Semi-presencial,6,8.75,4.53,1,4,82.6,22.0,27.2,3,800.0,5,3.9,0,,,
+EST-2020-0372,2022-S1,Ingeniería Civil,Esmeraldas,Rural,F,26,Casado/a,Particular,Credito educativo,Presencial,6,8.77,6.9,1,6,73.7,30.0,19.2,2,404.0,1,7.7,0,,,
+EST-2021-0373,2022-S1,Medicina,Chimborazo,Rural,F,20,Union libre,Particular,Beca parcial,Presencial,6,10.0,5.95,1,5,74.0,0.0,3.9,1,445.0,2,4.7,0,,,
+EST-2022-0374,2023-S1,Medicina,El Oro,Urbana,M,20,Union libre,Particular,Recursos propios,Presencial,6,8.22,7.2,1,8,70.6,19.0,15.1,1,264.0,3,7.7,0,,,
+EST-2023-0375,2023-S2,Medicina,Esmeraldas,Rural,F,18,Soltero/a,Particular,Beca parcial,Semi-presencial,3,9.1,7.7,0,5,63.3,0.0,2.7,3,419.0,3,,0,,,
+EST-2024-0376,2022-S2,Ciencia de Datos,Manabí,Rural,M,27,Soltero/a,Fiscal,Recursos propios,Presencial,2,7.49,6.77,1,7,100.0,0.0,4.1,3,598.0,2,7.4,0,,,
+EST-2025-0377,2023-S2,Derecho,Pichincha,Rural,F,26,Casado/a,Fiscal,Credito educativo,Presencial,5,8.05,7.73,2,7,94.0,0.0,5.9,3,724.0,2,,0,,,
+EST-2020-0378,2023-S2,Ingeniería Civil,Chimborazo,Urbana,F,18,Soltero/a,Fiscal,Beca parcial,Presencial,5,9.93,,1,5,87.6,0.0,8.3,2,815.0,3,6.3,0,,,
+EST-2021-0379,2022-S1,Derecho,Pichincha,Urbana,M,22,Soltero/a,Particular,Recursos propios,Presencial,1,9.31,5.87,2,7,100.0,44.0,11.1,0,658.0,5,6.7,0,,,
+EST-2022-0380,2023-S2,Psicología,Pichincha,Rural,M,23,Soltero/a,Particular,Credito educativo,Semi-presencial,2,8.9,8.05,0,4,59.6,0.0,5.9,4,588.0,4,8.5,0,,,
+EST-2023-0381,2023-S1,Contabilidad,Azuay,Rural,M,17,Casado/a,Particular,Credito educativo,Presencial,6,8.28,7.72,5,7,70.9,34.0,42.4,1,635.0,5,5.1,1,2024-05-22,Academico,7.0
+EST-2024-0382,2023-S2,Psicología,Imbabura,Rural,F,19,Soltero/a,Particular,Beca parcial,Presencial,3,7.85,6.17,3,8,86.9,0.0,4.8,1,1000.0,3,4.7,0,,,
+EST-2025-0383,2023-S2,Contabilidad,Guayas,Urbana,F,19,Soltero/a,Fiscal,Recursos propios,Presencial,1,8.22,7.92,1,4,65.2,0.0,16.8,2,765.0,2,6.9,0,,,
+EST-2020-0384,2022-S1,Ingeniería Civil,Guayas,Urbana,F,22,Soltero/a,Fiscal,Recursos propios,Presencial,4,5.5,5.62,1,4,78.8,0.0,18.6,3,245.0,1,7.8,0,,,
+EST-2021-0385,2022-S1,Contabilidad,Guayas,Urbana,F,24,Soltero/a,Fiscal,Beca completa,Semi-presencial,1,9.55,6.74,1,4,94.5,0.0,8.0,0,451.0,5,,0,,,
+EST-2022-0386,2023-S2,Contabilidad,Azuay,Rural,F,22,Soltero/a,Particular,Credito educativo,Presencial,4,5.54,8.21,0,7,89.9,0.0,,0,518.0,1,7.1,0,,,
+EST-2023-0387,2022-S1,Administración de Empresas,Loja,Urbana,M,17,Soltero/a,Fiscal,Recursos propios,Presencial,6,5.72,6.15,0,6,90.3,0.0,19.9,5,541.0,3,10.0,0,,,
+EST-2024-0388,2022-S2,Psicología,Tungurahua,Urbana,M,18,Union libre,Fiscal,Recursos propios,Presencial,1,7.9,,0,8,88.0,33.0,16.9,3,899.0,1,4.9,0,,,
+EST-2025-0389,2023-S2,Derecho,Pichincha,Rural,F,22,Soltero/a,Particular,Recursos propios,Presencial,6,9.06,8.92,1,7,89.8,0.0,13.7,3,553.0,1,,0,,,
+EST-2020-0390,2022-S2,Medicina,Guayas,Urbana,M,24,Soltero/a,Fiscal,Recursos propios,Presencial,2,9.54,8.05,1,6,67.6,0.0,5.5,1,1272.0,0,8.8,0,,,
+EST-2021-0391,2022-S1,Ingeniería Civil,Azuay,Rural,F,23,Soltero/a,Fiscomisional,Beca parcial,Presencial,1,6.94,8.98,0,6,73.4,25.0,3.5,2,532.0,4,6.5,0,,,
+EST-2022-0392,2023-S1,Psicología,El Oro,Urbana,M,27,Union libre,Fiscomisional,Beca parcial,Presencial,5,6.18,6.47,0,4,85.4,0.0,8.6,3,1171.0,3,6.0,0,,,
+EST-2023-0393,2022-S2,Psicología,Chimborazo,Urbana,F,22,Soltero/a,Fiscomisional,Beca parcial,Presencial,4,8.12,6.16,3,5,69.0,0.0,10.1,4,402.0,2,7.2,0,,,
+EST-2024-0394,2023-S2,Medicina,Tungurahua,Urbana,F,25,Soltero/a,Particular,Recursos propios,Presencial,2,9.89,7.96,0,8,85.4,0.0,11.2,2,1280.0,0,8.3,0,,,
+EST-2025-0395,2022-S1,Medicina,Guayas,Rural,F,24,Soltero/a,Fiscal,Recursos propios,Semi-presencial,4,8.07,8.47,2,8,98.4,0.0,34.6,1,571.0,4,2.6,0,,,
+EST-2020-0396,2023-S1,Administración de Empresas,Esmeraldas,Rural,M,17,Soltero/a,Fiscal,Recursos propios,Presencial,1,7.05,6.26,0,5,85.7,0.0,6.8,2,354.0,4,4.5,0,,,
+EST-2021-0397,2023-S2,Psicología,Pichincha,Rural,F,18,Soltero/a,Fiscal,Recursos propios,Presencial,1,7.94,5.99,1,8,62.1,0.0,12.5,3,540.0,0,3.3,1,2024-08-02,Personal,1.0
+EST-2022-0398,2023-S1,Psicología,Chimborazo,Rural,F,21,Soltero/a,Particular,Credito educativo,Presencial,3,7.19,6.31,1,7,89.1,40.0,,0,449.0,2,4.1,1,2024-07-02,Academico,3.0
+EST-2023-0399,2023-S1,Medicina,Guayas,Urbana,M,23,Casado/a,Particular,Beca completa,Semi-presencial,3,6.38,8.2,1,8,83.6,0.0,71.1,1,731.0,3,9.2,0,,,
+EST-2024-0400,2022-S1,Ciencia de Datos,Esmeraldas,Urbana,M,25,Soltero/a,Particular,Recursos propios,Presencial,3,7.69,,0,5,98.3,0.0,1.4,3,1925.0,1,8.5,0,,,
+EST-2025-0401,2022-S2,Contabilidad,Pichincha,Rural,F,22,Soltero/a,Fiscal,Beca parcial,Presencial,3,8.05,4.87,1,5,75.6,0.0,0.5,1,709.0,5,10.0,0,,,
+EST-2020-0402,2023-S1,Ingeniería Civil,Guayas,Rural,M,25,Union libre,Fiscomisional,Credito educativo,Presencial,3,8.11,8.44,2,5,78.4,0.0,21.1,3,2035.0,2,,0,,,
+EST-2021-0403,2022-S2,Derecho,Pichincha,Urbana,F,21,Soltero/a,Particular,Beca completa,Presencial,6,5.74,9.56,2,5,63.2,15.0,13.3,1,740.0,5,8.0,0,,,
+EST-2022-0404,2022-S2,Psicología,Chimborazo,Rural,F,18,Soltero/a,Particular,Recursos propios,Presencial,6,6.18,6.72,0,8,66.4,0.0,5.3,3,802.0,4,6.5,0,,,
+EST-2023-0405,2022-S1,Medicina,Pichincha,Urbana,F,19,Soltero/a,Fiscal,Recursos propios,Semi-presencial,3,6.68,4.95,1,8,61.7,0.0,26.1,1,1453.0,2,8.5,0,,,
+EST-2024-0406,2022-S1,Administración de Empresas,Manabí,Urbana,F,27,Casado/a,Fiscal,Recursos propios,Presencial,5,8.78,8.77,3,4,75.3,0.0,13.7,1,200.0,5,7.6,0,,,
+EST-2025-0407,2023-S1,Ciencia de Datos,Guayas,Rural,M,26,Soltero/a,Fiscal,Recursos propios,Semi-presencial,3,6.16,,1,7,77.6,0.0,6.3,3,375.0,1,8.7,1,2024-01-22,Economico,3.0
+EST-2020-0408,2022-S2,Medicina,Esmeraldas,Urbana,M,19,Soltero/a,Particular,Beca parcial,Semi-presencial,5,6.54,4.32,1,8,67.5,0.0,82.5,1,1823.0,4,6.1,1,2024-01-02,Laboral,6.0
+EST-2021-0409,2023-S2,Contabilidad,Tungurahua,Urbana,M,24,Soltero/a,Particular,Credito educativo,Semi-presencial,2,8.28,6.4,1,4,93.1,0.0,8.8,2,528.0,4,8.8,0,,,
+EST-2022-0410,2022-S1,Administración de Empresas,Azuay,Rural,F,19,Casado/a,Fiscomisional,Credito educativo,Presencial,2,7.13,7.52,0,4,46.6,0.0,19.0,1,710.0,1,6.0,0,,,
+EST-2023-0411,2023-S1,Arquitectura,Pichincha,Urbana,F,18,Soltero/a,Fiscal,Beca completa,Presencial,6,8.14,6.94,2,8,78.8,0.0,15.0,1,557.0,5,7.9,0,,,
+EST-2024-0412,2022-S1,Contabilidad,Pichincha,Urbana,F,22,Soltero/a,Fiscal,Beca parcial,Presencial,1,7.22,6.84,2,8,59.8,40.0,8.2,0,726.0,1,,1,2024-04-21,Laboral,1.0
+EST-2025-0413,2023-S1,Contabilidad,Tungurahua,Urbana,F,25,Soltero/a,Particular,Beca parcial,Presencial,1,8.26,,1,7,79.2,0.0,21.9,2,477.0,0,9.3,0,,,
+EST-2020-0414,2023-S1,Derecho,Azuay,Urbana,F,24,Soltero/a,Fiscal,Recursos propios,Semi-presencial,3,8.62,6.48,1,5,61.5,0.0,7.8,2,808.0,1,8.4,0,,,
+EST-2021-0415,2023-S2,Medicina,Loja,Urbana,M,20,Soltero/a,Fiscal,Beca completa,Presencial,6,7.42,,1,8,94.0,0.0,12.7,0,302.0,2,4.1,0,,,
+EST-2022-0416,2022-S2,Psicología,Tungurahua,Urbana,F,19,Union libre,Fiscal,Credito educativo,Presencial,6,6.75,8.42,1,7,65.4,0.0,7.1,1,1047.0,0,6.5,0,,,
+EST-2023-0417,2023-S2,Derecho,Pichincha,Urbana,F,17,Union libre,Fiscal,Recursos propios,Semi-presencial,1,6.94,5.84,2,7,91.4,0.0,5.9,2,495.0,4,4.8,0,,,
+EST-2024-0418,2023-S2,Ingeniería Civil,Pichincha,Urbana,F,25,Soltero/a,Fiscal,Beca completa,Presencial,4,8.3,7.06,1,8,87.2,38.0,0.5,2,486.0,4,5.2,0,,,
+EST-2025-0419,2023-S2,Medicina,Guayas,Urbana,F,21,Soltero/a,Fiscal,Credito educativo,Presencial,4,6.99,7.08,2,4,89.8,30.0,1.2,4,410.0,2,8.7,0,,,
+EST-2020-0420,2023-S1,Arquitectura,Manabí,Rural,F,20,Soltero/a,Fiscal,Credito educativo,Presencial,2,7.31,9.41,2,8,89.1,0.0,12.1,1,1256.0,3,4.4,0,,,
+EST-2021-0421,2023-S2,Medicina,Pichincha,Urbana,F,26,Soltero/a,Particular,Recursos propios,Presencial,6,6.44,7.87,0,6,89.6,22.0,,6,458.0,3,8.8,0,,,
+EST-2022-0422,2022-S2,Administración de Empresas,Azuay,Rural,F,25,Soltero/a,Fiscal,Beca completa,Semi-presencial,5,7.51,7.93,2,8,98.4,0.0,9.4,1,842.0,4,8.8,0,,,
+EST-2023-0423,2022-S2,Contabilidad,El Oro,Urbana,M,27,Soltero/a,Fiscal,Beca parcial,Presencial,2,7.44,5.37,1,6,66.2,24.0,26.4,3,1239.0,0,,1,2024-06-02,Academico,2.0
+EST-2024-0424,2023-S2,Psicología,Azuay,Urbana,M,25,Casado/a,Particular,Recursos propios,Semi-presencial,5,7.69,6.73,2,7,75.0,23.0,,3,673.0,5,5.1,0,,,
+EST-2025-0425,2023-S1,Medicina,Pichincha,Urbana,M,23,Soltero/a,Fiscomisional,Beca parcial,Presencial,6,7.93,7.36,0,5,95.7,0.0,11.9,0,455.0,1,7.6,0,,,
+EST-2020-0426,2023-S2,Administración de Empresas,Azuay,Rural,F,18,Casado/a,Fiscal,Credito educativo,Presencial,2,8.13,7.45,3,7,74.4,0.0,13.1,2,444.0,0,7.0,1,2024-02-27,Personal,3.0
+EST-2021-0427,2023-S2,Ingeniería Civil,Tungurahua,Rural,F,19,Casado/a,Fiscal,Recursos propios,Presencial,2,9.78,9.01,0,6,95.4,28.0,36.4,0,867.0,5,5.8,0,,,
+EST-2022-0428,2022-S1,Derecho,Esmeraldas,Urbana,F,17,Soltero/a,Fiscal,Recursos propios,Presencial,1,7.65,8.89,0,6,85.2,0.0,10.5,0,358.0,1,7.4,0,,,
+EST-2023-0429,2023-S2,Administración de Empresas,Chimborazo,Rural,M,24,Soltero/a,Fiscal,Beca completa,Presencial,4,6.64,7.99,1,8,90.1,0.0,13.3,0,840.0,1,8.2,0,,,
+EST-2024-0430,2022-S2,Contabilidad,Loja,Urbana,M,18,Soltero/a,Fiscomisional,Recursos propios,Presencial,3,6.89,,1,6,91.9,41.0,0.5,3,380.0,4,6.6,0,,,
+EST-2025-0431,2023-S2,Psicología,Loja,Rural,M,24,Casado/a,Fiscal,Credito educativo,Semi-presencial,2,5.78,7.45,0,6,84.1,0.0,21.0,2,750.0,1,5.7,0,,,
+EST-2020-0432,2022-S2,Arquitectura,Tungurahua,Urbana,F,26,Soltero/a,Fiscal,Beca parcial,Presencial,5,8.28,6.63,2,7,69.9,0.0,96.0,3,578.0,2,10.0,1,2024-01-16,Economico,6.0
+EST-2021-0433,2022-S2,Ingeniería Civil,Guayas,Urbana,M,20,Soltero/a,Fiscal,Credito educativo,Presencial,1,9.44,8.17,1,7,52.6,25.0,28.7,0,369.0,1,6.1,1,2024-05-08,Personal,2.0
+EST-2022-0434,2023-S2,Ciencia de Datos,Guayas,Rural,M,18,Casado/a,Fiscal,Recursos propios,Presencial,1,8.43,9.62,2,4,73.7,20.0,5.2,2,734.0,1,8.9,0,,,
+EST-2023-0435,2022-S1,Derecho,Tungurahua,Urbana,F,18,Casado/a,Fiscal,Credito educativo,Presencial,4,7.34,5.53,1,6,57.3,0.0,58.4,0,672.0,3,10.0,1,2024-06-13,Personal,4.0
+EST-2024-0436,2022-S2,Derecho,Guayas,Urbana,F,21,Soltero/a,Particular,Beca completa,Semi-presencial,1,9.88,7.3,0,4,70.1,30.0,35.4,0,348.0,4,10.0,0,,,
+EST-2025-0437,2023-S1,Psicología,Azuay,Urbana,F,19,Soltero/a,Fiscomisional,Recursos propios,Presencial,3,6.82,6.36,0,8,81.9,0.0,20.9,3,302.0,2,5.3,0,,,
+EST-2020-0438,2022-S1,Ingeniería Civil,Tungurahua,Rural,M,25,Soltero/a,Fiscal,Credito educativo,Presencial,2,9.43,7.03,2,7,66.5,0.0,19.7,2,674.0,0,6.6,0,,,
+EST-2021-0439,2022-S2,Ciencia de Datos,Pichincha,Urbana,M,25,Casado/a,Fiscal,Beca completa,Semi-presencial,6,8.59,6.37,0,5,77.7,37.0,22.6,3,611.0,5,5.3,0,,,
+EST-2022-0440,2022-S1,Contabilidad,Guayas,Urbana,M,26,Soltero/a,Fiscal,Beca parcial,Presencial,3,7.86,6.52,1,7,79.7,0.0,5.4,1,569.0,1,8.1,0,,,
+EST-2023-0441,2023-S1,Arquitectura,Pichincha,Urbana,F,23,Union libre,Fiscal,Recursos propios,Presencial,5,5.27,,2,5,100.0,0.0,37.1,2,912.0,4,3.4,0,,,
+EST-2024-0442,2022-S1,Psicología,Pichincha,Urbana,M,20,Soltero/a,Particular,Beca completa,Presencial,2,8.23,3.93,1,4,83.0,0.0,0.6,0,606.0,1,,0,,,
+EST-2025-0443,2023-S2,Medicina,Chimborazo,Rural,M,20,Soltero/a,Fiscal,Beca parcial,Presencial,3,7.78,8.46,1,6,66.2,10.0,9.4,1,376.0,1,6.2,0,,,
+EST-2020-0444,2023-S2,Administración de Empresas,El Oro,Urbana,M,24,Soltero/a,Fiscal,Recursos propios,Semi-presencial,4,6.98,7.85,0,6,78.3,0.0,47.2,1,881.0,4,5.1,0,,,
+EST-2021-0445,2022-S2,Ingeniería Civil,Guayas,Urbana,F,23,Soltero/a,Fiscal,Beca parcial,Presencial,6,7.62,9.4,5,5,81.3,0.0,11.8,3,362.0,1,8.4,0,,,
+EST-2022-0446,2022-S1,Psicología,Chimborazo,Urbana,F,17,Union libre,Fiscomisional,Beca parcial,Presencial,2,8.85,7.43,1,6,78.7,0.0,22.0,1,473.0,0,6.4,0,,,
+EST-2023-0447,2022-S2,Medicina,Pichincha,Rural,M,20,Casado/a,Fiscomisional,Recursos propios,Presencial,2,8.98,,3,4,52.8,0.0,16.6,3,411.0,5,3.9,0,,,
+EST-2024-0448,2023-S1,Psicología,El Oro,Urbana,F,24,Soltero/a,Fiscal,Recursos propios,Presencial,1,8.61,9.42,2,6,81.4,37.0,1.3,0,241.0,1,5.7,0,,,
+EST-2025-0449,2023-S1,Administración de Empresas,Loja,Rural,F,22,Soltero/a,Particular,Credito educativo,Semi-presencial,4,8.43,,0,5,77.4,0.0,23.5,4,937.0,4,3.3,0,,,
+EST-2020-0450,2022-S1,Medicina,Guayas,Urbana,F,22,Soltero/a,Fiscomisional,Recursos propios,Semi-presencial,1,7.48,,0,4,59.7,30.0,43.5,3,957.0,5,8.0,0,,,
+EST-2021-0451,2023-S1,Derecho,Guayas,Urbana,M,20,Union libre,Particular,Recursos propios,Presencial,4,8.09,8.6,0,5,77.4,0.0,12.8,1,1026.0,5,7.1,0,,,
+EST-2022-0452,2023-S2,Arquitectura,Guayas,Urbana,F,24,Soltero/a,Fiscomisional,Beca completa,Presencial,3,9.06,5.08,1,4,85.4,0.0,34.4,1,788.0,3,4.1,0,,,
+EST-2023-0453,2022-S2,Ingeniería Civil,Guayas,Urbana,M,26,Soltero/a,Fiscal,Beca completa,Presencial,3,9.88,,2,6,66.8,0.0,6.6,1,949.0,4,7.3,0,,,
+EST-2024-0454,2023-S2,Ingeniería Civil,Pichincha,Urbana,F,17,Soltero/a,Fiscal,Beca completa,Semi-presencial,2,9.1,7.2,1,5,83.8,40.0,27.2,3,1044.0,3,6.9,0,,,
+EST-2025-0455,2022-S1,Derecho,Azuay,Urbana,F,19,Casado/a,Particular,Recursos propios,Presencial,4,9.99,7.76,1,5,77.9,0.0,10.4,1,452.0,5,6.6,0,,,
+EST-2020-0456,2022-S1,Derecho,Chimborazo,Urbana,F,17,Soltero/a,Fiscal,Recursos propios,Presencial,3,8.28,6.66,4,5,84.8,0.0,3.4,3,476.0,3,4.9,0,,,
+EST-2021-0457,2023-S2,Ingeniería Civil,Tungurahua,Rural,M,17,Soltero/a,Fiscal,Beca parcial,Semi-presencial,1,7.37,8.46,3,5,85.0,0.0,7.0,2,723.0,0,8.6,0,,,
+EST-2022-0458,2023-S1,Ciencia de Datos,El Oro,Urbana,M,18,Soltero/a,Fiscal,Credito educativo,Presencial,4,7.45,5.86,1,7,83.3,0.0,0.5,3,1158.0,3,8.9,0,,,
+EST-2023-0459,2022-S2,Medicina,Guayas,Rural,F,22,Union libre,Fiscal,Beca parcial,Presencial,3,7.27,6.09,0,5,87.1,16.0,41.5,2,920.0,3,5.6,0,,,
+EST-2024-0460,2023-S1,Derecho,Esmeraldas,Rural,M,23,Soltero/a,Fiscal,Credito educativo,Presencial,6,7.52,5.39,0,8,85.9,23.0,61.3,1,787.0,2,5.0,1,2024-02-02,Laboral,7.0
+EST-2025-0461,2023-S2,Ciencia de Datos,Loja,Urbana,F,26,Soltero/a,Particular,Recursos propios,Semi-presencial,6,8.33,8.07,1,8,85.1,0.0,15.5,3,489.0,3,10.0,0,,,
+EST-2020-0462,2022-S2,Administración de Empresas,Manabí,Urbana,M,19,Soltero/a,Fiscal,Credito educativo,Presencial,5,7.85,,1,8,74.1,0.0,24.9,4,494.0,5,4.4,0,,,
+EST-2021-0463,2022-S1,Medicina,Guayas,Rural,M,27,Soltero/a,Fiscal,Beca parcial,Presencial,3,5.72,8.22,0,6,44.2,23.0,7.5,5,326.0,4,4.3,1,2024-05-27,Laboral,3.0
+EST-2022-0464,2022-S2,Psicología,Azuay,Urbana,F,25,Soltero/a,Fiscomisional,Beca parcial,Presencial,2,7.62,7.99,1,8,100.0,0.0,17.1,3,2781.0,5,,0,,,
+EST-2023-0465,2023-S2,Contabilidad,Azuay,Urbana,F,17,Soltero/a,Fiscomisional,Recursos propios,Presencial,4,7.08,9.15,1,8,59.9,0.0,24.5,2,1635.0,4,5.8,0,,,
+EST-2024-0466,2023-S1,Ingeniería Civil,Esmeraldas,Rural,F,27,Soltero/a,Particular,Recursos propios,Semi-presencial,4,5.97,7.53,0,5,95.8,0.0,2.9,1,1374.0,3,5.9,0,,,
+EST-2025-0467,2023-S1,Psicología,Esmeraldas,Rural,F,25,Soltero/a,Fiscal,Credito educativo,Presencial,5,6.39,9.73,1,8,89.5,13.0,10.2,1,657.0,2,4.3,0,,,
+EST-2020-0468,2022-S1,Ingeniería Civil,Imbabura,Urbana,M,26,Soltero/a,Particular,Beca parcial,Presencial,4,7.28,4.95,3,6,72.4,0.0,2.7,1,826.0,3,7.0,0,,,
+EST-2021-0469,2023-S2,Ingeniería Civil,Chimborazo,Rural,M,21,Union libre,Particular,Recursos propios,Presencial,6,9.2,8.63,3,7,56.6,23.0,2.9,1,404.0,3,1.4,1,2024-05-24,Laboral,7.0
+EST-2022-0470,2023-S1,Medicina,Chimborazo,Urbana,F,23,Soltero/a,Fiscal,Credito educativo,Presencial,6,7.58,6.7,4,5,100.0,12.0,9.2,1,2400.0,2,5.7,0,,,
+EST-2023-0471,2022-S1,Derecho,Chimborazo,Rural,F,27,Soltero/a,Particular,Beca parcial,Semi-presencial,2,8.68,8.08,1,4,67.6,15.0,20.0,3,1073.0,2,4.7,0,,,
+EST-2024-0472,2023-S2,Ciencia de Datos,Pichincha,Urbana,F,22,Soltero/a,Particular,Recursos propios,Presencial,1,8.3,,0,8,74.6,24.0,34.1,5,671.0,1,7.0,0,,,
+EST-2025-0473,2022-S2,Arquitectura,Manabí,Urbana,F,19,Soltero/a,Fiscal,Recursos propios,Semi-presencial,1,6.92,7.43,0,8,79.1,0.0,5.8,1,416.0,5,6.9,0,,,
+EST-2020-0474,2022-S2,Ingeniería Civil,Tungurahua,Urbana,F,17,Soltero/a,Fiscal,Credito educativo,Presencial,4,7.76,9.64,1,5,73.1,12.0,27.1,3,2163.0,3,7.4,0,,,
+EST-2021-0475,2022-S2,Arquitectura,Pichincha,Rural,M,21,Casado/a,Fiscal,Credito educativo,Semi-presencial,3,7.78,9.16,3,6,70.9,0.0,8.3,1,1001.0,5,9.6,0,,,
+EST-2022-0476,2023-S2,Ingeniería Civil,Tungurahua,Urbana,F,17,Soltero/a,Fiscal,Credito educativo,Semi-presencial,6,8.51,8.52,1,6,91.2,0.0,9.0,2,878.0,4,7.0,0,,,
+EST-2023-0477,2023-S2,Ciencia de Datos,Manabí,Urbana,M,24,Soltero/a,Fiscal,Recursos propios,Presencial,4,7.23,7.09,1,8,84.0,29.0,14.9,1,561.0,2,4.4,0,,,
+EST-2024-0478,2023-S1,Derecho,El Oro,Urbana,M,18,Casado/a,Particular,Beca completa,Presencial,6,9.79,7.42,3,5,88.1,0.0,8.3,2,999.0,4,5.7,0,,,
+EST-2025-0479,2023-S1,Contabilidad,Azuay,Rural,M,26,Soltero/a,Fiscal,Beca parcial,Semi-presencial,5,8.41,7.74,1,8,90.5,0.0,31.2,4,469.0,3,8.0,0,,,
+EST-2020-0480,2023-S2,Ciencia de Datos,Tungurahua,Urbana,F,25,Soltero/a,Fiscal,Recursos propios,Semi-presencial,6,6.34,9.57,1,4,77.9,18.0,,2,644.0,1,5.7,0,,,
+EST-2021-0481,2023-S1,Contabilidad,Loja,Urbana,F,23,Soltero/a,Fiscal,Recursos propios,Presencial,4,9.41,6.28,0,6,70.2,31.0,19.4,0,678.0,2,6.9,0,,,
+EST-2022-0482,2023-S1,Ciencia de Datos,Guayas,Urbana,F,24,Soltero/a,Particular,Recursos propios,Presencial,1,8.81,9.64,0,4,87.4,0.0,22.3,1,741.0,0,7.3,0,,,
+EST-2023-0483,2023-S1,Ciencia de Datos,El Oro,Rural,F,26,Casado/a,Fiscal,Recursos propios,Semi-presencial,1,8.25,6.11,3,4,62.9,0.0,5.9,5,735.0,1,,1,2024-03-01,Academico,2.0
+EST-2024-0484,2023-S2,Arquitectura,Pichincha,Urbana,M,21,Soltero/a,Fiscal,Beca parcial,Presencial,2,4.63,10.0,1,6,89.3,0.0,,4,681.0,1,6.1,0,,,
+EST-2025-0485,2023-S1,Psicología,Manabí,Urbana,M,26,Soltero/a,Fiscal,Recursos propios,Presencial,3,7.89,,1,4,55.6,0.0,1.2,4,792.0,1,,1,2024-03-22,Academico,3.0
+EST-2020-0486,2022-S2,Ingeniería Civil,El Oro,Urbana,M,25,Casado/a,Fiscal,Credito educativo,Semi-presencial,4,8.08,5.84,0,7,85.4,0.0,1.6,3,1062.0,2,7.0,0,,,
+EST-2021-0487,2022-S1,Ingeniería Civil,El Oro,Urbana,F,19,Casado/a,Particular,Beca completa,Presencial,3,9.1,5.87,1,5,64.5,0.0,27.2,3,752.0,0,,0,,,
+EST-2022-0488,2023-S1,Derecho,Pichincha,Rural,M,23,Soltero/a,Particular,Credito educativo,Presencial,5,8.78,4.54,1,7,72.2,34.0,9.6,1,720.0,4,7.3,1,2024-02-24,Laboral,6.0
+EST-2023-0489,2022-S1,Administración de Empresas,Guayas,Urbana,M,18,Soltero/a,Fiscomisional,Recursos propios,Presencial,2,10.0,5.96,0,8,88.1,0.0,8.6,2,363.0,3,5.1,0,,,
+EST-2024-0490,2022-S2,Ingeniería Civil,Pichincha,Urbana,F,20,Soltero/a,Fiscal,Beca parcial,Semi-presencial,1,5.62,7.08,1,7,78.9,23.0,,3,551.0,1,9.5,0,,,
+EST-2025-0491,2022-S1,Psicología,Chimborazo,Rural,F,25,Soltero/a,Fiscal,Credito educativo,Semi-presencial,2,7.3,6.59,0,8,37.7,0.0,0.5,0,542.0,3,5.6,1,2024-04-16,Economico,3.0
+EST-2020-0492,2023-S2,Derecho,Loja,Urbana,M,19,Casado/a,Particular,Beca parcial,Presencial,2,8.43,5.62,0,8,99.5,13.0,35.5,1,235.0,2,9.0,0,,,
+EST-2021-0493,2022-S1,Derecho,El Oro,Urbana,F,27,Union libre,Fiscal,Recursos propios,Presencial,6,9.43,8.97,3,7,85.6,40.0,13.0,1,1460.0,3,2.8,0,,,
+EST-2022-0494,2022-S2,Arquitectura,Esmeraldas,Urbana,M,19,Soltero/a,Fiscal,Beca parcial,Presencial,2,8.5,7.77,0,5,100.0,0.0,0.5,3,406.0,3,,0,,,
+EST-2023-0495,2023-S1,Arquitectura,Chimborazo,Rural,M,21,Soltero/a,Fiscal,Recursos propios,Presencial,4,7.75,,0,4,66.0,15.0,3.2,0,349.0,1,9.8,1,2024-07-08,Economico,4.0
+EST-2024-0496,2023-S2,Administración de Empresas,Imbabura,Rural,F,25,Soltero/a,Fiscal,Recursos propios,Semi-presencial,6,6.42,6.06,0,4,71.9,0.0,8.8,3,418.0,4,6.1,0,,,
+EST-2025-0497,2023-S1,Medicina,Guayas,Rural,M,26,Soltero/a,Fiscomisional,Beca completa,Presencial,3,5.98,6.02,1,5,89.4,15.0,11.0,4,363.0,3,4.7,0,,,
+EST-2020-0498,2023-S1,Administración de Empresas,Azuay,Urbana,F,21,Union libre,Particular,Beca completa,Presencial,6,8.55,9.56,2,5,100.0,0.0,6.9,0,433.0,5,5.9,0,,,
+EST-2021-0499,2022-S2,Contabilidad,Pichincha,Urbana,F,17,Soltero/a,Fiscal,Beca completa,Presencial,5,6.41,6.75,1,4,78.4,0.0,21.2,0,934.0,3,5.9,0,,,
+EST-2022-0500,2022-S1,Administración de Empresas,Loja,Urbana,F,22,Union libre,Fiscal,Recursos propios,Presencial,4,9.56,4.18,1,5,63.9,0.0,5.3,1,879.0,5,,0,,,
+EST-2023-0501,2022-S2,Psicología,Manabí,Urbana,F,19,Soltero/a,Fiscal,Recursos propios,Presencial,4,7.54,6.36,0,8,46.7,0.0,11.7,1,391.0,0,2.3,1,2024-02-13,Academico,4.0
+EST-2024-0502,2023-S2,Ciencia de Datos,Manabí,Rural,M,19,Casado/a,Fiscal,Beca parcial,Presencial,5,8.4,,1,5,83.6,34.0,0.6,1,458.0,3,5.8,1,2024-01-12,Personal,6.0
+EST-2025-0503,2022-S2,Arquitectura,Esmeraldas,Rural,F,25,Casado/a,Particular,Credito educativo,Presencial,3,6.66,7.4,4,5,63.7,30.0,13.7,0,947.0,4,6.1,1,2024-03-12,Economico,4.0
+EST-2020-0504,2022-S2,Arquitectura,Manabí,Urbana,M,26,Soltero/a,Fiscal,Beca completa,Presencial,3,6.74,6.69,0,4,83.7,29.0,5.5,0,791.0,0,7.3,0,,,
+EST-2021-0505,2023-S1,Medicina,Esmeraldas,Urbana,M,20,Soltero/a,Fiscal,Beca parcial,Presencial,1,9.06,6.66,1,6,73.4,0.0,8.5,6,1221.0,4,6.9,0,,,
+EST-2022-0506,2022-S2,Medicina,Pichincha,Urbana,M,20,Soltero/a,Particular,Recursos propios,Semi-presencial,1,7.17,5.55,1,6,96.7,21.0,2.8,4,578.0,5,5.3,0,,,
+EST-2023-0507,2023-S1,Ciencia de Datos,Imbabura,Rural,F,20,Soltero/a,Fiscal,Beca parcial,Presencial,4,6.56,7.67,0,8,88.7,0.0,15.7,2,430.0,0,6.0,0,,,
+EST-2024-0508,2023-S1,Arquitectura,Pichincha,Rural,M,23,Casado/a,Particular,Beca parcial,Semi-presencial,4,8.26,7.1,0,4,97.0,40.0,35.3,0,545.0,1,10.0,0,,,
+EST-2025-0509,2022-S1,Ingeniería Civil,Imbabura,Urbana,M,20,Soltero/a,Fiscal,Recursos propios,Presencial,5,6.44,,0,7,95.8,0.0,9.1,1,398.0,5,6.5,0,,,
+EST-2020-0510,2023-S1,Ingeniería Civil,Manabí,Urbana,M,26,Soltero/a,Fiscal,Beca parcial,Presencial,2,8.84,7.65,1,6,85.1,0.0,7.8,2,383.0,4,4.6,0,,,
+EST-2021-0511,2022-S2,Psicología,Pichincha,Rural,M,23,Soltero/a,Particular,Beca parcial,Presencial,6,7.3,7.61,3,4,72.6,40.0,4.0,1,1412.0,0,6.9,1,2024-01-16,Economico,7.0
+EST-2022-0512,2023-S2,Ciencia de Datos,Pichincha,Rural,F,17,Casado/a,Fiscal,Beca parcial,Semi-presencial,4,8.04,8.18,2,6,74.6,0.0,11.7,3,1191.0,4,,0,,,
+EST-2023-0513,2022-S1,Arquitectura,Azuay,Urbana,F,23,Soltero/a,Fiscal,Recursos propios,Semi-presencial,1,6.68,7.84,1,4,91.2,0.0,24.1,0,1045.0,4,,0,,,
+EST-2024-0514,2023-S1,Ciencia de Datos,Loja,Urbana,F,19,Soltero/a,Fiscal,Beca parcial,Presencial,4,6.16,7.29,1,7,61.7,19.0,0.5,4,887.0,1,4.4,0,,,
+EST-2025-0515,2023-S1,Ingeniería Civil,Azuay,Urbana,M,23,Soltero/a,Fiscal,Recursos propios,Presencial,1,7.92,7.46,1,6,93.9,36.0,20.2,1,662.0,0,5.3,0,,,
+EST-2020-0516,2022-S1,Psicología,Imbabura,Urbana,F,27,Soltero/a,Fiscal,Credito educativo,Presencial,2,8.56,7.74,0,5,84.2,0.0,0.8,3,705.0,1,10.0,0,,,
+EST-2021-0517,2022-S1,Contabilidad,Loja,Urbana,F,25,Soltero/a,Particular,Credito educativo,Semi-presencial,6,6.88,8.86,0,6,73.7,44.0,17.8,5,457.0,0,7.6,1,2024-08-18,Laboral,7.0
+EST-2022-0518,2023-S2,Medicina,Guayas,Urbana,F,17,Union libre,Fiscal,Beca completa,Semi-presencial,3,6.97,6.65,2,5,82.6,0.0,15.1,1,1846.0,5,5.1,0,,,
+EST-2023-0519,2023-S1,Medicina,Esmeraldas,Urbana,M,26,Casado/a,Fiscal,Beca parcial,Presencial,2,7.78,,1,6,80.2,0.0,21.0,5,522.0,0,5.8,0,,,
+EST-2024-0520,2022-S1,Ingeniería Civil,Manabí,Rural,M,17,Soltero/a,Fiscal,Credito educativo,Semi-presencial,4,6.62,6.84,3,8,84.8,29.0,1.6,3,426.0,5,7.2,0,,,
+EST-2025-0521,2022-S1,Ciencia de Datos,Manabí,Urbana,M,26,Soltero/a,Fiscal,Beca parcial,Presencial,5,6.09,,0,5,74.0,33.0,23.4,6,368.0,0,3.4,1,2024-04-02,Economico,5.0
+EST-2020-0522,2023-S2,Medicina,Tungurahua,Urbana,F,17,Casado/a,Fiscal,Beca completa,Presencial,5,7.58,5.98,1,7,81.6,23.0,6.1,2,392.0,0,9.4,0,,,
+EST-2021-0523,2023-S1,Contabilidad,Tungurahua,Rural,M,19,Casado/a,Particular,Recursos propios,Presencial,3,7.5,6.71,0,6,74.3,0.0,36.8,2,218.0,4,8.5,0,,,
+EST-2022-0524,2023-S1,Psicología,Guayas,Urbana,M,18,Soltero/a,Fiscal,Credito educativo,Semi-presencial,1,7.2,5.3,0,5,99.3,0.0,6.7,2,1024.0,3,8.3,0,,,
+EST-2023-0525,2022-S2,Derecho,Guayas,Rural,F,20,Casado/a,Particular,Recursos propios,Semi-presencial,3,6.79,8.15,1,7,65.2,35.0,3.5,2,326.0,3,7.2,1,2024-05-17,Economico,4.0
+EST-2024-0526,2022-S1,Psicología,Guayas,Rural,M,27,Casado/a,Fiscal,Beca completa,Presencial,3,7.7,7.88,3,4,60.9,20.0,4.5,1,2575.0,0,6.9,1,2024-03-21,Personal,3.0
+EST-2025-0527,2022-S1,Psicología,Guayas,Rural,M,17,Soltero/a,Fiscal,Recursos propios,Presencial,6,7.08,6.75,3,7,58.1,12.0,17.5,1,1051.0,0,6.1,1,2024-03-21,Economico,7.0
+EST-2020-0528,2022-S2,Derecho,Imbabura,Urbana,F,23,Soltero/a,Fiscal,Beca completa,Presencial,6,9.58,8.22,0,8,91.9,0.0,15.6,2,389.0,3,7.8,0,,,
+EST-2021-0529,2022-S1,Contabilidad,Pichincha,Urbana,M,23,Soltero/a,Fiscal,Recursos propios,Semi-presencial,3,7.43,6.01,0,4,95.6,15.0,10.8,5,811.0,1,,0,,,
+EST-2022-0530,2023-S2,Ingeniería Civil,Tungurahua,Rural,F,18,Soltero/a,Particular,Beca parcial,Presencial,5,8.12,7.09,1,7,91.4,36.0,3.7,2,1023.0,3,7.2,0,,,
+EST-2023-0531,2023-S2,Derecho,Azuay,Urbana,F,22,Soltero/a,Particular,Recursos propios,Presencial,2,7.37,5.73,2,6,96.4,32.0,12.9,0,244.0,5,4.9,0,,,
+EST-2024-0532,2023-S2,Contabilidad,Loja,Rural,M,20,Soltero/a,Particular,Recursos propios,Presencial,4,9.01,9.71,1,4,71.4,0.0,90.5,1,562.0,3,5.7,0,,,
+EST-2025-0533,2022-S2,Psicología,Guayas,Urbana,F,26,Soltero/a,Fiscomisional,Credito educativo,Presencial,2,8.04,6.12,2,8,95.3,22.0,6.0,1,307.0,2,6.7,0,,,
+EST-2020-0534,2023-S2,Ciencia de Datos,El Oro,Urbana,F,20,Soltero/a,Fiscal,Recursos propios,Presencial,1,8.21,4.84,2,6,56.8,41.0,10.4,2,263.0,1,5.8,1,2024-05-03,Economico,1.0
+EST-2021-0535,2022-S1,Derecho,Imbabura,Urbana,F,20,Soltero/a,Fiscal,Credito educativo,Semi-presencial,2,8.36,8.46,1,8,77.9,35.0,48.5,5,628.0,4,7.9,0,,,
+EST-2022-0536,2023-S1,Administración de Empresas,Esmeraldas,Urbana,F,19,Soltero/a,Particular,Recursos propios,Presencial,5,8.67,8.01,3,7,76.4,11.0,37.5,2,367.0,0,7.5,0,,,
+EST-2023-0537,2023-S1,Medicina,Tungurahua,Urbana,M,21,Soltero/a,Fiscal,Credito educativo,Semi-presencial,1,8.36,7.44,1,7,75.3,0.0,18.0,2,958.0,4,10.0,0,,,
+EST-2024-0538,2022-S1,Arquitectura,El Oro,Rural,F,18,Casado/a,Fiscal,Recursos propios,Presencial,3,8.47,5.54,2,8,81.3,0.0,16.3,2,769.0,4,6.0,0,,,
+EST-2025-0539,2023-S2,Arquitectura,Pichincha,Urbana,F,22,Soltero/a,Particular,Recursos propios,Presencial,3,5.42,7.59,1,7,59.3,14.0,6.6,4,562.0,3,5.8,0,,,
+EST-2020-0540,2023-S2,Ingeniería Civil,Pichincha,Rural,M,21,Soltero/a,Fiscal,Beca completa,Presencial,4,6.92,8.68,1,7,79.8,0.0,18.6,1,450.0,3,5.9,0,,,
+EST-2021-0541,2023-S1,Contabilidad,Manabí,Urbana,F,24,Soltero/a,Fiscal,Recursos propios,Semi-presencial,4,6.95,7.5,1,5,98.5,23.0,24.5,1,804.0,0,8.4,0,,,
+EST-2022-0542,2022-S2,Administración de Empresas,Chimborazo,Urbana,M,17,Union libre,Fiscomisional,Recursos propios,Presencial,6,8.88,4.6,0,4,93.2,0.0,28.1,1,506.0,2,5.7,0,,,
+EST-2023-0543,2023-S1,Contabilidad,Loja,Urbana,M,27,Soltero/a,Fiscal,Recursos propios,Semi-presencial,4,6.34,6.2,1,5,100.0,0.0,101.1,4,320.0,2,7.7,0,,,
+EST-2024-0544,2022-S1,Administración de Empresas,Manabí,Urbana,M,26,Soltero/a,Fiscomisional,Recursos propios,Semi-presencial,1,8.56,8.38,1,5,84.6,0.0,2.6,2,1154.0,3,7.1,0,,,
+EST-2025-0545,2022-S1,Derecho,Pichincha,Urbana,F,22,Casado/a,Fiscal,Credito educativo,Semi-presencial,2,7.06,7.48,1,6,90.2,34.0,10.0,2,1082.0,0,7.1,0,,,
+EST-2020-0546,2022-S1,Contabilidad,Manabí,Urbana,M,27,Soltero/a,Fiscal,Credito educativo,Presencial,2,6.14,4.57,0,4,99.7,0.0,,1,969.0,0,6.5,0,,,
+EST-2021-0547,2023-S1,Ingeniería Civil,Pichincha,Rural,M,18,Soltero/a,Fiscal,Beca completa,Presencial,4,5.52,8.05,0,6,70.8,0.0,9.2,1,597.0,2,3.5,0,,,
+EST-2022-0548,2022-S2,Ingeniería Civil,Manabí,Urbana,F,25,Soltero/a,Fiscal,Recursos propios,Presencial,1,6.99,8.66,1,7,78.2,36.0,4.7,3,295.0,3,6.1,0,,,
+EST-2023-0549,2022-S2,Medicina,Pichincha,Urbana,F,26,Soltero/a,Particular,Credito educativo,Semi-presencial,4,9.79,6.71,2,7,85.0,0.0,26.4,2,1570.0,1,8.2,0,,,
+EST-2024-0550,2023-S1,Ingeniería Civil,Chimborazo,Rural,F,22,Soltero/a,Fiscal,Recursos propios,Presencial,1,9.2,7.35,0,4,79.5,0.0,7.2,2,409.0,1,7.4,0,,,
+EST-2025-0551,2022-S2,Contabilidad,Guayas,Urbana,M,19,Soltero/a,Fiscal,Recursos propios,Presencial,6,7.81,9.44,0,6,64.4,0.0,0.6,3,371.0,5,3.3,0,,,
+EST-2020-0552,2022-S2,Medicina,Manabí,Urbana,M,22,Soltero/a,Fiscal,Beca completa,Semi-presencial,2,7.16,5.68,1,4,85.0,0.0,9.8,0,417.0,1,3.6,0,,,
+EST-2021-0553,2023-S1,Ciencia de Datos,Chimborazo,Urbana,F,23,Casado/a,Particular,Credito educativo,Presencial,6,8.36,,1,5,100.0,0.0,0.5,2,519.0,4,5.8,0,,,
+EST-2022-0554,2022-S2,Ingeniería Civil,Tungurahua,Rural,M,18,Union libre,Fiscal,Beca parcial,Presencial,3,7.44,8.04,2,6,70.4,0.0,,0,778.0,3,3.9,0,,,
+EST-2023-0555,2023-S2,Administración de Empresas,El Oro,Rural,M,22,Soltero/a,Particular,Recursos propios,Semi-presencial,6,6.38,4.84,0,6,73.8,38.0,120.0,4,628.0,2,6.9,1,2024-03-12,Laboral,6.0
+EST-2024-0556,2023-S1,Medicina,Loja,Urbana,M,21,Soltero/a,Fiscal,Beca completa,Presencial,3,7.65,7.12,2,7,88.1,41.0,12.1,1,1550.0,5,9.1,0,,,
+EST-2025-0557,2023-S1,Ciencia de Datos,Chimborazo,Urbana,F,26,Soltero/a,Particular,Beca completa,Semi-presencial,3,7.55,10.0,1,4,81.9,0.0,6.2,1,590.0,2,5.5,0,,,
+EST-2020-0558,2022-S1,Psicología,Manabí,Urbana,F,18,Soltero/a,Fiscal,Beca completa,Presencial,5,7.81,9.46,3,6,91.3,22.0,29.4,1,1300.0,0,8.2,0,,,
+EST-2021-0559,2023-S1,Ingeniería Civil,Imbabura,Rural,F,20,Soltero/a,Particular,Beca parcial,Presencial,3,7.01,8.09,2,6,80.7,23.0,1.7,2,800.0,2,,0,,,
+EST-2022-0560,2022-S1,Ciencia de Datos,El Oro,Rural,M,27,Casado/a,Particular,Beca completa,Semi-presencial,1,7.1,,1,4,92.9,0.0,113.1,1,609.0,2,4.6,0,,,
+EST-2023-0561,2023-S2,Arquitectura,Guayas,Urbana,M,25,Soltero/a,Fiscal,Beca parcial,Semi-presencial,6,6.82,8.5,0,8,65.5,0.0,9.8,1,534.0,5,7.5,0,,,
+EST-2024-0562,2023-S2,Ciencia de Datos,Pichincha,Urbana,M,20,Casado/a,Fiscal,Credito educativo,Presencial,1,7.31,8.54,1,7,74.5,0.0,3.2,2,1060.0,5,6.3,0,,,
+EST-2025-0563,2023-S2,Ciencia de Datos,Chimborazo,Urbana,M,22,Soltero/a,Particular,Credito educativo,Presencial,6,8.08,7.72,1,6,86.0,0.0,54.0,3,728.0,2,4.5,0,,,
+EST-2020-0564,2022-S2,Arquitectura,Esmeraldas,Rural,F,22,Soltero/a,Fiscal,Recursos propios,Semi-presencial,5,8.65,7.56,0,7,85.0,0.0,0.9,1,690.0,3,7.8,0,,,
+EST-2021-0565,2022-S1,Psicología,Pichincha,Urbana,F,17,Soltero/a,Fiscal,Recursos propios,Presencial,1,9.03,,0,7,70.8,25.0,2.5,1,565.0,1,8.1,0,,,
+EST-2022-0566,2023-S2,Derecho,Pichincha,Urbana,M,21,Casado/a,Fiscal,Beca completa,Presencial,2,7.22,7.42,2,4,58.2,37.0,39.8,2,405.0,5,6.5,1,2024-08-08,Economico,2.0
+EST-2023-0567,2022-S1,Contabilidad,Pichincha,Urbana,F,26,Soltero/a,Fiscal,Recursos propios,Presencial,6,9.89,7.51,3,4,64.6,0.0,59.0,2,1218.0,4,6.1,0,,,
+EST-2024-0568,2022-S2,Medicina,El Oro,Urbana,M,25,Union libre,Particular,Recursos propios,Presencial,6,8.11,,1,5,84.2,0.0,1.5,0,861.0,2,4.1,0,,,
+EST-2025-0569,2022-S2,Psicología,Tungurahua,Urbana,F,24,Union libre,Particular,Recursos propios,Semi-presencial,4,6.93,9.01,0,4,68.8,0.0,29.1,1,646.0,5,9.9,0,,,
+EST-2020-0570,2022-S1,Ciencia de Datos,Guayas,Rural,M,24,Casado/a,Fiscal,Beca parcial,Presencial,2,9.36,6.25,0,5,92.3,16.0,7.0,2,945.0,4,7.4,0,,,
+EST-2021-0571,2022-S1,Ciencia de Datos,Tungurahua,Rural,F,24,Soltero/a,Fiscal,Credito educativo,Semi-presencial,4,7.75,5.87,0,8,82.7,0.0,0.5,2,1121.0,0,8.0,0,,,
+EST-2022-0572,2022-S1,Administración de Empresas,Tungurahua,Urbana,M,27,Soltero/a,Fiscal,Beca parcial,Presencial,6,10.0,,3,5,78.8,0.0,15.8,3,432.0,5,6.4,0,,,
+EST-2023-0573,2022-S2,Psicología,Pichincha,Rural,M,20,Soltero/a,Fiscal,Credito educativo,Presencial,2,6.88,6.7,3,4,51.3,0.0,4.7,3,1388.0,0,4.2,1,2024-04-07,Academico,3.0
+EST-2024-0574,2023-S2,Ciencia de Datos,Imbabura,Urbana,F,26,Union libre,Fiscomisional,Recursos propios,Presencial,4,7.19,8.4,0,7,68.6,31.0,2.0,2,352.0,2,3.8,0,,,
+EST-2025-0575,2022-S2,Medicina,Tungurahua,Rural,M,17,Union libre,Particular,Beca completa,Presencial,6,6.14,5.64,2,5,74.2,0.0,13.3,3,1044.0,3,7.6,0,,,
+EST-2020-0576,2022-S2,Arquitectura,Azuay,Urbana,M,18,Casado/a,Fiscal,Beca parcial,Semi-presencial,1,8.22,7.97,0,7,80.6,0.0,1.2,4,1279.0,3,8.3,0,,,
+EST-2021-0577,2022-S2,Arquitectura,Chimborazo,Urbana,F,18,Soltero/a,Particular,Recursos propios,Semi-presencial,5,7.94,8.09,0,5,85.3,0.0,6.8,1,655.0,2,,0,,,
+EST-2022-0578,2022-S2,Administración de Empresas,Imbabura,Rural,F,24,Soltero/a,Fiscal,Beca completa,Presencial,2,8.08,4.81,0,6,82.5,0.0,0.5,1,1591.0,2,6.6,0,,,
+EST-2023-0579,2022-S1,Ciencia de Datos,Guayas,Urbana,M,23,Casado/a,Fiscal,Beca parcial,Presencial,3,7.78,7.79,2,4,78.2,0.0,8.2,5,439.0,4,6.8,0,,,
+EST-2024-0580,2022-S2,Medicina,Azuay,Rural,F,26,Soltero/a,Fiscal,Recursos propios,Presencial,1,6.12,6.93,1,8,99.6,32.0,,1,735.0,2,3.6,0,,,
+EST-2025-0581,2022-S2,Medicina,Tungurahua,Rural,F,24,Casado/a,Fiscal,Credito educativo,Semi-presencial,3,6.34,,1,6,86.7,11.0,48.2,1,481.0,5,3.5,1,2024-01-02,Laboral,4.0
+EST-2020-0582,2023-S2,Psicología,Chimborazo,Rural,M,17,Casado/a,Fiscal,Recursos propios,Presencial,4,7.85,8.41,0,4,86.4,44.0,1.9,2,293.0,5,6.9,0,,,
+EST-2021-0583,2022-S1,Derecho,Azuay,Urbana,M,26,Casado/a,Particular,Beca completa,Presencial,3,8.45,8.06,1,6,48.0,32.0,33.8,1,1607.0,2,5.8,1,2024-07-23,Personal,4.0
+EST-2022-0584,2022-S2,Ciencia de Datos,Guayas,Rural,F,27,Union libre,Fiscal,Credito educativo,Presencial,3,8.87,7.17,0,6,92.5,0.0,53.2,0,223.0,0,7.3,0,,,
+EST-2023-0585,2022-S2,Arquitectura,Guayas,Urbana,M,21,Soltero/a,Fiscal,Beca parcial,Presencial,3,8.16,5.01,2,4,70.7,0.0,6.8,3,1261.0,3,3.7,0,,,
+EST-2024-0586,2022-S2,Ingeniería Civil,Azuay,Urbana,M,25,Soltero/a,Fiscal,Recursos propios,Presencial,1,8.43,6.04,1,4,74.2,0.0,11.4,2,507.0,5,8.2,0,,,
+EST-2025-0587,2022-S1,Derecho,Guayas,Urbana,M,19,Soltero/a,Fiscal,Credito educativo,Presencial,3,7.8,8.55,1,7,68.1,0.0,13.0,1,1221.0,0,7.1,0,,,
+EST-2020-0588,2023-S1,Psicología,Pichincha,Urbana,F,20,Soltero/a,Fiscal,Beca completa,Semi-presencial,5,6.19,6.19,0,5,94.1,0.0,18.2,2,553.0,1,7.8,0,,,
+EST-2021-0589,2023-S1,Ciencia de Datos,Tungurahua,Urbana,F,17,Soltero/a,Particular,Recursos propios,Presencial,2,9.37,,3,5,100.0,0.0,37.2,0,564.0,4,6.5,0,,,
+EST-2022-0590,2023-S2,Derecho,Azuay,Rural,F,19,Soltero/a,Particular,Credito educativo,Semi-presencial,2,6.74,7.45,0,6,46.1,13.0,8.9,2,659.0,0,7.7,1,2024-01-06,Personal,3.0
+EST-2023-0591,2023-S1,Psicología,Azuay,Rural,M,23,Soltero/a,Particular,Recursos propios,Semi-presencial,4,7.15,7.75,1,4,66.5,0.0,24.3,3,600.0,1,,1,2024-02-15,Laboral,4.0
+EST-2024-0592,2022-S1,Derecho,Manabí,Rural,M,24,Casado/a,Fiscal,Beca parcial,Presencial,6,8.76,4.88,1,7,97.3,0.0,3.7,2,1222.0,5,6.3,0,,,
+EST-2025-0593,2023-S2,Arquitectura,Guayas,Rural,F,21,Casado/a,Fiscal,Recursos propios,Presencial,1,7.3,8.57,2,7,65.1,25.0,5.2,2,1143.0,1,6.3,1,2024-04-17,Academico,1.0
+EST-2020-0594,2022-S2,Administración de Empresas,Esmeraldas,Urbana,M,23,Soltero/a,Particular,Credito educativo,Presencial,6,7.37,10.0,0,6,74.9,0.0,0.5,0,656.0,2,4.2,0,,,
+EST-2021-0595,2023-S1,Ingeniería Civil,Esmeraldas,Rural,M,26,Casado/a,Fiscal,Beca parcial,Presencial,4,7.06,8.05,1,7,100.0,0.0,40.1,2,202.0,4,5.5,0,,,
+EST-2022-0596,2022-S2,Administración de Empresas,Esmeraldas,Urbana,M,17,Soltero/a,Fiscomisional,Beca parcial,Presencial,6,8.45,6.7,0,6,87.9,0.0,6.1,0,200.0,2,6.6,0,,,
+EST-2023-0597,2022-S2,Medicina,Azuay,Urbana,F,23,Soltero/a,Particular,Beca completa,Semi-presencial,3,7.31,9.31,1,5,80.5,16.0,20.3,1,612.0,2,7.3,0,,,
+EST-2024-0598,2023-S2,Psicología,Guayas,Urbana,F,19,Soltero/a,Fiscal,Recursos propios,Presencial,1,8.12,8.63,1,7,66.9,34.0,6.6,5,1603.0,4,8.8,0,,,
+EST-2025-0599,2023-S1,Administración de Empresas,Guayas,Urbana,M,27,Soltero/a,Particular,Credito educativo,Semi-presencial,2,10.0,6.99,1,7,74.3,0.0,46.0,3,725.0,2,7.4,0,,,
+EST-2020-0600,2023-S2,Arquitectura,Guayas,Rural,F,21,Soltero/a,Fiscal,Credito educativo,Presencial,2,7.28,4.4,1,8,74.3,0.0,27.9,1,771.0,1,,0,,,
+EST-2021-0601,2022-S1,Ingeniería Civil,Guayas,Urbana,M,26,Soltero/a,Fiscal,Recursos propios,Presencial,3,8.83,6.42,2,7,89.5,0.0,15.9,3,1224.0,1,7.8,0,,,
+EST-2022-0602,2023-S1,Arquitectura,Tungurahua,Rural,F,19,Casado/a,Fiscal,Credito educativo,Presencial,1,8.06,8.87,2,4,66.0,21.0,30.4,2,650.0,2,5.7,1,2024-03-27,Academico,1.0
+EST-2023-0603,2023-S2,Arquitectura,Loja,Urbana,M,18,Soltero/a,Fiscal,Beca parcial,Presencial,2,8.78,7.75,0,6,57.2,27.0,40.5,3,200.0,5,6.6,0,,,
+EST-2024-0604,2022-S1,Contabilidad,Guayas,Urbana,F,27,Soltero/a,Fiscal,Recursos propios,Semi-presencial,1,8.35,5.38,1,8,84.8,0.0,12.6,2,1251.0,2,4.0,0,,,
+EST-2025-0605,2023-S2,Administración de Empresas,Manabí,Rural,F,18,Casado/a,Fiscal,Recursos propios,Presencial,5,8.55,6.86,1,6,76.3,22.0,32.0,1,302.0,3,4.2,1,2024-02-05,Academico,6.0
+EST-2020-0606,2023-S1,Arquitectura,Pichincha,Urbana,M,27,Soltero/a,Particular,Beca parcial,Presencial,4,8.13,4.34,0,6,84.9,0.0,6.9,4,290.0,2,7.0,0,,,
+EST-2021-0607,2023-S1,Ingeniería Civil,Pichincha,Rural,M,18,Casado/a,Fiscal,Recursos propios,Presencial,6,7.86,5.42,0,5,84.5,17.0,48.4,0,769.0,5,5.9,0,,,
+EST-2022-0608,2022-S2,Administración de Empresas,Azuay,Urbana,F,26,Soltero/a,Fiscal,Beca completa,Presencial,1,9.1,8.7,2,5,76.7,16.0,4.0,1,1311.0,4,8.5,0,,,
+EST-2023-0609,2022-S2,Administración de Empresas,Pichincha,Urbana,F,25,Soltero/a,Fiscal,Beca completa,Semi-presencial,6,6.33,10.0,0,7,62.5,0.0,15.4,2,971.0,1,8.2,0,,,
+EST-2024-0610,2022-S1,Derecho,Tungurahua,Urbana,F,20,Soltero/a,Fiscal,Credito educativo,Presencial,5,6.82,10.0,0,4,86.5,0.0,4.3,4,639.0,3,10.0,0,,,
+EST-2025-0611,2022-S2,Arquitectura,Azuay,Rural,F,21,Casado/a,Fiscal,Credito educativo,Semi-presencial,5,7.73,5.93,1,7,69.8,23.0,13.8,0,209.0,5,4.5,1,2024-07-19,Personal,5.0
+EST-2020-0612,2023-S2,Ingeniería Civil,Manabí,Urbana,M,21,Casado/a,Particular,Recursos propios,Semi-presencial,2,6.76,9.24,0,6,75.6,32.0,4.6,4,625.0,1,5.7,0,,,
+EST-2021-0613,2022-S2,Contabilidad,Guayas,Urbana,M,22,Soltero/a,Fiscal,Credito educativo,Semi-presencial,2,8.73,6.77,0,8,100.0,44.0,11.7,2,561.0,3,6.8,0,,,
+EST-2022-0614,2022-S1,Derecho,Esmeraldas,Urbana,F,21,Soltero/a,Fiscomisional,Beca completa,Presencial,6,7.0,7.6,0,6,75.1,43.0,9.9,2,603.0,4,8.8,0,,,
+EST-2023-0615,2023-S1,Administración de Empresas,Pichincha,Urbana,M,25,Soltero/a,Particular,Beca completa,Presencial,1,8.33,7.28,2,8,77.5,10.0,20.6,1,1057.0,2,4.6,0,,,
+EST-2024-0616,2023-S1,Psicología,Loja,Rural,F,27,Casado/a,Fiscal,Beca parcial,Presencial,3,8.78,8.81,1,8,54.0,0.0,9.7,0,514.0,5,8.1,0,,,
+EST-2025-0617,2023-S2,Contabilidad,Pichincha,Rural,M,22,Soltero/a,Fiscal,Beca completa,Semi-presencial,1,8.1,9.13,3,6,67.3,0.0,3.5,2,1530.0,4,3.0,1,2024-08-15,Personal,1.0
+EST-2020-0618,2022-S1,Derecho,Pichincha,Rural,M,20,Union libre,Particular,Recursos propios,Presencial,5,8.04,7.58,0,7,66.6,0.0,6.6,0,1076.0,4,,0,,,
+EST-2021-0619,2022-S1,Psicología,Loja,Urbana,F,23,Soltero/a,Particular,Beca completa,Presencial,5,7.56,7.93,0,7,64.6,0.0,0.9,2,1069.0,0,6.2,0,,,
+EST-2022-0620,2022-S1,Contabilidad,Imbabura,Rural,M,24,Casado/a,Fiscal,Beca parcial,Presencial,3,8.87,7.95,5,6,55.3,0.0,1.7,1,754.0,4,10.0,1,2024-04-01,Personal,3.0
+EST-2023-0621,2022-S1,Derecho,Pichincha,Rural,M,23,Soltero/a,Fiscal,Credito educativo,Semi-presencial,3,4.35,8.64,2,8,82.3,0.0,9.5,1,1461.0,5,8.8,0,,,
+EST-2024-0622,2023-S2,Medicina,Loja,Urbana,F,24,Soltero/a,Fiscomisional,Beca completa,Presencial,6,7.66,8.7,1,5,90.8,0.0,20.0,0,202.0,1,7.9,0,,,
+EST-2025-0623,2023-S1,Derecho,Guayas,Urbana,F,19,Casado/a,Fiscal,Beca completa,Presencial,6,7.54,7.84,2,7,86.3,0.0,,2,315.0,5,3.2,0,,,
+EST-2020-0624,2022-S2,Administración de Empresas,Azuay,Rural,F,27,Soltero/a,Fiscomisional,Beca completa,Semi-presencial,6,5.55,8.38,0,5,80.1,0.0,17.8,4,1367.0,0,8.4,0,,,
+EST-2021-0625,2023-S1,Arquitectura,Guayas,Rural,F,25,Soltero/a,Particular,Beca completa,Semi-presencial,6,5.32,5.17,0,4,88.7,0.0,15.5,1,578.0,4,4.5,0,,,
+EST-2022-0626,2023-S2,Psicología,El Oro,Rural,F,18,Soltero/a,Particular,Recursos propios,Presencial,1,6.86,,2,6,66.6,14.0,1.8,2,1005.0,0,5.7,1,2024-05-03,Economico,2.0
+EST-2023-0627,2023-S1,Ciencia de Datos,Guayas,Rural,M,19,Soltero/a,Fiscal,Beca completa,Presencial,3,6.46,7.7,2,5,84.7,22.0,5.0,2,854.0,3,6.7,0,,,
+EST-2024-0628,2023-S1,Psicología,Guayas,Urbana,F,20,Soltero/a,Fiscal,Recursos propios,Presencial,6,5.72,8.95,0,5,69.8,0.0,33.5,3,1733.0,4,4.8,0,,,
+EST-2025-0629,2022-S1,Ingeniería Civil,Pichincha,Rural,M,21,Union libre,Fiscal,Beca parcial,Presencial,6,4.97,6.25,0,5,83.9,0.0,10.7,2,426.0,0,5.1,1,2024-01-20,Personal,7.0
+EST-2020-0630,2022-S1,Medicina,Tungurahua,Urbana,F,18,Soltero/a,Particular,Recursos propios,Semi-presencial,5,7.79,8.03,2,7,88.4,0.0,3.3,0,681.0,1,8.3,0,,,
+EST-2021-0631,2023-S1,Ingeniería Civil,Azuay,Urbana,F,18,Union libre,Fiscal,Recursos propios,Presencial,4,7.81,7.01,0,5,59.7,29.0,26.8,2,424.0,5,6.6,0,,,
+EST-2022-0632,2023-S2,Contabilidad,Loja,Urbana,M,20,Soltero/a,Fiscal,Beca parcial,Presencial,2,9.55,6.06,0,5,92.7,0.0,10.7,3,301.0,1,6.7,0,,,
+EST-2023-0633,2022-S2,Ingeniería Civil,El Oro,Urbana,M,20,Casado/a,Fiscal,Credito educativo,Presencial,6,5.87,7.96,2,6,76.6,0.0,1.8,0,471.0,3,5.1,0,,,
+EST-2024-0634,2023-S2,Ciencia de Datos,Pichincha,Urbana,M,17,Soltero/a,Fiscal,Beca completa,Presencial,6,7.92,6.82,0,5,95.7,22.0,9.3,0,493.0,1,8.5,0,,,
+EST-2025-0635,2023-S2,Medicina,Chimborazo,Urbana,F,24,Casado/a,Particular,Recursos propios,Presencial,1,7.05,6.88,1,5,64.0,0.0,0.5,5,687.0,2,5.3,0,,,
+EST-2020-0636,2023-S1,Administración de Empresas,El Oro,Urbana,M,26,Soltero/a,Particular,Recursos propios,Presencial,4,9.07,6.67,0,8,72.7,0.0,7.9,2,283.0,3,4.3,0,,,
+EST-2021-0637,2022-S2,Psicología,Pichincha,Urbana,M,18,Soltero/a,Fiscal,Recursos propios,Presencial,1,8.71,,1,7,50.5,42.0,14.6,2,618.0,2,4.7,1,2024-03-03,Economico,1.0
+EST-2022-0638,2023-S2,Contabilidad,Pichincha,Urbana,M,17,Soltero/a,Particular,Credito educativo,Presencial,3,8.14,8.31,0,5,73.1,0.0,7.7,3,200.0,5,5.7,0,,,
+EST-2023-0639,2023-S2,Arquitectura,Azuay,Urbana,F,19,Soltero/a,Fiscal,Credito educativo,Semi-presencial,5,7.58,6.85,1,6,67.1,16.0,112.3,2,364.0,1,6.2,1,2024-08-23,Personal,5.0
+EST-2024-0640,2022-S2,Contabilidad,El Oro,Urbana,M,20,Soltero/a,Particular,Credito educativo,Presencial,6,7.56,6.76,2,7,90.6,0.0,5.5,4,1304.0,1,8.0,0,,,
+EST-2025-0641,2022-S2,Psicología,Esmeraldas,Rural,F,18,Union libre,Particular,Beca parcial,Presencial,6,8.72,5.35,2,6,85.0,0.0,21.0,3,1766.0,2,5.4,0,,,
+EST-2020-0642,2022-S2,Contabilidad,El Oro,Urbana,M,23,Soltero/a,Particular,Recursos propios,Semi-presencial,6,7.3,9.21,2,7,85.0,0.0,16.6,0,691.0,1,9.1,0,,,
+EST-2021-0643,2022-S2,Arquitectura,Esmeraldas,Rural,M,27,Soltero/a,Fiscomisional,Credito educativo,Presencial,5,7.66,9.26,0,4,96.9,14.0,20.6,1,1280.0,5,8.3,0,,,
+EST-2022-0644,2023-S2,Ingeniería Civil,Loja,Urbana,M,25,Casado/a,Particular,Beca parcial,Presencial,1,7.2,7.0,0,8,99.1,0.0,9.4,0,495.0,4,8.5,0,,,
+EST-2023-0645,2023-S2,Arquitectura,Pichincha,Rural,M,23,Soltero/a,Particular,Beca parcial,Presencial,3,8.23,7.55,0,4,79.6,43.0,9.5,1,1030.0,5,5.3,0,,,
+EST-2024-0646,2023-S2,Administración de Empresas,Guayas,Rural,F,27,Soltero/a,Fiscal,Beca completa,Presencial,6,7.93,3.54,1,7,89.8,0.0,0.5,7,629.0,2,4.3,0,,,
+EST-2025-0647,2022-S1,Derecho,Tungurahua,Rural,M,24,Soltero/a,Fiscal,Credito educativo,Presencial,1,9.81,7.69,0,4,85.0,0.0,47.6,1,996.0,1,7.3,0,,,
+EST-2020-0648,2022-S1,Ingeniería Civil,Esmeraldas,Urbana,F,27,Casado/a,Fiscal,Recursos propios,Presencial,2,8.08,9.58,0,4,75.3,0.0,49.4,4,494.0,4,8.9,0,,,
+EST-2021-0649,2022-S1,Derecho,Pichincha,Urbana,M,24,Soltero/a,Fiscal,Credito educativo,Semi-presencial,4,9.13,5.34,1,6,88.8,37.0,24.6,2,290.0,2,8.0,0,,,
+EST-2022-0650,2023-S2,Ciencia de Datos,El Oro,Rural,F,19,Soltero/a,Fiscal,Recursos propios,Presencial,3,7.95,6.75,0,7,58.7,0.0,32.7,4,588.0,0,8.1,1,2024-07-13,Laboral,4.0
+EST-2023-0651,2022-S1,Psicología,Azuay,Urbana,M,24,Soltero/a,Fiscal,Beca parcial,Presencial,5,7.08,,1,4,61.3,0.0,3.1,1,347.0,0,3.1,0,,,
+EST-2024-0652,2023-S2,Contabilidad,Azuay,Rural,M,18,Soltero/a,Particular,Credito educativo,Presencial,6,7.8,10.0,3,6,65.7,0.0,1.6,3,452.0,0,4.8,0,,,
+EST-2025-0653,2022-S2,Contabilidad,Guayas,Urbana,M,18,Soltero/a,Fiscal,Recursos propios,Presencial,5,7.18,7.91,2,5,79.2,0.0,61.0,0,1097.0,4,7.1,0,,,
+EST-2020-0654,2022-S2,Ingeniería Civil,Manabí,Urbana,M,18,Casado/a,Fiscal,Recursos propios,Presencial,4,8.19,5.16,2,6,74.3,18.0,9.5,1,353.0,4,9.8,0,,,
+EST-2021-0655,2022-S2,Psicología,Chimborazo,Rural,F,25,Union libre,Particular,Recursos propios,Semi-presencial,6,6.18,5.74,2,4,100.0,0.0,18.9,1,533.0,0,3.4,1,2024-01-15,Personal,6.0
+EST-2022-0656,2022-S1,Ingeniería Civil,Imbabura,Rural,M,20,Soltero/a,Fiscomisional,Recursos propios,Presencial,4,5.22,9.29,2,8,74.2,0.0,4.6,3,1209.0,3,3.8,0,,,
+EST-2023-0657,2022-S2,Ciencia de Datos,Imbabura,Urbana,M,23,Casado/a,Particular,Beca completa,Semi-presencial,1,7.72,5.45,1,8,77.8,0.0,12.6,2,541.0,0,6.0,0,,,
+EST-2024-0658,2022-S2,Arquitectura,Imbabura,Rural,M,24,Casado/a,Particular,Beca parcial,Presencial,6,4.89,5.57,3,8,86.0,31.0,10.2,1,445.0,4,8.3,1,2024-06-17,Personal,6.0
+EST-2025-0659,2023-S1,Psicología,Pichincha,Rural,M,19,Soltero/a,Fiscomisional,Beca parcial,Presencial,1,9.15,7.34,1,7,79.6,0.0,23.8,2,200.0,1,6.9,0,,,
+EST-2020-0660,2023-S2,Contabilidad,Manabí,Urbana,M,24,Soltero/a,Fiscomisional,Credito educativo,Presencial,2,7.99,6.14,0,6,56.8,16.0,8.1,4,457.0,2,2.8,0,,,
+EST-2021-0661,2022-S1,Medicina,Azuay,Rural,M,18,Casado/a,Fiscal,Recursos propios,Semi-presencial,6,8.62,6.89,2,4,69.1,0.0,14.9,5,355.0,5,5.5,0,,,
+EST-2022-0662,2023-S2,Arquitectura,El Oro,Rural,M,18,Soltero/a,Fiscal,Beca parcial,Semi-presencial,1,5.23,7.07,2,4,80.9,0.0,11.8,0,1259.0,2,6.6,0,,,
+EST-2023-0663,2023-S1,Derecho,Pichincha,Rural,F,25,Casado/a,Particular,Recursos propios,Presencial,2,6.69,8.45,0,6,98.5,33.0,12.2,2,704.0,5,4.9,0,,,
+EST-2024-0664,2022-S1,Psicología,Esmeraldas,Rural,M,18,Soltero/a,Fiscal,Beca parcial,Presencial,3,6.17,7.11,0,8,84.8,21.0,3.1,1,1079.0,0,4.7,0,,,
+EST-2025-0665,2022-S1,Ciencia de Datos,Azuay,Urbana,M,22,Soltero/a,Fiscomisional,Beca parcial,Semi-presencial,1,8.73,7.73,0,7,75.2,0.0,7.4,0,432.0,1,5.6,0,,,
+EST-2020-0666,2022-S2,Ingeniería Civil,Guayas,Urbana,F,20,Soltero/a,Fiscal,Credito educativo,Presencial,1,10.0,6.64,1,8,92.7,0.0,8.8,1,842.0,3,5.0,0,,,
+EST-2021-0667,2023-S1,Contabilidad,Pichincha,Rural,F,23,Soltero/a,Fiscomisional,Recursos propios,Presencial,5,8.56,6.56,0,8,100.0,0.0,15.3,1,1597.0,3,7.8,0,,,
+EST-2022-0668,2022-S2,Administración de Empresas,Imbabura,Urbana,F,21,Soltero/a,Fiscal,Recursos propios,Presencial,4,6.37,7.11,3,6,67.8,43.0,6.5,2,293.0,0,7.5,1,2024-05-11,Academico,5.0
+EST-2023-0669,2023-S1,Medicina,Tungurahua,Rural,F,18,Soltero/a,Fiscal,Credito educativo,Presencial,5,10.0,5.87,2,5,82.8,37.0,68.2,3,349.0,2,6.8,1,2024-03-22,Economico,6.0
+EST-2024-0670,2022-S2,Arquitectura,Loja,Urbana,F,21,Union libre,Fiscal,Recursos propios,Presencial,4,8.16,7.93,6,8,87.3,0.0,15.1,2,405.0,3,8.1,0,,,
+EST-2025-0671,2023-S2,Derecho,Esmeraldas,Rural,F,27,Casado/a,Particular,Recursos propios,Presencial,5,7.44,7.13,0,7,60.2,0.0,19.2,3,644.0,4,1.9,0,,,
+EST-2020-0672,2022-S1,Arquitectura,El Oro,Urbana,M,20,Soltero/a,Fiscal,Recursos propios,Presencial,4,8.08,10.0,1,6,75.0,0.0,46.5,2,414.0,0,8.9,0,,,
+EST-2021-0673,2023-S1,Contabilidad,Guayas,Urbana,M,24,Soltero/a,Fiscal,Credito educativo,Presencial,3,6.54,3.48,1,5,86.5,0.0,52.8,3,867.0,2,5.9,1,2024-03-01,Academico,4.0
+EST-2022-0674,2022-S1,Administración de Empresas,Manabí,Urbana,M,24,Soltero/a,Particular,Beca completa,Presencial,3,6.71,10.0,0,7,67.0,0.0,37.2,2,270.0,3,7.9,0,,,
+EST-2023-0675,2022-S2,Arquitectura,Pichincha,Rural,M,18,Casado/a,Particular,Recursos propios,Semi-presencial,6,7.21,,2,8,57.1,0.0,3.9,0,1214.0,4,5.5,0,,,
+EST-2024-0676,2023-S2,Arquitectura,Imbabura,Urbana,F,23,Union libre,Fiscal,Credito educativo,Presencial,1,7.15,6.23,1,8,86.2,15.0,18.6,0,654.0,3,8.5,0,,,
+EST-2025-0677,2022-S1,Ciencia de Datos,Tungurahua,Urbana,M,23,Soltero/a,Fiscal,Credito educativo,Presencial,5,6.25,8.47,0,4,89.0,15.0,21.9,2,453.0,5,8.1,0,,,
+EST-2020-0678,2022-S2,Arquitectura,El Oro,Urbana,F,20,Soltero/a,Fiscal,Recursos propios,Semi-presencial,5,7.28,6.89,0,5,75.1,17.0,37.2,2,799.0,3,,0,,,
+EST-2021-0679,2022-S1,Administración de Empresas,Tungurahua,Urbana,F,19,Soltero/a,Particular,Beca parcial,Presencial,3,7.72,8.24,4,6,67.8,18.0,,4,1356.0,4,8.1,0,,,
+EST-2022-0680,2022-S1,Administración de Empresas,Imbabura,Urbana,M,22,Soltero/a,Fiscal,Beca completa,Presencial,3,9.97,,0,8,85.9,0.0,58.7,3,1053.0,4,9.1,0,,,
+EST-2023-0681,2023-S1,Medicina,Esmeraldas,Urbana,M,22,Soltero/a,Fiscal,Beca completa,Presencial,3,6.09,7.74,0,6,68.2,0.0,14.4,1,709.0,1,8.5,0,,,
+EST-2024-0682,2023-S1,Ingeniería Civil,Guayas,Urbana,M,21,Casado/a,Fiscal,Beca completa,Presencial,3,8.87,,2,7,100.0,13.0,1.6,0,684.0,0,8.2,0,,,
+EST-2025-0683,2023-S1,Ingeniería Civil,Chimborazo,Urbana,F,26,Casado/a,Particular,Recursos propios,Presencial,4,5.92,8.18,1,6,68.5,0.0,1.0,0,851.0,3,7.1,0,,,
+EST-2020-0684,2022-S1,Contabilidad,Azuay,Urbana,F,24,Soltero/a,Particular,Recursos propios,Semi-presencial,1,6.64,6.66,0,7,88.0,43.0,20.6,0,1161.0,0,8.3,0,,,
+EST-2021-0685,2023-S2,Administración de Empresas,Tungurahua,Urbana,F,27,Soltero/a,Particular,Beca parcial,Presencial,2,7.28,,0,7,86.1,0.0,71.1,1,561.0,0,4.5,0,,,
+EST-2022-0686,2022-S1,Derecho,Chimborazo,Rural,F,27,Soltero/a,Fiscomisional,Recursos propios,Presencial,5,7.48,6.54,0,4,85.3,24.0,29.7,1,2235.0,5,8.3,0,,,
+EST-2023-0687,2022-S2,Medicina,Pichincha,Urbana,F,27,Soltero/a,Fiscomisional,Beca parcial,Semi-presencial,5,7.79,8.24,3,6,65.4,0.0,65.5,2,694.0,1,5.9,0,,,
+EST-2024-0688,2022-S1,Ingeniería Civil,Manabí,Urbana,M,18,Soltero/a,Particular,Recursos propios,Presencial,5,7.28,6.6,2,8,100.0,32.0,1.6,1,538.0,5,7.1,0,,,
+EST-2025-0689,2023-S2,Medicina,El Oro,Urbana,F,20,Casado/a,Particular,Recursos propios,Presencial,5,8.2,7.8,4,8,72.0,0.0,13.4,1,240.0,5,,0,,,
+EST-2020-0690,2023-S1,Medicina,Guayas,Urbana,F,25,Soltero/a,Fiscomisional,Beca parcial,Semi-presencial,1,6.26,7.36,0,7,80.6,11.0,,3,2707.0,4,6.4,0,,,
+EST-2021-0691,2023-S1,Ciencia de Datos,Pichincha,Urbana,M,21,Soltero/a,Particular,Recursos propios,Presencial,6,7.83,,0,6,63.1,42.0,20.1,1,623.0,2,6.6,1,2024-03-15,Laboral,7.0
+EST-2022-0692,2023-S1,Contabilidad,El Oro,Rural,F,27,Soltero/a,Particular,Recursos propios,Presencial,6,7.36,6.99,1,4,43.7,0.0,3.6,0,410.0,2,10.0,0,,,
+EST-2023-0693,2022-S1,Contabilidad,Guayas,Urbana,M,21,Soltero/a,Fiscal,Recursos propios,Presencial,1,5.31,,0,4,83.4,0.0,89.7,1,1035.0,1,7.0,0,,,
+EST-2024-0694,2022-S1,Medicina,Azuay,Urbana,F,20,Soltero/a,Fiscal,Beca parcial,Presencial,5,8.51,7.22,3,5,67.4,0.0,2.6,2,468.0,1,5.0,1,2024-07-13,Academico,5.0
+EST-2025-0695,2023-S1,Administración de Empresas,Pichincha,Urbana,M,20,Soltero/a,Particular,Credito educativo,Presencial,1,8.29,,2,8,80.8,42.0,14.7,4,373.0,3,8.1,0,,,
+EST-2020-0696,2023-S2,Administración de Empresas,Azuay,Urbana,F,24,Union libre,Particular,Beca completa,Presencial,2,8.52,8.69,3,7,81.9,0.0,13.1,1,920.0,2,,0,,,
+EST-2021-0697,2022-S1,Medicina,Tungurahua,Urbana,M,27,Casado/a,Fiscal,Recursos propios,Presencial,5,7.08,6.57,3,6,72.7,0.0,17.1,0,1707.0,4,7.2,0,,,
+EST-2022-0698,2022-S2,Ingeniería Civil,Tungurahua,Rural,F,17,Casado/a,Fiscal,Beca parcial,Presencial,1,8.92,7.29,2,4,81.3,0.0,10.2,0,1889.0,5,6.8,0,,,
+EST-2023-0699,2023-S2,Administración de Empresas,Imbabura,Rural,M,23,Soltero/a,Fiscal,Beca parcial,Presencial,5,9.0,5.76,1,5,84.9,15.0,21.9,2,527.0,2,9.7,0,,,
+EST-2024-0700,2022-S2,Contabilidad,Azuay,Urbana,M,24,Casado/a,Fiscal,Credito educativo,Semi-presencial,1,4.99,7.44,1,4,94.8,0.0,43.3,0,1778.0,4,6.6,0,,,
+EST-2025-0701,2022-S1,Derecho,Azuay,Rural,M,19,Soltero/a,Particular,Recursos propios,Semi-presencial,4,8.34,7.85,0,7,79.1,0.0,5.3,0,446.0,3,6.7,0,,,
+EST-2020-0702,2022-S1,Administración de Empresas,Azuay,Urbana,M,25,Soltero/a,Particular,Beca parcial,Semi-presencial,2,7.63,6.11,2,4,81.1,0.0,22.7,1,200.0,5,6.8,0,,,
+EST-2021-0703,2022-S1,Administración de Empresas,Guayas,Urbana,M,23,Casado/a,Particular,Beca completa,Presencial,4,9.45,5.98,1,8,88.6,0.0,2.6,2,774.0,5,6.8,0,,,
+EST-2022-0704,2023-S2,Psicología,Pichincha,Urbana,M,17,Soltero/a,Fiscal,Beca parcial,Presencial,6,7.08,10.0,0,6,97.7,43.0,11.7,2,576.0,0,8.4,0,,,
+EST-2023-0705,2022-S2,Psicología,Azuay,Urbana,F,18,Soltero/a,Fiscal,Recursos propios,Semi-presencial,6,10.0,,1,8,76.2,0.0,46.7,3,883.0,3,6.0,0,,,
+EST-2024-0706,2022-S1,Derecho,El Oro,Rural,M,18,Soltero/a,Particular,Recursos propios,Presencial,2,6.01,6.77,0,6,71.2,0.0,10.5,4,1003.0,3,7.7,0,,,
+EST-2025-0707,2023-S1,Medicina,Chimborazo,Rural,M,22,Soltero/a,Particular,Beca completa,Presencial,5,7.42,6.7,3,8,80.5,14.0,2.3,2,759.0,1,5.8,0,,,
+EST-2020-0708,2023-S2,Contabilidad,Manabí,Urbana,F,20,Casado/a,Fiscal,Recursos propios,Semi-presencial,1,7.75,6.76,2,8,100.0,29.0,2.1,1,378.0,0,10.0,0,,,
+EST-2021-0709,2022-S2,Administración de Empresas,Azuay,Rural,F,27,Soltero/a,Particular,Beca completa,Presencial,1,7.43,8.19,1,8,57.2,0.0,3.8,1,323.0,0,,0,,,
+EST-2022-0710,2023-S1,Contabilidad,Azuay,Urbana,M,27,Soltero/a,Fiscal,Beca parcial,Presencial,2,7.97,5.76,1,5,79.6,0.0,1.0,1,540.0,4,7.2,0,,,
+EST-2023-0711,2022-S1,Ingeniería Civil,Pichincha,Urbana,M,27,Soltero/a,Fiscal,Recursos propios,Presencial,6,7.72,7.6,0,6,87.8,12.0,,0,859.0,3,9.5,0,,,
+EST-2024-0712,2023-S1,Medicina,Esmeraldas,Rural,M,25,Soltero/a,Fiscal,Credito educativo,Presencial,2,7.35,7.05,1,4,77.8,0.0,4.5,2,1010.0,4,8.9,0,,,
+EST-2025-0713,2022-S1,Ingeniería Civil,Guayas,Urbana,F,18,Soltero/a,Fiscal,Credito educativo,Presencial,1,7.9,6.2,0,8,41.8,31.0,6.9,0,1061.0,4,7.9,0,,,
+EST-2020-0714,2023-S1,Arquitectura,Manabí,Urbana,F,25,Soltero/a,Fiscal,Credito educativo,Semi-presencial,6,8.52,8.47,2,8,65.2,0.0,15.1,1,1981.0,2,7.5,0,,,
+EST-2021-0715,2022-S2,Medicina,Tungurahua,Urbana,M,21,Casado/a,Particular,Credito educativo,Presencial,2,8.75,9.75,3,5,69.1,28.0,12.4,0,1115.0,0,6.1,0,,,
+EST-2022-0716,2022-S2,Derecho,Azuay,Rural,F,22,Soltero/a,Fiscal,Beca completa,Presencial,4,8.98,5.84,1,7,92.4,0.0,8.0,4,594.0,5,4.6,0,,,
+EST-2023-0717,2023-S2,Derecho,Esmeraldas,Rural,M,25,Soltero/a,Fiscal,Beca completa,Presencial,5,6.74,7.17,2,5,100.0,0.0,41.3,0,4106.0,0,4.7,0,,,
+EST-2024-0718,2023-S2,Contabilidad,Guayas,Urbana,F,17,Casado/a,Particular,Beca completa,Presencial,6,8.36,7.65,0,8,77.1,0.0,2.8,2,344.0,5,6.2,0,,,
+EST-2025-0719,2023-S1,Arquitectura,Chimborazo,Urbana,F,18,Soltero/a,Fiscal,Beca completa,Presencial,1,7.27,6.74,2,8,58.2,31.0,3.9,1,1018.0,1,8.7,1,2024-06-06,Personal,1.0
+EST-2020-0720,2022-S1,Ingeniería Civil,Pichincha,Urbana,M,21,Soltero/a,Fiscal,Recursos propios,Semi-presencial,1,7.92,7.2,0,6,43.8,34.0,15.6,1,716.0,4,7.0,1,2024-02-27,Laboral,1.0
+EST-2021-0721,2022-S2,Arquitectura,El Oro,Urbana,M,20,Soltero/a,Fiscal,Recursos propios,Semi-presencial,4,7.6,10.0,1,6,86.0,0.0,15.3,2,914.0,4,5.2,0,,,
+EST-2022-0722,2023-S1,Derecho,Pichincha,Urbana,M,18,Casado/a,Particular,Beca parcial,Presencial,2,7.77,5.48,1,8,91.0,11.0,3.9,6,1222.0,1,5.5,0,,,
+EST-2023-0723,2023-S2,Derecho,Guayas,Urbana,F,17,Soltero/a,Fiscal,Beca completa,Presencial,5,7.67,8.28,1,4,81.9,0.0,4.6,4,739.0,5,8.1,0,,,
+EST-2024-0724,2023-S2,Psicología,Guayas,Rural,F,18,Soltero/a,Fiscal,Recursos propios,Presencial,6,8.02,10.0,1,7,78.3,0.0,11.9,0,409.0,3,,0,,,
+EST-2025-0725,2023-S1,Psicología,Imbabura,Rural,F,21,Soltero/a,Fiscal,Recursos propios,Semi-presencial,3,7.83,8.2,3,4,68.7,24.0,4.3,1,1071.0,4,7.0,0,,,
+EST-2020-0726,2023-S1,Arquitectura,Tungurahua,Rural,F,24,Casado/a,Fiscal,Credito educativo,Presencial,5,8.97,8.27,2,8,81.8,0.0,49.8,3,279.0,0,5.6,0,,,
+EST-2021-0727,2022-S1,Contabilidad,Guayas,Rural,M,22,Soltero/a,Fiscal,Beca completa,Semi-presencial,1,5.56,5.35,0,4,64.3,0.0,22.1,2,425.0,3,,1,2024-03-07,Economico,1.0
+EST-2022-0728,2023-S1,Medicina,Pichincha,Rural,M,17,Casado/a,Fiscal,Credito educativo,Presencial,2,8.42,7.37,0,8,92.1,0.0,9.5,2,763.0,1,4.3,0,,,
+EST-2023-0729,2023-S2,Contabilidad,Azuay,Urbana,F,27,Soltero/a,Fiscal,Beca parcial,Presencial,5,7.28,,2,4,94.6,0.0,9.8,2,208.0,1,8.4,0,,,
+EST-2024-0730,2023-S2,Psicología,Azuay,Rural,M,27,Soltero/a,Fiscal,Beca parcial,Semi-presencial,3,9.15,,0,6,79.4,0.0,1.2,0,446.0,3,5.0,0,,,
+EST-2025-0731,2022-S2,Psicología,Manabí,Urbana,M,23,Soltero/a,Fiscal,Recursos propios,Presencial,2,8.56,8.51,1,5,77.9,0.0,12.4,1,550.0,5,6.8,0,,,
+EST-2020-0732,2022-S1,Derecho,Guayas,Rural,M,26,Union libre,Fiscal,Beca parcial,Presencial,2,8.25,7.6,1,5,73.4,15.0,,2,506.0,0,6.4,0,,,
+EST-2021-0733,2022-S2,Psicología,Loja,Rural,F,21,Casado/a,Fiscal,Beca parcial,Presencial,6,9.43,6.48,0,4,75.5,0.0,52.5,1,603.0,3,8.5,0,,,
+EST-2022-0734,2023-S2,Administración de Empresas,Azuay,Urbana,F,21,Soltero/a,Particular,Recursos propios,Presencial,2,8.48,8.7,4,6,78.5,0.0,10.0,4,1190.0,4,6.2,0,,,
+EST-2023-0735,2023-S2,Ciencia de Datos,Imbabura,Urbana,M,25,Soltero/a,Fiscal,Beca parcial,Presencial,5,7.76,5.17,1,5,98.7,0.0,3.9,3,417.0,5,3.4,0,,,
+EST-2024-0736,2022-S2,Medicina,Pichincha,Urbana,F,21,Soltero/a,Fiscal,Credito educativo,Presencial,1,7.15,6.6,2,8,81.7,40.0,3.4,1,294.0,2,6.5,0,,,
+EST-2025-0737,2023-S1,Medicina,Azuay,Urbana,F,23,Casado/a,Fiscal,Beca completa,Presencial,6,7.56,9.85,1,6,61.0,0.0,12.6,1,682.0,4,5.0,0,,,
+EST-2020-0738,2023-S1,Medicina,Guayas,Rural,M,22,Soltero/a,Fiscal,Beca parcial,Presencial,2,9.49,9.57,2,8,85.6,0.0,41.4,1,791.0,2,3.6,0,,,
+EST-2021-0739,2022-S1,Psicología,Manabí,Urbana,M,26,Casado/a,Fiscal,Recursos propios,Semi-presencial,1,8.05,9.93,0,4,95.1,27.0,63.7,1,598.0,3,7.3,0,,,
+EST-2022-0740,2023-S1,Derecho,Tungurahua,Rural,F,22,Soltero/a,Fiscal,Recursos propios,Presencial,4,7.33,6.42,2,8,76.5,12.0,41.5,1,337.0,0,4.0,1,2024-04-20,Economico,5.0
+EST-2023-0741,2022-S2,Ciencia de Datos,Guayas,Rural,F,20,Soltero/a,Particular,Recursos propios,Presencial,5,8.71,8.99,1,8,82.2,0.0,3.9,2,344.0,1,6.5,0,,,
+EST-2024-0742,2023-S2,Contabilidad,Guayas,Urbana,M,21,Soltero/a,Fiscal,Beca parcial,Presencial,1,8.02,8.28,2,8,88.0,0.0,28.7,2,503.0,1,6.4,0,,,
+EST-2025-0743,2022-S2,Ciencia de Datos,Esmeraldas,Rural,M,26,Soltero/a,Fiscomisional,Beca parcial,Presencial,4,7.59,6.17,2,4,63.2,39.0,29.7,1,200.0,3,8.2,1,2024-07-17,Economico,4.0
+EST-2020-0744,2022-S2,Medicina,Pichincha,Urbana,F,17,Casado/a,Fiscomisional,Credito educativo,Semi-presencial,1,8.88,6.56,2,8,69.6,0.0,9.4,1,1639.0,0,4.1,0,,,
+EST-2021-0745,2022-S2,Derecho,El Oro,Urbana,M,25,Soltero/a,Particular,Recursos propios,Presencial,6,7.86,7.38,5,5,88.6,0.0,16.7,2,822.0,4,4.6,0,,,
+EST-2022-0746,2022-S2,Administración de Empresas,Manabí,Urbana,M,27,Union libre,Particular,Recursos propios,Semi-presencial,5,7.68,6.92,1,4,100.0,0.0,5.5,0,786.0,1,6.3,0,,,
+EST-2023-0747,2023-S1,Ciencia de Datos,Loja,Urbana,M,26,Soltero/a,Fiscal,Recursos propios,Presencial,3,6.53,5.7,1,7,63.4,0.0,61.7,2,266.0,0,3.9,1,2024-01-13,Economico,4.0
+EST-2024-0748,2022-S2,Medicina,Pichincha,Rural,M,17,Soltero/a,Fiscal,Beca parcial,Presencial,4,9.42,7.33,1,6,92.5,0.0,2.8,4,434.0,2,5.1,0,,,
+EST-2025-0749,2022-S1,Arquitectura,Pichincha,Rural,M,23,Casado/a,Fiscal,Beca parcial,Semi-presencial,6,8.68,6.01,1,4,82.2,21.0,32.3,0,1096.0,4,5.2,0,,,
+EST-2020-0750,2023-S1,Psicología,Pichincha,Urbana,M,23,Soltero/a,Fiscal,Beca parcial,Presencial,6,6.62,7.89,1,6,64.0,0.0,4.6,3,314.0,1,6.9,0,,,
+EST-2021-0751,2023-S1,Psicología,Azuay,Rural,F,25,Casado/a,Particular,Beca completa,Presencial,2,7.14,9.04,0,5,100.0,10.0,76.4,2,1520.0,3,6.5,0,,,
+EST-2022-0752,2022-S2,Ingeniería Civil,Esmeraldas,Rural,M,18,Casado/a,Particular,Credito educativo,Semi-presencial,3,7.54,8.06,0,8,79.7,0.0,11.2,0,681.0,4,6.0,0,,,
+EST-2023-0753,2022-S1,Ingeniería Civil,Guayas,Urbana,M,21,Soltero/a,Particular,Recursos propios,Presencial,6,7.67,6.73,1,8,77.7,34.0,8.7,3,1372.0,5,,0,,,
+EST-2024-0754,2022-S1,Administración de Empresas,Tungurahua,Rural,F,26,Soltero/a,Fiscal,Beca completa,Presencial,4,8.6,6.03,1,6,79.5,0.0,13.5,1,747.0,2,5.6,0,,,
+EST-2025-0755,2022-S2,Administración de Empresas,Pichincha,Urbana,F,25,Soltero/a,Fiscal,Credito educativo,Presencial,2,6.33,7.16,3,8,70.7,15.0,7.1,2,842.0,3,8.5,0,,,
+EST-2020-0756,2022-S2,Ingeniería Civil,Azuay,Urbana,M,26,Union libre,Fiscal,Recursos propios,Presencial,1,6.46,8.41,1,6,84.1,0.0,54.0,2,1314.0,1,5.7,0,,,
+EST-2021-0757,2023-S2,Contabilidad,Manabí,Urbana,F,18,Casado/a,Fiscomisional,Beca completa,Presencial,2,9.04,7.36,4,6,100.0,40.0,32.6,1,767.0,3,8.2,0,,,
+EST-2022-0758,2022-S2,Psicología,Manabí,Rural,M,17,Soltero/a,Fiscomisional,Credito educativo,Presencial,2,5.67,8.77,2,8,70.7,17.0,4.2,0,757.0,0,8.0,0,,,
+EST-2023-0759,2023-S1,Ciencia de Datos,El Oro,Rural,F,24,Union libre,Particular,Beca completa,Presencial,6,8.49,8.63,1,5,62.2,0.0,17.0,2,905.0,1,6.9,0,,,
+EST-2024-0760,2023-S1,Contabilidad,Guayas,Urbana,F,23,Soltero/a,Fiscal,Recursos propios,Presencial,5,7.33,4.3,1,4,71.5,30.0,34.7,1,1773.0,1,8.9,1,2024-07-16,Academico,6.0
+EST-2025-0761,2022-S2,Ingeniería Civil,Pichincha,Urbana,F,24,Casado/a,Fiscal,Credito educativo,Presencial,1,8.69,9.33,0,8,55.1,0.0,1.8,0,1739.0,3,7.9,0,,,
+EST-2020-0762,2023-S2,Ingeniería Civil,Azuay,Urbana,M,25,Soltero/a,Fiscal,Recursos propios,Presencial,3,8.19,9.04,2,8,83.0,0.0,33.4,3,2002.0,2,6.1,0,,,
+EST-2021-0763,2023-S2,Psicología,Chimborazo,Urbana,F,21,Soltero/a,Fiscal,Credito educativo,Presencial,6,8.79,5.85,0,8,85.0,0.0,18.5,3,568.0,4,,0,,,
+EST-2022-0764,2022-S1,Derecho,Tungurahua,Rural,F,24,Soltero/a,Fiscal,Credito educativo,Presencial,2,7.86,5.49,0,5,100.0,0.0,20.0,6,956.0,0,6.1,0,,,
+EST-2023-0765,2023-S1,Arquitectura,Imbabura,Urbana,F,21,Union libre,Fiscal,Beca completa,Presencial,1,8.66,,3,5,69.3,0.0,109.6,1,2320.0,4,2.9,0,,,
+EST-2024-0766,2022-S1,Ciencia de Datos,Guayas,Urbana,F,23,Soltero/a,Particular,Credito educativo,Presencial,6,6.94,7.09,2,7,82.5,28.0,11.8,1,502.0,0,5.9,1,2024-08-17,Academico,7.0
+EST-2025-0767,2022-S2,Administración de Empresas,Tungurahua,Urbana,M,23,Soltero/a,Fiscal,Beca completa,Semi-presencial,4,10.0,6.73,1,5,77.7,0.0,24.6,2,446.0,5,7.7,0,,,
+EST-2020-0768,2023-S1,Administración de Empresas,Pichincha,Urbana,F,19,Soltero/a,Fiscal,Recursos propios,Semi-presencial,4,7.57,,1,5,56.4,0.0,10.3,3,609.0,0,7.7,1,2024-04-11,Academico,4.0
+EST-2021-0769,2022-S2,Derecho,Esmeraldas,Rural,F,21,Soltero/a,Fiscal,Recursos propios,Presencial,4,9.49,10.0,2,7,64.9,25.0,10.8,1,395.0,3,6.4,0,,,
+EST-2022-0770,2023-S1,Psicología,Azuay,Urbana,F,20,Casado/a,Fiscal,Beca parcial,Presencial,4,6.96,5.37,1,4,84.3,29.0,83.5,3,474.0,0,6.4,1,2024-03-11,Academico,5.0
+EST-2023-0771,2022-S1,Ciencia de Datos,Esmeraldas,Urbana,M,17,Soltero/a,Particular,Recursos propios,Semi-presencial,2,6.59,,1,4,72.2,42.0,12.7,1,707.0,0,9.6,1,2024-07-02,Laboral,2.0
+EST-2024-0772,2023-S2,Ciencia de Datos,El Oro,Urbana,M,27,Soltero/a,Fiscal,Credito educativo,Presencial,1,8.07,5.85,3,4,82.1,42.0,14.3,1,569.0,0,9.6,1,2024-06-25,Personal,2.0
+EST-2025-0773,2023-S1,Medicina,Chimborazo,Urbana,M,19,Soltero/a,Fiscal,Beca parcial,Presencial,2,7.48,7.57,1,4,96.7,30.0,1.1,1,393.0,0,5.3,0,,,
+EST-2020-0774,2022-S2,Contabilidad,Manabí,Urbana,M,22,Union libre,Fiscal,Recursos propios,Semi-presencial,3,7.96,7.02,0,5,81.6,0.0,32.9,0,587.0,2,6.0,0,,,
+EST-2021-0775,2022-S2,Ingeniería Civil,El Oro,Rural,F,19,Soltero/a,Fiscomisional,Beca completa,Presencial,2,8.7,7.49,0,8,78.0,0.0,23.3,0,934.0,5,9.1,0,,,
+EST-2022-0776,2023-S2,Arquitectura,Pichincha,Urbana,F,17,Casado/a,Fiscal,Recursos propios,Presencial,4,6.35,6.84,2,8,69.2,0.0,9.9,3,558.0,2,7.8,1,2024-08-18,Laboral,4.0
+EST-2023-0777,2023-S2,Arquitectura,Pichincha,Rural,F,23,Soltero/a,Particular,Beca parcial,Presencial,4,7.37,5.48,1,4,62.3,0.0,1.1,1,983.0,3,6.6,0,,,
+EST-2024-0778,2022-S1,Contabilidad,Guayas,Rural,F,21,Soltero/a,Particular,Recursos propios,Presencial,2,6.26,9.42,1,5,64.2,29.0,1.4,2,543.0,3,5.0,0,,,
+EST-2025-0779,2023-S2,Psicología,Pichincha,Urbana,M,26,Soltero/a,Particular,Recursos propios,Semi-presencial,1,5.96,,0,4,71.7,0.0,11.2,0,478.0,5,,0,,,
+EST-2020-0780,2022-S1,Ciencia de Datos,Esmeraldas,Urbana,M,20,Soltero/a,Particular,Credito educativo,Presencial,6,8.7,10.0,1,7,87.4,0.0,6.5,0,742.0,3,6.5,0,,,
+EST-2021-0781,2022-S2,Derecho,Manabí,Urbana,F,21,Soltero/a,Fiscal,Credito educativo,Presencial,2,8.27,5.94,2,7,85.2,0.0,8.6,0,200.0,1,7.2,0,,,
+EST-2022-0782,2023-S1,Derecho,Manabí,Rural,F,19,Soltero/a,Particular,Beca completa,Semi-presencial,5,8.83,7.79,1,7,83.3,0.0,15.0,3,548.0,1,6.4,0,,,
+EST-2023-0783,2022-S1,Medicina,Pichincha,Urbana,F,18,Casado/a,Particular,Recursos propios,Presencial,2,7.79,7.7,1,5,87.2,0.0,51.4,4,1122.0,4,6.0,0,,,
+EST-2024-0784,2023-S1,Ciencia de Datos,El Oro,Rural,M,24,Soltero/a,Fiscal,Recursos propios,Presencial,3,8.19,4.45,4,8,80.4,19.0,4.6,1,1146.0,0,7.1,1,2024-02-24,Laboral,3.0
+EST-2025-0785,2023-S2,Ingeniería Civil,Azuay,Urbana,M,23,Soltero/a,Fiscomisional,Beca parcial,Semi-presencial,4,8.37,9.11,3,8,72.6,11.0,74.6,2,1289.0,5,7.6,0,,,
+EST-2020-0786,2022-S1,Ciencia de Datos,Azuay,Urbana,F,25,Soltero/a,Particular,Beca parcial,Presencial,4,6.27,8.43,1,5,81.1,37.0,1.5,0,1559.0,1,,1,2024-06-10,Academico,4.0
+EST-2021-0787,2022-S2,Arquitectura,Guayas,Urbana,M,19,Soltero/a,Particular,Beca completa,Semi-presencial,3,7.54,6.26,2,7,53.9,34.0,47.5,5,846.0,4,5.6,1,2024-08-05,Personal,3.0
+EST-2022-0788,2023-S2,Administración de Empresas,Imbabura,Urbana,M,25,Soltero/a,Fiscal,Beca parcial,Semi-presencial,5,8.38,5.87,1,8,100.0,0.0,5.0,1,673.0,3,,0,,,
+EST-2023-0789,2023-S1,Medicina,Azuay,Urbana,F,27,Soltero/a,Fiscal,Beca parcial,Semi-presencial,5,6.78,5.96,2,5,100.0,0.0,15.7,5,596.0,1,4.8,0,,,
+EST-2024-0790,2022-S1,Administración de Empresas,Pichincha,Urbana,F,22,Casado/a,Particular,Beca parcial,Presencial,1,7.66,7.86,1,6,75.0,32.0,3.6,0,884.0,2,10.0,0,,,
+EST-2025-0791,2023-S2,Ciencia de Datos,Pichincha,Urbana,M,20,Union libre,Fiscal,Recursos propios,Presencial,3,6.63,8.69,0,6,71.9,0.0,17.4,1,400.0,0,4.9,0,,,
+EST-2020-0792,2023-S1,Ciencia de Datos,Guayas,Urbana,F,25,Soltero/a,Particular,Beca parcial,Presencial,5,6.45,7.86,1,7,100.0,0.0,1.0,3,1072.0,2,7.7,0,,,
+EST-2021-0793,2022-S2,Derecho,Pichincha,Rural,M,21,Casado/a,Fiscal,Recursos propios,Presencial,5,8.41,9.49,5,5,81.0,0.0,10.5,2,429.0,1,,1,2024-06-11,Personal,6.0
+EST-2022-0794,2023-S1,Psicología,Guayas,Rural,M,17,Soltero/a,Particular,Recursos propios,Semi-presencial,2,8.0,6.22,0,7,85.6,0.0,67.4,2,1085.0,5,9.2,0,,,
+EST-2023-0795,2023-S2,Medicina,Azuay,Urbana,F,22,Soltero/a,Particular,Beca parcial,Semi-presencial,3,8.35,3.51,2,6,73.5,16.0,58.7,2,1008.0,0,,1,2024-07-03,Academico,3.0
+EST-2024-0796,2023-S1,Administración de Empresas,Guayas,Rural,M,24,Soltero/a,Fiscal,Recursos propios,Presencial,2,8.41,6.41,0,8,91.8,35.0,13.8,6,292.0,2,8.2,0,,,
+EST-2025-0797,2023-S1,Psicología,Pichincha,Urbana,M,18,Soltero/a,Particular,Beca parcial,Presencial,1,6.9,7.49,0,8,48.9,0.0,9.3,1,912.0,4,,0,,,
+EST-2020-0798,2023-S2,Medicina,El Oro,Urbana,F,25,Soltero/a,Particular,Recursos propios,Presencial,5,7.19,5.1,1,4,79.1,0.0,13.7,3,612.0,2,,0,,,
+EST-2021-0799,2023-S2,Contabilidad,Pichincha,Urbana,F,20,Soltero/a,Particular,Recursos propios,Presencial,2,5.55,6.05,0,6,85.1,0.0,41.7,3,632.0,1,3.7,0,,,
+EST-2022-0800,2022-S1,Psicología,Guayas,Urbana,F,23,Soltero/a,Particular,Recursos propios,Semi-presencial,6,8.3,8.04,2,4,72.0,10.0,40.4,1,550.0,3,5.6,0,,,
+EST-2023-0801,2023-S1,Contabilidad,Azuay,Urbana,M,27,Casado/a,Fiscal,Credito educativo,Presencial,4,6.6,6.72,0,4,60.5,34.0,18.3,3,1003.0,2,8.0,1,2024-07-20,Personal,4.0
+EST-2024-0802,2023-S2,Psicología,Manabí,Urbana,F,27,Soltero/a,Fiscal,Beca completa,Presencial,1,6.57,4.98,2,8,100.0,0.0,8.5,2,434.0,2,7.7,0,,,
+EST-2025-0803,2023-S1,Ingeniería Civil,Imbabura,Urbana,M,20,Union libre,Fiscal,Beca parcial,Semi-presencial,5,7.57,8.22,2,7,97.1,0.0,12.8,1,1376.0,1,5.4,0,,,
+EST-2020-0804,2022-S2,Administración de Empresas,Guayas,Urbana,M,18,Soltero/a,Particular,Beca parcial,Semi-presencial,3,8.41,5.16,0,7,89.9,34.0,4.2,1,926.0,0,,0,,,
+EST-2021-0805,2023-S2,Medicina,Pichincha,Urbana,M,26,Soltero/a,Fiscal,Beca parcial,Presencial,5,6.84,4.77,0,8,98.7,22.0,2.2,0,1351.0,5,1.6,0,,,
+EST-2022-0806,2023-S2,Contabilidad,Imbabura,Rural,M,25,Soltero/a,Particular,Recursos propios,Presencial,2,6.95,6.47,4,4,80.1,0.0,5.1,1,834.0,1,4.6,1,2024-08-25,Academico,3.0
+EST-2023-0807,2023-S2,Contabilidad,Azuay,Urbana,M,22,Casado/a,Particular,Beca parcial,Semi-presencial,3,7.66,10.0,2,5,96.4,0.0,4.5,4,693.0,2,4.7,0,,,
+EST-2024-0808,2023-S2,Medicina,Guayas,Rural,F,20,Soltero/a,Fiscomisional,Recursos propios,Presencial,5,8.44,7.9,1,7,94.3,0.0,4.7,0,318.0,5,7.5,0,,,
+EST-2025-0809,2023-S1,Ingeniería Civil,Tungurahua,Urbana,F,26,Casado/a,Particular,Beca parcial,Presencial,1,5.95,6.32,1,8,73.2,0.0,13.1,4,200.0,0,6.5,0,,,
+EST-2020-0810,2023-S1,Administración de Empresas,Tungurahua,Rural,F,17,Soltero/a,Particular,Recursos propios,Presencial,2,8.95,9.1,1,6,85.0,0.0,23.1,2,672.0,0,4.4,0,,,
+EST-2021-0811,2022-S2,Psicología,Chimborazo,Urbana,M,21,Soltero/a,Fiscal,Beca parcial,Presencial,1,7.46,6.88,0,6,67.4,0.0,10.1,1,1200.0,1,4.8,0,,,
+EST-2022-0812,2022-S1,Administración de Empresas,Azuay,Urbana,F,26,Soltero/a,Fiscal,Recursos propios,Semi-presencial,1,9.35,6.67,2,7,76.1,0.0,29.7,3,1669.0,3,5.2,0,,,
+EST-2023-0813,2022-S1,Derecho,Manabí,Urbana,M,17,Soltero/a,Particular,Recursos propios,Semi-presencial,5,7.64,6.8,0,6,97.7,0.0,10.6,3,417.0,0,6.0,0,,,
+EST-2024-0814,2023-S1,Psicología,Pichincha,Rural,F,18,Soltero/a,Fiscal,Credito educativo,Presencial,5,6.91,,0,6,68.8,16.0,5.3,3,444.0,3,7.0,0,,,
+EST-2025-0815,2023-S2,Arquitectura,Pichincha,Rural,M,20,Soltero/a,Fiscal,Credito educativo,Presencial,2,8.08,3.85,2,6,67.9,0.0,7.1,2,659.0,0,6.5,1,2024-03-18,Personal,2.0
+EST-2020-0816,2023-S2,Psicología,Tungurahua,Urbana,F,26,Soltero/a,Particular,Recursos propios,Presencial,5,7.23,8.61,0,4,58.0,14.0,5.2,2,398.0,2,8.3,0,,,
+EST-2021-0817,2022-S1,Ingeniería Civil,Imbabura,Rural,F,18,Soltero/a,Fiscomisional,Beca parcial,Presencial,6,7.08,3.74,0,7,48.3,0.0,4.5,1,966.0,5,6.5,0,,,
+EST-2022-0818,2022-S2,Ciencia de Datos,Esmeraldas,Urbana,M,24,Soltero/a,Fiscal,Beca parcial,Presencial,3,8.95,,0,5,71.1,0.0,9.6,1,563.0,4,10.0,0,,,
+EST-2023-0819,2023-S2,Derecho,Imbabura,Urbana,F,24,Soltero/a,Fiscal,Credito educativo,Presencial,6,8.38,6.57,1,8,83.4,29.0,1.7,1,352.0,0,8.5,0,,,
+EST-2024-0820,2022-S1,Psicología,Azuay,Urbana,M,27,Soltero/a,Fiscal,Recursos propios,Presencial,2,6.45,7.42,3,7,82.9,0.0,14.4,4,614.0,0,6.3,1,2024-05-26,Laboral,2.0
+EST-2025-0821,2023-S1,Medicina,El Oro,Urbana,F,26,Soltero/a,Fiscal,Credito educativo,Presencial,5,6.75,5.29,2,5,84.5,38.0,11.1,3,2594.0,2,6.7,0,,,
+EST-2020-0822,2023-S2,Ingeniería Civil,Manabí,Urbana,F,19,Soltero/a,Particular,Beca parcial,Semi-presencial,4,8.0,5.06,0,4,74.9,15.0,21.4,2,1043.0,2,8.9,0,,,
+EST-2021-0823,2023-S2,Ciencia de Datos,Pichincha,Rural,F,21,Soltero/a,Fiscal,Beca parcial,Semi-presencial,4,6.25,8.04,1,7,61.6,0.0,15.4,1,572.0,4,9.6,0,,,
+EST-2022-0824,2022-S2,Administración de Empresas,Guayas,Rural,M,26,Soltero/a,Fiscal,Beca parcial,Presencial,2,8.26,7.97,0,7,90.9,0.0,24.7,0,753.0,0,5.3,0,,,
+EST-2023-0825,2023-S1,Administración de Empresas,El Oro,Urbana,M,19,Casado/a,Particular,Credito educativo,Presencial,1,9.52,8.12,0,6,53.5,33.0,2.5,4,516.0,4,5.8,0,,,
+EST-2024-0826,2023-S2,Ciencia de Datos,Pichincha,Urbana,M,18,Soltero/a,Fiscal,Recursos propios,Semi-presencial,5,8.09,5.1,1,5,93.7,0.0,22.2,2,1058.0,1,7.5,0,,,
+EST-2025-0827,2023-S2,Administración de Empresas,Tungurahua,Rural,M,19,Casado/a,Fiscomisional,Beca parcial,Presencial,6,9.41,6.17,0,4,100.0,0.0,10.8,1,327.0,3,,0,,,
+EST-2020-0828,2023-S2,Contabilidad,Manabí,Rural,M,18,Soltero/a,Particular,Recursos propios,Presencial,4,9.11,5.47,0,7,71.3,39.0,7.2,2,1456.0,0,8.9,1,2024-05-11,Laboral,4.0
+EST-2021-0829,2022-S2,Administración de Empresas,Pichincha,Rural,M,26,Soltero/a,Particular,Beca parcial,Semi-presencial,6,7.04,6.42,7,4,91.6,0.0,10.9,1,672.0,1,7.6,0,,,
+EST-2022-0830,2023-S1,Administración de Empresas,Pichincha,Urbana,F,19,Union libre,Particular,Beca parcial,Presencial,1,6.5,5.97,1,8,44.3,0.0,4.0,5,200.0,3,6.5,1,2024-07-21,Laboral,1.0
+EST-2023-0831,2022-S1,Ciencia de Datos,Pichincha,Urbana,F,21,Soltero/a,Particular,Beca completa,Presencial,2,7.6,7.57,1,6,64.8,37.0,1.7,4,376.0,5,8.8,0,,,
+EST-2024-0832,2022-S1,Ingeniería Civil,Guayas,Rural,F,18,Casado/a,Particular,Beca parcial,Semi-presencial,6,8.18,5.25,2,6,100.0,22.0,2.1,2,490.0,5,2.1,0,,,
+EST-2025-0833,2022-S1,Ciencia de Datos,Chimborazo,Urbana,F,23,Casado/a,Particular,Recursos propios,Presencial,5,7.25,7.31,1,8,75.8,0.0,34.3,3,665.0,5,6.4,0,,,
+EST-2020-0834,2022-S1,Ingeniería Civil,Pichincha,Rural,F,25,Soltero/a,Fiscal,Recursos propios,Presencial,2,9.16,6.52,2,5,88.1,0.0,24.4,2,573.0,5,3.4,0,,,
+EST-2021-0835,2023-S1,Ingeniería Civil,Tungurahua,Urbana,M,24,Soltero/a,Particular,Beca parcial,Semi-presencial,2,7.29,8.51,1,8,74.0,0.0,53.2,1,292.0,2,9.9,0,,,
+EST-2022-0836,2023-S1,Arquitectura,Pichincha,Urbana,F,23,Soltero/a,Fiscomisional,Recursos propios,Presencial,3,8.44,,1,5,84.0,0.0,10.2,0,356.0,3,9.3,0,,,
+EST-2023-0837,2023-S2,Administración de Empresas,El Oro,Rural,M,24,Soltero/a,Particular,Beca parcial,Presencial,2,9.25,6.29,1,8,85.1,0.0,47.5,1,280.0,0,,0,,,
+EST-2024-0838,2022-S2,Derecho,Loja,Rural,F,24,Soltero/a,Fiscal,Recursos propios,Presencial,5,8.56,7.49,1,4,73.1,0.0,19.4,1,953.0,3,8.7,0,,,
+EST-2025-0839,2023-S2,Ingeniería Civil,El Oro,Urbana,M,21,Soltero/a,Particular,Recursos propios,Presencial,2,7.46,5.88,2,5,97.0,0.0,5.4,2,342.0,4,6.0,0,,,
+EST-2020-0840,2023-S1,Ingeniería Civil,Pichincha,Urbana,F,19,Soltero/a,Particular,Beca parcial,Semi-presencial,4,8.61,6.07,2,6,91.0,0.0,7.9,0,214.0,3,6.2,0,,,
+EST-2021-0841,2022-S1,Arquitectura,Manabí,Rural,F,19,Soltero/a,Fiscal,Recursos propios,Presencial,2,8.05,5.88,2,8,87.8,24.0,1.1,4,986.0,0,7.5,0,,,
+EST-2022-0842,2022-S2,Administración de Empresas,Azuay,Rural,F,25,Casado/a,Fiscomisional,Credito educativo,Presencial,2,9.15,8.12,1,4,74.8,34.0,15.1,1,433.0,2,10.0,0,,,
+EST-2023-0843,2022-S1,Contabilidad,Azuay,Urbana,F,22,Soltero/a,Particular,Beca parcial,Presencial,6,7.07,7.82,2,8,67.8,0.0,14.9,1,632.0,3,4.5,0,,,
+EST-2024-0844,2023-S2,Ciencia de Datos,Imbabura,Urbana,M,21,Soltero/a,Fiscal,Credito educativo,Presencial,5,8.4,7.26,1,5,91.6,0.0,13.7,2,789.0,2,,0,,,
+EST-2025-0845,2023-S1,Psicología,Pichincha,Rural,M,24,Soltero/a,Particular,Beca parcial,Presencial,5,8.66,7.69,0,8,53.7,0.0,24.9,2,344.0,1,5.7,0,,,
+EST-2020-0846,2022-S1,Arquitectura,Pichincha,Urbana,F,22,Soltero/a,Fiscal,Beca parcial,Presencial,3,7.28,5.96,2,6,82.6,16.0,2.3,5,628.0,4,4.8,0,,,
+EST-2021-0847,2023-S2,Psicología,Esmeraldas,Rural,F,18,Soltero/a,Fiscal,Recursos propios,Presencial,2,9.06,7.44,0,6,100.0,0.0,8.9,3,344.0,4,6.6,0,,,
+EST-2022-0848,2022-S1,Medicina,Chimborazo,Urbana,M,24,Union libre,Particular,Credito educativo,Presencial,6,7.9,6.51,1,5,78.8,0.0,5.5,3,535.0,2,6.2,0,,,
+EST-2023-0849,2022-S2,Psicología,Chimborazo,Urbana,F,24,Soltero/a,Fiscal,Beca parcial,Presencial,1,7.83,6.37,2,5,81.8,28.0,17.0,2,1477.0,1,5.5,1,2024-01-13,Economico,1.0
+EST-2024-0850,2023-S2,Psicología,Esmeraldas,Rural,M,18,Casado/a,Particular,Credito educativo,Presencial,4,9.31,9.28,0,7,74.0,26.0,25.7,1,493.0,5,8.5,0,,,
+EST-2025-0851,2022-S2,Ingeniería Civil,Guayas,Rural,M,26,Soltero/a,Fiscal,Recursos propios,Presencial,5,6.71,,3,8,69.0,0.0,6.7,1,719.0,0,6.5,1,2024-04-13,Laboral,5.0
+EST-2020-0852,2022-S2,Medicina,Azuay,Urbana,M,25,Union libre,Fiscal,Recursos propios,Presencial,2,6.75,6.69,1,6,61.4,25.0,4.7,1,1367.0,5,6.5,1,2024-05-24,Economico,2.0
+EST-2021-0853,2022-S2,Arquitectura,Pichincha,Urbana,M,22,Soltero/a,Fiscal,Beca parcial,Presencial,2,8.24,8.84,1,4,83.8,0.0,55.5,2,497.0,0,8.0,0,,,
+EST-2022-0854,2022-S1,Arquitectura,Pichincha,Urbana,M,17,Soltero/a,Fiscal,Recursos propios,Semi-presencial,1,7.21,7.12,2,5,50.9,0.0,47.0,0,678.0,2,5.2,1,2024-01-25,Academico,1.0
+EST-2023-0855,2023-S1,Arquitectura,Manabí,Rural,M,25,Union libre,Fiscomisional,Credito educativo,Semi-presencial,6,8.5,,2,8,76.6,0.0,,1,1150.0,5,6.2,0,,,
+EST-2024-0856,2023-S2,Arquitectura,Pichincha,Urbana,F,27,Soltero/a,Fiscomisional,Credito educativo,Semi-presencial,6,8.65,6.97,0,5,100.0,44.0,2.5,2,1223.0,4,5.2,0,,,
+EST-2025-0857,2023-S2,Contabilidad,Guayas,Urbana,F,25,Casado/a,Fiscal,Recursos propios,Presencial,1,8.13,6.35,4,8,94.5,32.0,27.2,1,576.0,0,6.4,0,,,
+EST-2020-0858,2022-S2,Contabilidad,Pichincha,Urbana,F,17,Soltero/a,Fiscal,Recursos propios,Presencial,4,7.52,7.4,0,5,93.3,32.0,0.5,1,200.0,3,5.1,0,,,
+EST-2021-0859,2022-S2,Medicina,Azuay,Urbana,M,18,Casado/a,Fiscal,Recursos propios,Presencial,3,6.19,7.99,0,5,88.2,0.0,18.3,4,471.0,0,4.4,0,,,
+EST-2022-0860,2022-S1,Derecho,Pichincha,Urbana,M,19,Union libre,Fiscal,Beca parcial,Presencial,5,7.0,5.89,4,8,74.8,34.0,42.2,2,1041.0,2,6.1,1,2024-06-27,Economico,5.0
+EST-2023-0861,2023-S1,Psicología,Esmeraldas,Urbana,F,22,Soltero/a,Fiscomisional,Beca parcial,Presencial,6,7.86,6.52,1,4,96.0,0.0,0.9,1,1096.0,1,4.4,0,,,
+EST-2024-0862,2022-S1,Medicina,Azuay,Rural,F,18,Union libre,Particular,Recursos propios,Presencial,6,7.08,10.0,0,5,76.6,0.0,16.4,1,743.0,3,5.6,0,,,
+EST-2025-0863,2022-S2,Ingeniería Civil,Loja,Rural,F,19,Casado/a,Fiscal,Beca parcial,Semi-presencial,3,7.84,6.41,3,8,72.8,0.0,7.6,2,840.0,1,6.3,0,,,
+EST-2020-0864,2023-S2,Psicología,Esmeraldas,Urbana,F,20,Soltero/a,Particular,Beca parcial,Presencial,4,9.13,7.09,0,5,72.6,0.0,13.1,1,655.0,2,7.8,0,,,
+EST-2021-0865,2023-S2,Psicología,Pichincha,Urbana,M,17,Union libre,Fiscal,Recursos propios,Presencial,6,7.23,7.52,2,4,81.1,30.0,,2,709.0,4,5.6,0,,,
+EST-2022-0866,2023-S1,Derecho,Imbabura,Urbana,M,17,Union libre,Particular,Credito educativo,Semi-presencial,4,6.87,6.76,1,5,88.8,27.0,4.5,5,3039.0,2,4.6,0,,,
+EST-2023-0867,2022-S1,Medicina,Esmeraldas,Urbana,F,19,Soltero/a,Particular,Recursos propios,Semi-presencial,5,6.23,7.68,2,7,54.1,18.0,0.5,3,505.0,3,8.8,0,,,
+EST-2024-0868,2022-S1,Psicología,Imbabura,Urbana,F,25,Union libre,Fiscal,Beca completa,Presencial,4,8.78,8.74,0,8,96.3,0.0,10.5,6,576.0,1,2.7,0,,,
+EST-2025-0869,2023-S1,Arquitectura,Pichincha,Rural,M,23,Soltero/a,Fiscal,Credito educativo,Presencial,3,6.92,3.85,1,5,85.0,0.0,55.1,1,286.0,4,4.5,1,2024-01-11,Academico,4.0
+EST-2020-0870,2023-S1,Contabilidad,Manabí,Rural,F,27,Casado/a,Fiscal,Beca completa,Presencial,5,8.17,8.32,1,5,79.6,0.0,10.2,3,657.0,4,,0,,,
+EST-2021-0871,2023-S2,Ingeniería Civil,Chimborazo,Urbana,M,25,Casado/a,Particular,Beca parcial,Presencial,3,7.33,7.91,2,7,44.0,23.0,4.4,2,536.0,3,,1,2024-02-13,Personal,3.0
+EST-2022-0872,2022-S2,Medicina,Chimborazo,Urbana,F,27,Soltero/a,Fiscomisional,Credito educativo,Semi-presencial,2,6.16,7.0,2,8,58.8,0.0,16.8,1,969.0,5,8.1,0,,,
+EST-2023-0873,2023-S2,Ciencia de Datos,El Oro,Rural,M,18,Soltero/a,Particular,Credito educativo,Presencial,4,9.27,8.4,0,6,55.2,0.0,8.7,3,681.0,4,8.5,0,,,
+EST-2024-0874,2022-S1,Arquitectura,Imbabura,Urbana,F,22,Soltero/a,Fiscal,Recursos propios,Presencial,3,8.86,4.66,1,5,75.8,0.0,39.6,0,1492.0,0,6.3,1,2024-04-08,Economico,4.0
+EST-2025-0875,2022-S1,Administración de Empresas,Guayas,Urbana,M,19,Soltero/a,Particular,Recursos propios,Semi-presencial,4,7.77,5.38,1,6,85.3,0.0,18.3,2,2510.0,1,5.6,0,,,
+EST-2020-0876,2023-S2,Ciencia de Datos,Manabí,Urbana,M,18,Soltero/a,Fiscal,Beca parcial,Presencial,1,7.74,6.06,3,5,100.0,0.0,76.9,2,1138.0,3,5.2,0,,,
+EST-2021-0877,2023-S2,Medicina,Pichincha,Urbana,M,22,Casado/a,Fiscal,Credito educativo,Presencial,5,8.94,4.74,0,7,87.4,0.0,1.3,1,291.0,5,4.0,0,,,
+EST-2022-0878,2022-S2,Contabilidad,Azuay,Rural,M,27,Casado/a,Particular,Recursos propios,Semi-presencial,4,9.23,8.44,1,7,66.5,0.0,13.5,2,679.0,5,3.6,0,,,
+EST-2023-0879,2023-S2,Derecho,Pichincha,Urbana,F,20,Soltero/a,Particular,Beca completa,Presencial,3,7.25,7.63,1,8,82.1,0.0,17.8,3,565.0,4,7.7,0,,,
+EST-2024-0880,2022-S2,Medicina,Tungurahua,Urbana,F,23,Soltero/a,Particular,Credito educativo,Presencial,2,7.56,7.4,0,7,88.6,0.0,3.4,3,383.0,0,7.0,0,,,
+EST-2025-0881,2023-S2,Contabilidad,Chimborazo,Urbana,M,17,Soltero/a,Fiscal,Beca parcial,Presencial,2,6.84,8.46,1,5,84.6,0.0,5.3,0,695.0,2,5.9,0,,,
+EST-2020-0882,2022-S2,Ciencia de Datos,Manabí,Urbana,M,25,Soltero/a,Particular,Recursos propios,Semi-presencial,5,7.83,4.9,2,4,90.3,30.0,36.2,2,730.0,4,7.3,0,,,
+EST-2021-0883,2023-S2,Ingeniería Civil,Tungurahua,Urbana,F,20,Soltero/a,Fiscal,Recursos propios,Presencial,5,10.0,7.62,0,6,91.4,0.0,18.1,2,484.0,1,6.4,0,,,
+EST-2022-0884,2022-S1,Ingeniería Civil,Pichincha,Urbana,F,26,Soltero/a,Fiscomisional,Recursos propios,Presencial,6,8.62,4.87,0,6,73.9,0.0,34.4,2,1392.0,3,6.6,0,,,
+EST-2023-0885,2023-S2,Derecho,Loja,Urbana,M,25,Soltero/a,Fiscal,Beca completa,Presencial,2,7.62,6.66,1,7,74.7,0.0,16.8,0,646.0,5,9.4,0,,,
+EST-2024-0886,2023-S2,Contabilidad,Chimborazo,Rural,F,19,Union libre,Particular,Beca parcial,Presencial,2,7.63,5.91,0,6,89.3,0.0,7.7,3,541.0,5,5.0,0,,,
+EST-2025-0887,2023-S1,Ciencia de Datos,Guayas,Urbana,M,18,Soltero/a,Fiscal,Beca parcial,Presencial,6,8.07,7.45,4,8,65.0,14.0,1.4,1,627.0,4,7.0,0,,,
+EST-2020-0888,2023-S1,Psicología,Pichincha,Rural,F,17,Union libre,Fiscomisional,Recursos propios,Presencial,2,9.6,9.82,1,5,72.7,23.0,2.3,3,359.0,5,7.2,0,,,
+EST-2021-0889,2022-S2,Psicología,El Oro,Rural,F,17,Soltero/a,Particular,Beca parcial,Presencial,6,7.02,10.0,4,5,62.6,37.0,15.4,3,368.0,0,6.1,1,2024-08-26,Economico,7.0
+EST-2022-0890,2022-S1,Medicina,El Oro,Rural,F,27,Casado/a,Fiscomisional,Beca completa,Presencial,1,5.21,8.03,0,6,80.1,0.0,13.9,4,1971.0,1,5.2,0,,,
+EST-2023-0891,2022-S1,Ciencia de Datos,Manabí,Rural,M,23,Soltero/a,Particular,Beca parcial,Semi-presencial,2,8.25,6.82,0,7,66.7,0.0,1.1,1,687.0,3,7.1,0,,,
+EST-2024-0892,2022-S1,Medicina,Tungurahua,Urbana,M,27,Casado/a,Fiscal,Credito educativo,Presencial,4,6.76,7.34,1,4,99.4,14.0,5.9,2,566.0,0,6.2,0,,,
+EST-2025-0893,2023-S2,Medicina,Azuay,Rural,M,23,Soltero/a,Particular,Recursos propios,Presencial,6,9.09,8.74,1,8,89.2,34.0,2.5,1,749.0,3,5.0,0,,,
+EST-2020-0894,2022-S1,Arquitectura,Esmeraldas,Urbana,M,26,Soltero/a,Fiscal,Beca completa,Presencial,3,8.31,6.33,1,5,78.4,0.0,14.9,3,1242.0,5,6.5,0,,,
+EST-2021-0895,2022-S1,Ingeniería Civil,El Oro,Urbana,M,21,Soltero/a,Fiscal,Recursos propios,Semi-presencial,6,6.5,8.59,3,5,93.7,39.0,45.1,2,817.0,4,3.0,0,,,
+EST-2022-0896,2022-S2,Ciencia de Datos,Esmeraldas,Rural,M,24,Soltero/a,Fiscal,Recursos propios,Presencial,4,7.55,9.64,4,7,81.6,0.0,1.5,2,740.0,2,8.6,0,,,
+EST-2023-0897,2023-S2,Contabilidad,Pichincha,Urbana,M,22,Casado/a,Particular,Beca completa,Semi-presencial,5,6.31,5.56,0,6,83.7,23.0,11.6,3,992.0,5,6.7,0,,,
+EST-2024-0898,2023-S1,Derecho,Pichincha,Urbana,F,21,Soltero/a,Fiscal,Recursos propios,Semi-presencial,3,6.15,7.43,2,6,66.8,0.0,53.5,1,825.0,4,8.3,0,,,
+EST-2025-0899,2022-S1,Medicina,Pichincha,Rural,F,20,Soltero/a,Fiscal,Recursos propios,Presencial,5,8.79,8.84,3,8,68.5,35.0,,2,518.0,2,7.4,1,2024-06-13,Economico,5.0
+EST-2020-0900,2022-S1,Arquitectura,Pichincha,Rural,F,19,Casado/a,Particular,Recursos propios,Presencial,4,8.85,9.22,2,6,98.2,14.0,13.2,1,327.0,3,4.7,0,,,
+EST-2021-0901,2022-S2,Administración de Empresas,Imbabura,Urbana,F,22,Soltero/a,Particular,Recursos propios,Semi-presencial,2,8.16,7.53,0,7,99.0,0.0,17.7,1,460.0,0,7.9,0,,,
+EST-2022-0902,2023-S2,Administración de Empresas,Tungurahua,Urbana,F,17,Soltero/a,Fiscal,Recursos propios,Semi-presencial,3,6.74,7.69,1,5,62.5,0.0,60.3,0,948.0,4,7.3,0,,,
+EST-2023-0903,2022-S1,Ciencia de Datos,Guayas,Urbana,F,25,Union libre,Fiscal,Recursos propios,Semi-presencial,1,5.1,5.31,1,5,94.2,0.0,33.5,0,498.0,4,3.1,0,,,
+EST-2024-0904,2022-S1,Ingeniería Civil,Pichincha,Urbana,M,19,Casado/a,Fiscal,Beca completa,Semi-presencial,2,9.45,7.31,5,7,78.5,0.0,12.5,5,589.0,4,5.7,0,,,
+EST-2025-0905,2023-S2,Arquitectura,Esmeraldas,Urbana,F,23,Soltero/a,Fiscal,Recursos propios,Semi-presencial,6,7.66,6.52,0,5,74.0,0.0,12.6,0,514.0,5,9.0,0,,,
+EST-2020-0906,2022-S1,Contabilidad,Esmeraldas,Urbana,F,21,Soltero/a,Particular,Beca parcial,Semi-presencial,3,6.67,7.78,0,7,78.2,0.0,8.9,2,578.0,3,5.8,0,,,
+EST-2021-0907,2022-S1,Psicología,Imbabura,Urbana,M,25,Soltero/a,Fiscal,Recursos propios,Semi-presencial,4,6.94,2.87,1,6,70.4,0.0,14.9,0,465.0,4,3.3,1,2024-08-21,Economico,4.0
+EST-2022-0908,2022-S1,Ingeniería Civil,Guayas,Rural,F,26,Soltero/a,Fiscal,Beca completa,Presencial,3,8.24,,0,8,76.1,0.0,27.1,2,799.0,1,3.2,1,2024-05-22,Economico,3.0
+EST-2023-0909,2022-S1,Ingeniería Civil,Esmeraldas,Rural,M,27,Soltero/a,Particular,Beca parcial,Presencial,2,5.89,6.98,1,4,92.9,28.0,9.4,1,1026.0,3,7.2,0,,,
+EST-2024-0910,2023-S1,Contabilidad,Tungurahua,Rural,M,18,Soltero/a,Fiscal,Beca parcial,Presencial,1,8.0,8.68,1,8,96.5,0.0,69.5,1,398.0,1,6.1,0,,,
+EST-2025-0911,2022-S1,Ingeniería Civil,Imbabura,Urbana,M,21,Soltero/a,Fiscal,Recursos propios,Presencial,5,7.93,6.43,0,8,85.0,0.0,6.3,1,241.0,3,8.6,0,,,
+EST-2020-0912,2023-S1,Ciencia de Datos,Esmeraldas,Rural,M,17,Casado/a,Fiscal,Beca parcial,Semi-presencial,1,8.47,8.11,2,6,100.0,0.0,15.1,1,747.0,0,7.3,0,,,
+EST-2021-0913,2022-S1,Arquitectura,Chimborazo,Urbana,M,18,Soltero/a,Fiscal,Recursos propios,Presencial,2,6.54,6.72,0,5,75.1,0.0,21.4,0,636.0,1,7.5,0,,,
+EST-2022-0914,2022-S1,Psicología,Imbabura,Urbana,M,27,Casado/a,Fiscal,Credito educativo,Semi-presencial,1,7.21,9.07,0,8,86.0,14.0,31.2,0,505.0,1,8.3,0,,,
+EST-2023-0915,2023-S2,Ingeniería Civil,Azuay,Urbana,F,24,Soltero/a,Particular,Beca completa,Presencial,1,8.72,8.45,0,8,93.6,0.0,5.5,2,897.0,5,,0,,,
+EST-2024-0916,2022-S1,Administración de Empresas,Guayas,Rural,M,20,Soltero/a,Fiscal,Recursos propios,Presencial,4,6.5,10.0,2,6,68.0,0.0,12.4,2,353.0,4,8.3,0,,,
+EST-2025-0917,2023-S1,Contabilidad,Guayas,Urbana,M,24,Soltero/a,Particular,Credito educativo,Presencial,1,8.2,9.35,0,7,69.6,34.0,2.5,0,752.0,5,6.0,0,,,
+EST-2020-0918,2023-S1,Arquitectura,El Oro,Urbana,M,25,Union libre,Fiscal,Credito educativo,Semi-presencial,5,6.69,8.57,2,6,61.6,0.0,18.5,0,640.0,0,4.9,0,,,
+EST-2021-0919,2023-S2,Ingeniería Civil,Imbabura,Urbana,F,26,Soltero/a,Fiscal,Recursos propios,Presencial,5,7.63,,0,5,81.3,0.0,0.9,0,376.0,0,6.3,0,,,
+EST-2022-0920,2023-S2,Psicología,Pichincha,Rural,M,18,Soltero/a,Fiscomisional,Recursos propios,Presencial,4,8.3,3.9,2,6,93.7,37.0,37.6,2,413.0,2,7.6,1,2024-02-24,Economico,5.0
+EST-2023-0921,2022-S2,Ingeniería Civil,El Oro,Urbana,F,17,Soltero/a,Fiscal,Beca parcial,Presencial,5,6.7,6.9,2,6,77.8,44.0,13.9,1,840.0,0,7.1,1,2024-01-25,Economico,6.0
+EST-2024-0922,2022-S1,Medicina,Loja,Urbana,M,24,Casado/a,Fiscomisional,Recursos propios,Presencial,5,6.13,9.91,0,8,100.0,0.0,14.8,3,585.0,4,7.4,0,,,
+EST-2025-0923,2022-S2,Ingeniería Civil,Guayas,Rural,F,24,Soltero/a,Particular,Credito educativo,Presencial,3,6.68,,3,8,86.2,32.0,15.7,3,735.0,1,4.8,0,,,
+EST-2020-0924,2022-S1,Contabilidad,Azuay,Urbana,M,17,Soltero/a,Fiscal,Beca parcial,Presencial,1,8.02,6.96,1,5,76.2,0.0,64.5,4,563.0,0,,0,,,
+EST-2021-0925,2022-S2,Administración de Empresas,Azuay,Urbana,M,22,Soltero/a,Fiscal,Recursos propios,Presencial,2,7.96,9.84,1,7,66.1,0.0,57.4,4,439.0,3,5.1,0,,,
+EST-2022-0926,2023-S2,Medicina,Guayas,Rural,F,27,Soltero/a,Particular,Recursos propios,Presencial,4,8.0,6.02,0,6,83.7,33.0,30.7,1,588.0,3,,0,,,
+EST-2023-0927,2023-S1,Derecho,Chimborazo,Urbana,F,24,Soltero/a,Fiscomisional,Recursos propios,Presencial,4,10.0,7.19,3,6,91.4,33.0,2.0,2,869.0,2,8.3,0,,,
+EST-2024-0928,2022-S1,Ingeniería Civil,Pichincha,Urbana,M,17,Union libre,Particular,Beca parcial,Presencial,1,7.56,8.92,1,7,81.7,14.0,5.3,1,505.0,1,7.0,0,,,
+EST-2025-0929,2023-S2,Arquitectura,Loja,Urbana,M,27,Soltero/a,Particular,Beca completa,Presencial,4,8.31,5.31,1,6,96.2,37.0,29.6,0,715.0,4,8.9,0,,,
+EST-2020-0930,2022-S1,Derecho,Chimborazo,Urbana,F,23,Soltero/a,Fiscal,Beca completa,Presencial,2,8.22,9.8,1,5,94.9,0.0,29.9,1,1012.0,5,5.1,0,,,
+EST-2021-0931,2022-S2,Ciencia de Datos,Pichincha,Urbana,F,26,Soltero/a,Particular,Credito educativo,Presencial,1,9.1,6.25,1,7,86.4,37.0,5.2,3,411.0,0,7.1,0,,,
+EST-2022-0932,2022-S2,Contabilidad,Pichincha,Urbana,F,23,Soltero/a,Particular,Credito educativo,Presencial,4,7.81,6.88,1,5,75.5,0.0,27.4,1,460.0,4,6.6,0,,,
+EST-2023-0933,2022-S1,Ciencia de Datos,El Oro,Urbana,F,22,Soltero/a,Particular,Beca completa,Presencial,2,8.81,9.4,0,7,67.8,0.0,12.3,2,267.0,2,7.4,0,,,
+EST-2024-0934,2023-S1,Medicina,Pichincha,Urbana,F,23,Soltero/a,Particular,Beca parcial,Presencial,6,7.17,7.25,1,4,82.6,0.0,,2,200.0,2,7.4,0,,,
+EST-2025-0935,2023-S1,Ingeniería Civil,El Oro,Urbana,F,18,Soltero/a,Particular,Recursos propios,Presencial,2,6.95,6.69,1,6,82.2,0.0,11.8,3,1335.0,4,4.5,0,,,
+EST-2020-0936,2022-S1,Arquitectura,Tungurahua,Urbana,M,22,Casado/a,Particular,Beca completa,Semi-presencial,4,9.49,7.33,1,4,77.2,0.0,20.3,0,568.0,1,8.4,0,,,
+EST-2021-0937,2022-S2,Ciencia de Datos,Pichincha,Urbana,F,25,Union libre,Fiscal,Beca completa,Presencial,5,7.65,8.99,1,6,72.1,0.0,23.9,4,663.0,2,4.4,0,,,
+EST-2022-0938,2022-S1,Contabilidad,Tungurahua,Rural,M,27,Soltero/a,Fiscal,Beca parcial,Presencial,6,7.62,6.26,1,7,68.9,23.0,10.9,0,1612.0,3,4.8,1,2024-03-11,Personal,6.0
+EST-2023-0939,2022-S2,Medicina,Pichincha,Urbana,M,17,Union libre,Fiscal,Beca parcial,Semi-presencial,3,7.11,5.88,2,5,81.9,0.0,50.7,3,596.0,4,3.7,0,,,
+EST-2024-0940,2022-S1,Arquitectura,Loja,Urbana,M,22,Union libre,Particular,Credito educativo,Presencial,5,10.0,7.62,0,8,97.1,34.0,1.4,1,1453.0,3,6.0,0,,,
+EST-2025-0941,2022-S1,Contabilidad,Esmeraldas,Urbana,F,27,Casado/a,Particular,Beca completa,Presencial,3,10.0,6.03,1,6,76.9,21.0,,1,703.0,2,4.2,0,,,
+EST-2020-0942,2022-S1,Administración de Empresas,Azuay,Urbana,F,24,Soltero/a,Fiscomisional,Beca parcial,Semi-presencial,2,8.5,5.21,1,8,67.0,29.0,8.9,3,960.0,2,5.5,1,2024-02-24,Economico,3.0
+EST-2021-0943,2022-S1,Administración de Empresas,Imbabura,Urbana,F,17,Soltero/a,Fiscal,Beca completa,Presencial,4,8.11,6.57,5,4,71.8,28.0,10.4,1,529.0,3,4.7,1,2024-01-24,Laboral,4.0
+EST-2022-0944,2022-S2,Psicología,Azuay,Urbana,F,22,Soltero/a,Fiscal,Recursos propios,Presencial,4,7.56,8.62,2,7,93.3,18.0,1.3,2,764.0,2,6.6,0,,,
+EST-2023-0945,2023-S2,Medicina,Loja,Urbana,F,17,Casado/a,Fiscal,Beca completa,Semi-presencial,3,7.83,8.31,3,4,78.5,0.0,16.8,2,846.0,0,,0,,,
+EST-2024-0946,2022-S2,Derecho,Esmeraldas,Urbana,F,17,Soltero/a,Particular,Beca completa,Presencial,2,8.16,8.8,2,4,80.3,0.0,76.9,2,318.0,3,6.2,0,,,
+EST-2025-0947,2022-S1,Administración de Empresas,Chimborazo,Urbana,M,23,Soltero/a,Particular,Credito educativo,Presencial,5,9.21,,3,7,74.8,0.0,1.2,3,1668.0,2,6.4,0,,,
+EST-2020-0948,2023-S1,Psicología,Manabí,Urbana,F,22,Soltero/a,Fiscal,Recursos propios,Presencial,4,8.37,5.52,1,6,85.8,30.0,2.5,1,397.0,4,7.7,0,,,
+EST-2021-0949,2022-S1,Medicina,Pichincha,Rural,F,21,Soltero/a,Particular,Beca parcial,Presencial,3,8.13,,1,6,100.0,0.0,1.7,4,362.0,4,8.1,0,,,
+EST-2022-0950,2023-S2,Administración de Empresas,Guayas,Urbana,M,22,Soltero/a,Fiscal,Beca parcial,Presencial,6,8.93,,1,7,66.6,0.0,14.2,3,631.0,0,,0,,,
+EST-2023-0951,2022-S1,Administración de Empresas,Pichincha,Urbana,F,26,Soltero/a,Particular,Recursos propios,Presencial,5,8.2,6.7,0,4,72.0,0.0,11.7,2,400.0,4,4.9,0,,,
+EST-2024-0952,2022-S2,Arquitectura,Manabí,Urbana,M,24,Soltero/a,Particular,Credito educativo,Presencial,3,8.01,7.08,2,8,53.3,0.0,21.0,1,1073.0,5,5.6,0,,,
+EST-2025-0953,2022-S1,Derecho,Pichincha,Rural,M,24,Soltero/a,Particular,Beca parcial,Presencial,5,7.1,6.73,1,5,74.4,28.0,32.3,0,393.0,5,,0,,,
+EST-2020-0954,2022-S1,Contabilidad,Pichincha,Urbana,F,26,Soltero/a,Fiscal,Beca parcial,Semi-presencial,6,6.57,,0,7,78.4,0.0,2.9,1,1152.0,0,4.3,0,,,
+EST-2021-0955,2022-S1,Arquitectura,Esmeraldas,Urbana,M,27,Soltero/a,Fiscal,Recursos propios,Presencial,4,7.44,5.87,2,5,69.9,30.0,3.5,1,853.0,5,10.0,0,,,
+EST-2022-0956,2023-S2,Psicología,Imbabura,Rural,F,23,Casado/a,Fiscal,Recursos propios,Presencial,3,8.8,7.23,3,8,59.4,0.0,0.6,2,302.0,3,3.5,1,2024-08-27,Laboral,4.0
+EST-2023-0957,2023-S1,Ingeniería Civil,Tungurahua,Rural,F,17,Casado/a,Particular,Beca parcial,Presencial,5,7.16,6.68,1,6,54.9,0.0,5.1,2,502.0,5,3.3,1,2024-03-02,Economico,5.0
+EST-2024-0958,2022-S2,Ciencia de Datos,Pichincha,Rural,F,27,Union libre,Fiscal,Recursos propios,Presencial,1,9.43,9.15,2,4,63.4,35.0,3.3,1,643.0,1,8.2,1,2024-01-14,Academico,1.0
+EST-2025-0959,2023-S2,Psicología,Azuay,Urbana,M,19,Soltero/a,Particular,Credito educativo,Presencial,1,7.07,7.76,1,8,65.7,27.0,31.9,0,473.0,2,7.5,1,2024-01-06,Personal,2.0
+EST-2020-0960,2023-S2,Derecho,Pichincha,Rural,M,22,Soltero/a,Fiscal,Recursos propios,Presencial,5,6.67,7.42,2,5,91.5,20.0,,1,402.0,4,6.3,0,,,
+EST-2021-0961,2022-S1,Medicina,Manabí,Rural,M,20,Soltero/a,Particular,Recursos propios,Presencial,6,9.18,9.0,3,5,77.4,32.0,3.9,2,581.0,3,7.2,0,,,
+EST-2022-0962,2023-S2,Contabilidad,Azuay,Urbana,M,21,Soltero/a,Fiscomisional,Credito educativo,Semi-presencial,1,8.3,5.73,0,7,86.5,0.0,6.2,1,1151.0,4,7.7,0,,,
+EST-2023-0963,2023-S2,Derecho,Loja,Rural,F,22,Soltero/a,Fiscomisional,Beca parcial,Presencial,2,7.65,5.31,2,6,70.7,0.0,14.2,0,1380.0,0,6.7,0,,,
+EST-2024-0964,2023-S1,Derecho,Pichincha,Rural,F,18,Soltero/a,Particular,Beca completa,Presencial,6,8.26,8.7,2,7,89.0,26.0,26.0,1,463.0,3,10.0,0,,,
+EST-2025-0965,2022-S1,Ciencia de Datos,Guayas,Rural,F,19,Casado/a,Fiscal,Beca parcial,Presencial,5,8.82,8.1,1,8,87.5,26.0,3.3,2,238.0,4,7.0,0,,,
+EST-2020-0966,2023-S1,Arquitectura,Esmeraldas,Urbana,M,18,Soltero/a,Particular,Beca parcial,Presencial,2,7.71,,1,6,52.3,0.0,120.0,2,291.0,1,8.0,1,2024-06-02,Personal,2.0
+EST-2021-0967,2023-S1,Ciencia de Datos,Esmeraldas,Urbana,M,17,Soltero/a,Fiscal,Beca completa,Presencial,6,6.93,6.27,1,5,50.9,13.0,1.5,2,991.0,1,6.4,1,2024-05-11,Laboral,6.0
+EST-2022-0968,2023-S1,Contabilidad,Manabí,Urbana,M,26,Soltero/a,Fiscal,Recursos propios,Presencial,4,8.54,,2,4,92.1,11.0,2.9,1,662.0,5,6.2,0,,,
+EST-2023-0969,2023-S1,Administración de Empresas,Azuay,Urbana,M,27,Soltero/a,Fiscal,Credito educativo,Presencial,5,7.26,6.26,2,4,86.1,0.0,16.3,0,741.0,4,7.8,0,,,
+EST-2024-0970,2022-S2,Psicología,Tungurahua,Urbana,F,22,Soltero/a,Particular,Recursos propios,Presencial,5,9.18,7.15,0,8,78.7,0.0,9.1,4,420.0,5,6.3,0,,,
+EST-2025-0971,2023-S1,Ciencia de Datos,Tungurahua,Urbana,F,21,Soltero/a,Fiscal,Beca parcial,Presencial,5,7.8,5.63,2,8,67.2,37.0,14.0,2,1104.0,5,5.7,1,2024-07-25,Laboral,6.0
+EST-2020-0972,2023-S2,Medicina,El Oro,Urbana,M,26,Soltero/a,Particular,Beca parcial,Presencial,3,6.74,9.42,3,4,65.5,0.0,32.8,2,1402.0,5,5.1,0,,,
+EST-2021-0973,2023-S2,Derecho,Manabí,Urbana,M,20,Soltero/a,Fiscal,Beca completa,Presencial,2,7.11,7.81,0,5,74.4,0.0,2.4,1,1791.0,4,6.3,0,,,
+EST-2022-0974,2023-S2,Ciencia de Datos,Pichincha,Urbana,M,25,Casado/a,Particular,Beca completa,Semi-presencial,6,6.35,7.81,0,8,53.5,0.0,6.9,6,1160.0,1,9.1,0,,,
+EST-2023-0975,2022-S2,Ingeniería Civil,Chimborazo,Urbana,M,25,Soltero/a,Fiscal,Recursos propios,Presencial,4,9.36,5.0,1,7,65.7,0.0,39.7,0,460.0,0,3.5,0,,,
+EST-2024-0976,2023-S1,Psicología,Tungurahua,Urbana,M,18,Soltero/a,Fiscal,Beca parcial,Presencial,2,6.59,6.1,0,5,83.7,0.0,58.9,2,384.0,1,5.2,0,,,
+EST-2025-0977,2022-S1,Arquitectura,Guayas,Urbana,F,18,Casado/a,Particular,Credito educativo,Presencial,4,8.61,6.34,1,4,86.2,11.0,,1,894.0,4,4.8,0,,,
+EST-2020-0978,2023-S1,Medicina,Pichincha,Rural,F,24,Casado/a,Particular,Credito educativo,Presencial,2,6.68,8.09,1,8,78.5,15.0,13.2,1,710.0,3,,0,,,
+EST-2021-0979,2023-S2,Contabilidad,Guayas,Urbana,F,26,Union libre,Particular,Recursos propios,Semi-presencial,6,8.94,8.81,0,7,73.9,0.0,52.5,2,356.0,2,7.4,0,,,
+EST-2022-0980,2022-S1,Derecho,El Oro,Urbana,F,26,Soltero/a,Particular,Recursos propios,Semi-presencial,2,8.63,5.94,2,8,95.4,27.0,0.5,3,231.0,1,6.6,0,,,
+EST-2023-0981,2023-S2,Psicología,Pichincha,Urbana,M,19,Casado/a,Particular,Recursos propios,Semi-presencial,2,8.79,8.68,1,5,97.7,0.0,32.6,0,280.0,4,3.9,0,,,
+EST-2024-0982,2023-S1,Derecho,Pichincha,Rural,M,17,Soltero/a,Fiscal,Beca parcial,Presencial,1,7.79,9.13,1,4,88.2,25.0,6.0,1,580.0,2,,0,,,
+EST-2025-0983,2023-S2,Contabilidad,Chimborazo,Rural,M,20,Soltero/a,Particular,Beca parcial,Presencial,6,8.28,,2,8,58.2,38.0,7.4,4,910.0,2,6.9,1,2024-04-01,Academico,7.0
+EST-2020-0984,2022-S1,Contabilidad,Tungurahua,Urbana,M,24,Soltero/a,Fiscal,Credito educativo,Presencial,1,9.72,8.33,1,5,79.2,11.0,22.5,1,1241.0,0,7.5,0,,,
+EST-2021-0985,2022-S1,Contabilidad,Chimborazo,Urbana,F,26,Casado/a,Fiscal,Credito educativo,Presencial,4,9.05,4.65,0,8,55.2,0.0,16.5,2,897.0,3,7.4,0,,,
+EST-2022-0986,2022-S2,Ingeniería Civil,Tungurahua,Urbana,M,26,Soltero/a,Fiscomisional,Beca completa,Presencial,3,7.08,10.0,2,8,63.5,0.0,19.8,3,1846.0,5,7.1,0,,,
+EST-2023-0987,2023-S1,Medicina,Esmeraldas,Urbana,M,17,Casado/a,Particular,Credito educativo,Semi-presencial,4,8.17,5.89,0,7,82.7,0.0,10.6,2,573.0,1,7.3,0,,,
+EST-2024-0988,2023-S1,Ingeniería Civil,Azuay,Urbana,M,19,Soltero/a,Fiscal,Beca completa,Presencial,2,8.14,9.07,0,5,100.0,21.0,2.5,3,708.0,4,7.4,0,,,
+EST-2025-0989,2023-S2,Derecho,Guayas,Urbana,M,18,Union libre,Fiscal,Beca completa,Presencial,3,7.01,8.24,3,7,85.9,0.0,38.3,1,761.0,1,5.7,0,,,
+EST-2020-0990,2023-S1,Medicina,Guayas,Urbana,F,26,Soltero/a,Particular,Recursos propios,Presencial,6,8.13,7.63,2,7,70.5,0.0,23.7,1,1025.0,5,7.5,0,,,
+EST-2021-0991,2023-S1,Contabilidad,Guayas,Rural,M,18,Union libre,Particular,Beca parcial,Semi-presencial,5,6.98,6.39,0,4,79.4,0.0,9.4,2,388.0,4,6.9,0,,,
+EST-2022-0992,2023-S2,Arquitectura,Pichincha,Urbana,F,17,Soltero/a,Particular,Beca parcial,Presencial,6,7.49,,1,4,75.8,0.0,12.6,2,1599.0,1,6.0,0,,,
+EST-2023-0993,2023-S2,Contabilidad,Azuay,Rural,F,25,Casado/a,Fiscal,Recursos propios,Presencial,3,9.94,6.51,0,5,80.8,0.0,7.6,3,649.0,1,6.6,0,,,
+EST-2024-0994,2023-S1,Ciencia de Datos,Imbabura,Urbana,M,23,Casado/a,Particular,Recursos propios,Semi-presencial,5,9.01,7.09,1,6,68.7,0.0,4.6,4,1963.0,5,8.8,0,,,
+EST-2025-0995,2022-S2,Psicología,Guayas,Urbana,M,18,Union libre,Fiscomisional,Beca parcial,Presencial,4,6.42,5.09,2,4,71.8,43.0,25.7,2,741.0,2,8.6,1,2024-05-07,Academico,5.0
+EST-2020-0996,2022-S1,Ingeniería Civil,Azuay,Urbana,M,24,Casado/a,Fiscal,Recursos propios,Presencial,2,8.43,6.37,1,4,80.5,42.0,20.2,0,918.0,0,7.3,1,2024-01-09,Laboral,2.0
+EST-2021-0997,2023-S1,Psicología,Guayas,Urbana,M,20,Soltero/a,Fiscal,Beca completa,Semi-presencial,6,8.69,5.07,2,5,72.3,0.0,1.7,3,1289.0,3,,0,,,
+EST-2022-0998,2022-S1,Ingeniería Civil,El Oro,Rural,M,17,Union libre,Particular,Beca completa,Presencial,1,7.66,6.91,2,7,71.8,0.0,8.5,0,352.0,1,7.3,0,,,
+EST-2023-0999,2023-S1,Administración de Empresas,Guayas,Rural,F,23,Soltero/a,Particular,Credito educativo,Presencial,2,6.99,7.47,2,6,90.5,0.0,16.0,2,1095.0,2,6.1,0,,,
+EST-2024-1000,2022-S2,Medicina,Pichincha,Rural,M,26,Casado/a,Fiscal,Beca completa,Presencial,4,7.97,7.37,2,7,84.2,18.0,19.5,1,740.0,1,9.0,1,2024-06-19,Academico,4.0
+EST-2025-1001,2022-S1,Contabilidad,El Oro,Urbana,F,26,Casado/a,Fiscomisional,Credito educativo,Semi-presencial,3,10.0,6.65,1,6,70.3,30.0,4.6,1,457.0,3,6.6,0,,,
+EST-2020-1002,2023-S2,Arquitectura,Pichincha,Urbana,F,26,Soltero/a,Fiscomisional,Recursos propios,Semi-presencial,1,8.5,7.23,0,6,99.2,13.0,0.5,2,464.0,5,5.9,0,,,
+EST-2021-1003,2022-S2,Ciencia de Datos,Imbabura,Urbana,F,18,Union libre,Fiscal,Recursos propios,Presencial,5,5.57,5.0,2,8,85.2,35.0,18.6,2,301.0,1,9.2,1,2024-02-01,Economico,6.0
+EST-2022-1004,2022-S2,Medicina,Chimborazo,Urbana,F,22,Soltero/a,Particular,Beca parcial,Semi-presencial,1,8.34,9.38,0,4,64.7,34.0,11.9,2,531.0,5,,0,,,
+EST-2023-1005,2022-S2,Ciencia de Datos,Manabí,Rural,F,25,Casado/a,Fiscal,Beca parcial,Presencial,5,8.71,4.17,4,6,81.8,0.0,0.7,2,670.0,1,5.1,1,2024-07-26,Academico,5.0
+EST-2024-1006,2023-S2,Derecho,Manabí,Rural,M,25,Soltero/a,Particular,Credito educativo,Presencial,1,9.5,8.9,1,8,88.2,0.0,89.7,1,486.0,1,5.8,0,,,
+EST-2025-1007,2022-S1,Ingeniería Civil,Guayas,Rural,M,22,Soltero/a,Fiscal,Credito educativo,Presencial,4,7.79,8.96,2,8,67.4,0.0,4.3,2,530.0,2,,0,,,
+EST-2020-1008,2023-S1,Medicina,Manabí,Rural,M,19,Soltero/a,Fiscal,Beca completa,Presencial,2,8.73,9.26,1,7,86.9,0.0,2.1,1,910.0,1,7.1,0,,,
+EST-2021-1009,2022-S1,Derecho,Loja,Rural,M,20,Soltero/a,Fiscal,Credito educativo,Presencial,6,8.44,8.56,1,8,72.2,0.0,5.0,1,1683.0,5,9.5,0,,,
+EST-2022-1010,2023-S2,Contabilidad,Guayas,Rural,M,18,Casado/a,Particular,Recursos propios,Presencial,6,7.19,7.98,0,6,75.7,0.0,7.2,1,852.0,4,10.0,0,,,
+EST-2023-1011,2023-S2,Ingeniería Civil,Pichincha,Urbana,M,26,Soltero/a,Fiscal,Beca parcial,Semi-presencial,4,7.06,2.72,1,7,95.4,11.0,16.8,3,1112.0,1,6.7,0,,,
+EST-2024-1012,2023-S2,Administración de Empresas,Azuay,Urbana,M,19,Soltero/a,Fiscal,Beca parcial,Semi-presencial,1,6.62,5.98,2,5,69.4,0.0,24.2,1,622.0,0,6.8,1,2024-07-10,Laboral,2.0
+EST-2025-1013,2023-S2,Administración de Empresas,Chimborazo,Urbana,F,23,Casado/a,Particular,Credito educativo,Presencial,4,8.74,6.75,3,6,75.6,0.0,29.8,2,893.0,5,6.2,0,,,
+EST-2020-1014,2023-S2,Arquitectura,Imbabura,Urbana,F,22,Soltero/a,Fiscal,Recursos propios,Semi-presencial,1,7.71,5.29,2,6,88.9,15.0,5.7,2,352.0,3,6.2,0,,,
+EST-2021-1015,2022-S1,Administración de Empresas,Pichincha,Urbana,M,17,Union libre,Fiscal,Credito educativo,Semi-presencial,5,6.64,7.67,0,4,87.3,39.0,12.4,1,770.0,3,4.5,1,2024-04-18,Economico,5.0
+EST-2022-1016,2022-S1,Derecho,Pichincha,Urbana,F,19,Soltero/a,Fiscal,Beca parcial,Presencial,5,10.0,,1,6,68.9,0.0,6.4,3,1178.0,1,7.9,0,,,
+EST-2023-1017,2023-S1,Derecho,El Oro,Urbana,F,20,Soltero/a,Fiscal,Beca parcial,Presencial,5,5.29,5.63,1,7,85.1,0.0,15.6,5,701.0,1,4.8,0,,,
+EST-2024-1018,2023-S1,Contabilidad,Esmeraldas,Urbana,F,20,Soltero/a,Fiscal,Beca parcial,Presencial,6,7.52,8.4,0,8,96.1,32.0,19.9,1,251.0,4,7.5,0,,,
+EST-2025-1019,2023-S2,Arquitectura,Guayas,Urbana,F,21,Soltero/a,Fiscal,Beca parcial,Presencial,4,7.67,8.22,1,8,54.4,0.0,3.4,2,466.0,4,10.0,0,,,
+EST-2020-1020,2022-S1,Medicina,Imbabura,Rural,F,23,Soltero/a,Fiscal,Beca parcial,Presencial,5,6.64,8.93,1,4,64.7,24.0,19.0,3,633.0,2,2.9,1,2024-01-05,Personal,5.0
+EST-2021-1021,2022-S2,Contabilidad,Manabí,Urbana,M,22,Soltero/a,Particular,Credito educativo,Semi-presencial,4,7.74,9.19,3,6,100.0,0.0,0.5,3,916.0,2,8.4,0,,,
+EST-2022-1022,2023-S1,Ciencia de Datos,Imbabura,Rural,F,17,Casado/a,Fiscal,Recursos propios,Presencial,5,9.02,,2,8,75.2,44.0,,1,300.0,1,7.0,1,2024-08-17,Laboral,5.0
+EST-2023-1023,2023-S2,Medicina,Loja,Rural,F,21,Soltero/a,Particular,Beca parcial,Presencial,5,9.29,7.82,1,5,67.5,0.0,34.6,3,2003.0,0,5.1,1,2024-01-04,Academico,5.0
+EST-2024-1024,2022-S1,Derecho,Pichincha,Urbana,F,27,Soltero/a,Particular,Credito educativo,Semi-presencial,6,6.65,7.87,1,8,56.3,0.0,,1,613.0,2,4.3,0,,,
+EST-2025-1025,2023-S2,Ciencia de Datos,Imbabura,Rural,F,27,Casado/a,Particular,Beca parcial,Presencial,4,7.14,8.06,1,6,74.9,0.0,5.9,0,1208.0,2,7.9,0,,,
+EST-2020-1026,2022-S2,Ciencia de Datos,Pichincha,Urbana,F,19,Casado/a,Particular,Credito educativo,Presencial,3,9.0,4.51,2,4,88.4,0.0,6.1,3,1549.0,3,7.7,0,,,
+EST-2021-1027,2023-S2,Derecho,Chimborazo,Urbana,M,26,Casado/a,Particular,Recursos propios,Semi-presencial,1,7.66,7.08,2,8,89.2,0.0,2.5,1,550.0,1,8.1,0,,,
+EST-2022-1028,2022-S2,Derecho,Pichincha,Urbana,M,27,Soltero/a,Fiscal,Beca parcial,Semi-presencial,6,9.02,7.49,0,4,66.6,42.0,5.1,1,972.0,1,7.3,0,,,
+EST-2023-1029,2022-S1,Psicología,Pichincha,Rural,F,21,Soltero/a,Fiscomisional,Beca parcial,Semi-presencial,1,9.03,7.15,0,8,88.4,0.0,12.1,1,471.0,4,,0,,,
+EST-2024-1030,2022-S1,Psicología,Pichincha,Urbana,F,18,Casado/a,Fiscal,Beca completa,Presencial,4,8.07,6.52,2,5,78.2,0.0,8.1,3,307.0,2,,0,,,
+EST-2025-1031,2022-S2,Contabilidad,Tungurahua,Urbana,F,20,Soltero/a,Fiscal,Beca completa,Presencial,3,7.37,5.76,2,7,100.0,15.0,2.6,2,817.0,3,7.3,0,,,
+EST-2020-1032,2023-S1,Ciencia de Datos,Azuay,Urbana,M,23,Soltero/a,Particular,Recursos propios,Presencial,4,10.0,6.51,1,4,65.3,15.0,48.6,3,498.0,3,4.4,1,2024-05-12,Academico,4.0
+EST-2021-1033,2023-S1,Medicina,Pichincha,Urbana,F,20,Casado/a,Fiscal,Beca parcial,Presencial,4,8.72,9.0,1,4,82.0,0.0,8.8,6,1430.0,5,,0,,,
+EST-2022-1034,2022-S1,Ingeniería Civil,Imbabura,Urbana,M,23,Casado/a,Fiscomisional,Credito educativo,Presencial,3,9.28,7.48,0,7,61.2,26.0,,1,366.0,2,6.1,1,2024-07-05,Economico,4.0
+EST-2023-1035,2023-S1,Contabilidad,Manabí,Urbana,F,20,Casado/a,Fiscal,Recursos propios,Presencial,3,6.23,4.83,1,6,62.8,0.0,41.4,1,245.0,1,,1,2024-05-20,Laboral,4.0
+EST-2024-1036,2023-S2,Medicina,Pichincha,Urbana,F,18,Soltero/a,Particular,Recursos propios,Presencial,6,8.02,7.77,0,6,85.7,32.0,4.7,0,845.0,2,5.7,0,,,
+EST-2025-1037,2022-S1,Contabilidad,Pichincha,Urbana,M,25,Soltero/a,Particular,Beca completa,Presencial,3,10.0,,1,7,79.3,0.0,6.1,1,510.0,0,4.4,0,,,
+EST-2020-1038,2023-S2,Psicología,Azuay,Urbana,F,26,Soltero/a,Fiscal,Beca completa,Presencial,2,8.29,3.72,3,4,97.2,42.0,46.0,2,479.0,2,1.9,0,,,
+EST-2021-1039,2023-S1,Contabilidad,Azuay,Urbana,M,21,Soltero/a,Particular,Recursos propios,Presencial,2,6.6,8.19,1,8,59.0,0.0,1.9,1,243.0,2,6.2,0,,,
+EST-2022-1040,2023-S2,Contabilidad,Guayas,Urbana,F,21,Soltero/a,Particular,Beca parcial,Semi-presencial,6,9.24,5.34,3,4,65.2,29.0,51.2,1,653.0,4,5.3,1,2024-04-09,Economico,7.0
+EST-2023-1041,2022-S2,Administración de Empresas,Loja,Rural,M,27,Soltero/a,Particular,Recursos propios,Presencial,2,8.8,7.11,0,4,92.1,37.0,3.6,3,281.0,3,7.7,0,,,
+EST-2024-1042,2023-S2,Ciencia de Datos,Manabí,Urbana,M,18,Soltero/a,Fiscal,Recursos propios,Presencial,5,7.08,5.14,0,7,58.1,0.0,10.8,3,581.0,0,8.8,1,2024-02-12,Academico,5.0
+EST-2025-1043,2023-S1,Arquitectura,Esmeraldas,Urbana,F,23,Casado/a,Fiscal,Credito educativo,Presencial,1,8.07,8.88,1,5,86.2,0.0,13.1,0,458.0,2,6.1,0,,,
+EST-2020-1044,2022-S2,Psicología,Azuay,Urbana,F,18,Casado/a,Particular,Recursos propios,Presencial,3,7.88,7.22,1,5,100.0,0.0,9.1,0,1059.0,5,7.0,0,,,
+EST-2021-1045,2022-S2,Arquitectura,Azuay,Urbana,M,24,Soltero/a,Particular,Beca completa,Presencial,6,7.19,4.75,0,8,88.8,0.0,,1,425.0,1,8.9,0,,,
+EST-2022-1046,2022-S2,Arquitectura,Manabí,Urbana,M,19,Union libre,Fiscal,Beca completa,Presencial,2,8.64,6.83,1,5,49.8,0.0,3.0,5,512.0,1,7.4,0,,,
+EST-2023-1047,2023-S1,Ingeniería Civil,Guayas,Urbana,F,22,Soltero/a,Fiscal,Beca parcial,Semi-presencial,4,5.46,8.86,0,5,83.5,14.0,3.1,2,642.0,4,7.0,0,,,
+EST-2024-1048,2023-S1,Medicina,Guayas,Rural,F,20,Union libre,Fiscal,Beca completa,Semi-presencial,2,6.46,,1,7,79.5,39.0,4.5,2,1112.0,3,5.9,0,,,
+EST-2025-1049,2023-S2,Ingeniería Civil,Guayas,Urbana,F,25,Soltero/a,Particular,Credito educativo,Presencial,6,6.89,8.32,3,4,50.9,18.0,3.5,0,694.0,4,9.9,1,2024-02-06,Personal,7.0
+EST-2020-1050,2022-S1,Medicina,Tungurahua,Urbana,M,25,Soltero/a,Fiscomisional,Beca parcial,Presencial,2,9.26,9.63,1,8,86.4,0.0,47.4,1,659.0,2,8.0,0,,,
+EST-2021-1051,2023-S1,Derecho,Manabí,Urbana,M,25,Casado/a,Particular,Beca parcial,Presencial,1,7.38,,1,5,98.2,0.0,20.5,1,777.0,3,7.6,0,,,
+EST-2022-1052,2022-S1,Arquitectura,Guayas,Urbana,M,23,Soltero/a,Fiscal,Recursos propios,Presencial,4,8.07,6.99,0,8,90.2,0.0,8.2,1,1293.0,5,5.3,0,,,
+EST-2023-1053,2023-S2,Derecho,Guayas,Urbana,F,27,Union libre,Particular,Beca parcial,Presencial,3,8.53,9.75,1,5,77.0,31.0,39.8,0,593.0,2,,0,,,
+EST-2024-1054,2023-S1,Ciencia de Datos,Pichincha,Urbana,M,22,Soltero/a,Fiscal,Recursos propios,Semi-presencial,6,7.31,3.1,3,4,77.2,0.0,11.4,3,366.0,4,3.6,1,2024-06-01,Academico,7.0
+EST-2025-1055,2022-S2,Administración de Empresas,Guayas,Urbana,F,24,Casado/a,Particular,Credito educativo,Presencial,2,7.37,8.68,0,8,54.0,33.0,32.8,0,442.0,0,5.9,0,,,
+EST-2020-1056,2022-S2,Derecho,Guayas,Urbana,F,22,Soltero/a,Particular,Beca completa,Presencial,1,7.68,5.48,3,5,75.1,0.0,27.5,2,937.0,1,7.9,0,,,
+EST-2021-1057,2022-S2,Psicología,Esmeraldas,Urbana,M,25,Soltero/a,Particular,Recursos propios,Semi-presencial,6,5.67,6.25,2,7,69.0,40.0,20.0,3,955.0,3,8.2,1,2024-03-19,Academico,7.0
+EST-2022-1058,2022-S1,Administración de Empresas,Pichincha,Rural,M,21,Soltero/a,Fiscomisional,Beca completa,Presencial,2,6.0,7.23,1,6,79.7,0.0,9.2,3,1113.0,2,,0,,,
+EST-2023-1059,2022-S2,Psicología,Chimborazo,Rural,F,27,Soltero/a,Fiscal,Credito educativo,Presencial,4,8.31,7.43,1,5,90.0,0.0,1.1,3,200.0,0,,0,,,
+EST-2024-1060,2023-S2,Medicina,Tungurahua,Urbana,M,21,Soltero/a,Fiscal,Recursos propios,Presencial,4,7.46,4.89,0,7,79.3,0.0,1.9,2,2084.0,5,4.0,0,,,
+EST-2025-1061,2023-S1,Contabilidad,Guayas,Rural,M,22,Soltero/a,Particular,Beca parcial,Semi-presencial,5,6.5,5.95,1,7,67.9,16.0,9.1,2,666.0,1,5.3,1,2024-01-06,Economico,5.0
+EST-2020-1062,2023-S2,Psicología,Esmeraldas,Urbana,M,26,Soltero/a,Fiscal,Beca parcial,Presencial,3,9.19,,1,5,79.2,23.0,40.4,3,520.0,4,2.9,0,,,
+EST-2021-1063,2023-S1,Contabilidad,El Oro,Rural,F,25,Union libre,Particular,Beca parcial,Presencial,3,9.05,5.41,0,4,63.3,0.0,4.9,1,654.0,0,7.1,0,,,
+EST-2022-1064,2022-S2,Arquitectura,Pichincha,Urbana,M,25,Soltero/a,Fiscomisional,Recursos propios,Semi-presencial,1,7.74,9.06,0,7,78.0,35.0,14.8,4,378.0,3,7.8,0,,,
+EST-2023-1065,2022-S1,Ingeniería Civil,Pichincha,Urbana,F,22,Soltero/a,Particular,Recursos propios,Presencial,3,8.01,8.55,0,8,75.9,14.0,2.2,1,634.0,4,9.7,0,,,
+EST-2024-1066,2022-S2,Derecho,Pichincha,Urbana,M,26,Soltero/a,Fiscal,Beca completa,Presencial,5,8.07,3.78,0,7,80.8,16.0,23.4,1,895.0,5,6.9,0,,,
+EST-2025-1067,2023-S2,Medicina,Pichincha,Urbana,M,26,Soltero/a,Fiscal,Recursos propios,Semi-presencial,5,9.17,6.28,0,8,100.0,0.0,13.0,6,577.0,4,6.0,0,,,
+EST-2020-1068,2023-S2,Psicología,Pichincha,Urbana,M,18,Soltero/a,Fiscal,Recursos propios,Semi-presencial,1,7.27,7.33,0,4,79.7,0.0,16.3,0,571.0,3,3.2,0,,,
+EST-2021-1069,2022-S2,Ciencia de Datos,Guayas,Urbana,F,19,Soltero/a,Particular,Credito educativo,Presencial,2,7.77,6.23,0,6,90.3,0.0,0.7,1,1112.0,5,5.2,0,,,
+EST-2022-1070,2022-S1,Ciencia de Datos,Manabí,Urbana,M,24,Soltero/a,Fiscomisional,Recursos propios,Presencial,1,6.29,7.7,0,6,73.2,31.0,17.0,0,1350.0,0,8.1,0,,,
+EST-2023-1071,2022-S2,Psicología,Imbabura,Urbana,F,19,Soltero/a,Fiscal,Recursos propios,Presencial,4,8.52,7.95,0,5,69.0,29.0,2.0,1,383.0,2,3.2,0,,,
+EST-2024-1072,2022-S2,Ingeniería Civil,Manabí,Urbana,F,21,Soltero/a,Fiscal,Beca completa,Presencial,4,8.88,4.95,1,6,89.1,0.0,1.0,4,751.0,4,8.8,0,,,
+EST-2025-1073,2022-S1,Contabilidad,Loja,Rural,F,18,Soltero/a,Fiscal,Recursos propios,Presencial,2,7.07,10.0,2,8,46.7,0.0,14.7,0,390.0,3,5.3,0,,,
+EST-2020-1074,2023-S2,Medicina,Pichincha,Rural,M,24,Soltero/a,Fiscal,Recursos propios,Presencial,2,6.62,4.19,2,7,68.3,0.0,13.0,0,363.0,0,3.6,1,2024-08-14,Laboral,2.0
+EST-2021-1075,2023-S2,Ingeniería Civil,El Oro,Rural,M,27,Union libre,Particular,Recursos propios,Presencial,5,8.63,10.0,3,8,76.2,0.0,13.2,0,1527.0,1,5.3,0,,,
+EST-2022-1076,2023-S1,Contabilidad,Pichincha,Urbana,M,17,Casado/a,Fiscomisional,Beca completa,Presencial,1,6.41,5.63,1,6,71.6,28.0,49.1,1,1508.0,0,7.0,1,2024-06-13,Laboral,2.0
+EST-2023-1077,2023-S2,Psicología,Pichincha,Urbana,F,18,Casado/a,Particular,Recursos propios,Semi-presencial,2,7.61,9.19,0,7,98.3,0.0,15.7,3,974.0,5,7.6,0,,,
+EST-2024-1078,2023-S1,Administración de Empresas,Guayas,Urbana,F,20,Soltero/a,Fiscal,Credito educativo,Presencial,4,7.65,6.18,1,7,59.2,19.0,0.6,1,649.0,2,7.9,1,2024-05-15,Academico,5.0
+EST-2025-1079,2023-S2,Medicina,Manabí,Urbana,F,18,Soltero/a,Fiscal,Beca parcial,Presencial,1,8.26,6.39,0,8,79.2,0.0,20.0,2,585.0,5,8.0,0,,,
+EST-2020-1080,2023-S2,Psicología,Azuay,Urbana,M,27,Soltero/a,Particular,Beca completa,Presencial,2,8.13,6.6,1,8,64.2,38.0,11.5,4,1215.0,3,5.5,1,2024-02-11,Personal,3.0
+EST-2021-1081,2022-S1,Contabilidad,Imbabura,Urbana,F,26,Soltero/a,Particular,Recursos propios,Presencial,4,6.68,8.21,2,4,80.9,0.0,58.9,3,337.0,4,4.2,0,,,
+EST-2022-1082,2023-S2,Medicina,Guayas,Urbana,F,24,Soltero/a,Particular,Recursos propios,Presencial,2,9.07,6.79,1,6,83.4,0.0,24.2,2,351.0,1,10.0,0,,,
+EST-2023-1083,2022-S2,Administración de Empresas,Manabí,Rural,M,27,Soltero/a,Fiscal,Beca completa,Presencial,2,8.68,5.27,0,7,84.2,36.0,10.7,2,221.0,2,8.0,0,,,
+EST-2024-1084,2023-S2,Arquitectura,Guayas,Urbana,F,19,Casado/a,Particular,Recursos propios,Presencial,1,7.7,6.7,1,5,88.3,0.0,36.4,3,206.0,0,8.9,0,,,
+EST-2025-1085,2023-S1,Medicina,Guayas,Urbana,M,17,Soltero/a,Fiscal,Recursos propios,Presencial,5,7.76,8.0,1,4,100.0,0.0,46.3,3,391.0,0,9.3,0,,,
+EST-2020-1086,2022-S2,Ingeniería Civil,Azuay,Rural,M,20,Soltero/a,Fiscal,Beca completa,Presencial,5,6.16,,2,4,81.0,26.0,37.7,1,660.0,3,7.9,0,,,
+EST-2021-1087,2023-S1,Medicina,Guayas,Urbana,F,21,Soltero/a,Fiscal,Credito educativo,Semi-presencial,6,8.15,,0,8,56.2,0.0,8.5,2,415.0,3,9.4,0,,,
+EST-2022-1088,2023-S1,Ingeniería Civil,Loja,Rural,F,17,Soltero/a,Fiscomisional,Credito educativo,Presencial,3,8.47,6.06,2,6,88.4,0.0,6.2,0,720.0,5,3.9,0,,,
+EST-2023-1089,2023-S2,Psicología,Chimborazo,Urbana,F,27,Soltero/a,Fiscomisional,Recursos propios,Presencial,6,6.96,,1,7,72.3,0.0,5.6,3,1231.0,0,5.6,0,,,
+EST-2024-1090,2022-S2,Contabilidad,Chimborazo,Urbana,M,17,Casado/a,Particular,Recursos propios,Semi-presencial,2,7.45,6.41,2,5,100.0,13.0,5.6,0,232.0,5,7.7,0,,,
+EST-2025-1091,2023-S2,Derecho,Guayas,Rural,F,25,Casado/a,Fiscomisional,Recursos propios,Presencial,1,7.2,7.41,1,4,86.3,0.0,3.4,2,247.0,1,5.4,0,,,
+EST-2020-1092,2023-S2,Derecho,Pichincha,Urbana,F,25,Casado/a,Fiscal,Beca parcial,Semi-presencial,3,6.86,9.08,3,8,100.0,39.0,13.4,1,811.0,5,9.9,0,,,
+EST-2021-1093,2023-S2,Derecho,Guayas,Urbana,F,26,Soltero/a,Particular,Beca completa,Presencial,6,6.23,5.73,3,5,74.6,0.0,17.3,3,542.0,3,5.4,1,2024-01-27,Personal,7.0
+EST-2022-1094,2022-S2,Contabilidad,Pichincha,Urbana,M,23,Casado/a,Fiscal,Recursos propios,Presencial,3,6.33,7.65,2,6,69.4,0.0,17.4,1,799.0,1,6.9,0,,,
+EST-2023-1095,2022-S2,Arquitectura,Pichincha,Urbana,M,19,Soltero/a,Particular,Recursos propios,Presencial,5,9.8,6.99,2,6,83.2,19.0,,3,1009.0,0,3.8,0,,,
+EST-2024-1096,2023-S2,Ciencia de Datos,Imbabura,Urbana,M,24,Soltero/a,Fiscal,Beca parcial,Semi-presencial,6,7.77,8.62,1,4,82.7,17.0,41.7,1,672.0,5,8.3,0,,,
+EST-2025-1097,2022-S2,Contabilidad,Guayas,Urbana,M,23,Soltero/a,Particular,Beca parcial,Presencial,1,6.44,5.66,1,8,52.7,17.0,0.5,2,473.0,2,9.5,1,2024-07-25,Academico,2.0
+EST-2020-1098,2022-S1,Administración de Empresas,Chimborazo,Urbana,F,24,Soltero/a,Particular,Beca completa,Semi-presencial,3,7.7,9.81,2,5,83.3,32.0,3.5,2,229.0,3,6.1,0,,,
+EST-2021-1099,2022-S2,Psicología,Tungurahua,Urbana,F,25,Casado/a,Particular,Recursos propios,Presencial,3,6.36,6.33,4,6,65.7,0.0,7.3,2,662.0,4,,0,,,
+EST-2022-1100,2023-S1,Administración de Empresas,Guayas,Urbana,F,17,Union libre,Fiscal,Recursos propios,Semi-presencial,4,6.5,6.35,0,6,100.0,34.0,8.6,6,717.0,4,3.8,0,,,
+EST-2023-1101,2022-S1,Administración de Empresas,Azuay,Urbana,F,18,Soltero/a,Fiscal,Recursos propios,Presencial,1,8.87,7.18,2,8,87.0,0.0,24.8,2,525.0,3,6.3,0,,,
+EST-2024-1102,2022-S1,Derecho,El Oro,Urbana,F,17,Soltero/a,Fiscal,Credito educativo,Presencial,6,9.07,,0,4,78.1,0.0,3.6,2,1428.0,0,7.8,0,,,
+EST-2025-1103,2023-S2,Contabilidad,Manabí,Rural,M,19,Soltero/a,Particular,Credito educativo,Presencial,2,7.56,7.43,1,6,61.3,0.0,,5,729.0,1,6.3,0,,,
+EST-2020-1104,2022-S2,Ciencia de Datos,Azuay,Urbana,M,20,Casado/a,Fiscal,Recursos propios,Semi-presencial,5,7.49,6.66,2,6,78.1,35.0,1.4,2,456.0,1,,1,2024-03-22,Personal,6.0
+EST-2021-1105,2023-S2,Medicina,Manabí,Rural,M,23,Casado/a,Fiscal,Recursos propios,Presencial,4,8.79,10.0,0,7,90.0,0.0,9.0,3,315.0,1,4.8,0,,,
+EST-2022-1106,2022-S1,Psicología,Pichincha,Urbana,F,27,Union libre,Fiscal,Recursos propios,Presencial,3,8.17,5.97,0,7,96.6,19.0,9.5,3,518.0,3,9.4,0,,,
+EST-2023-1107,2023-S1,Contabilidad,Loja,Rural,F,23,Soltero/a,Particular,Recursos propios,Presencial,5,8.58,8.79,1,5,52.4,0.0,37.9,0,821.0,1,8.1,0,,,
+EST-2024-1108,2023-S2,Contabilidad,Guayas,Rural,F,21,Casado/a,Particular,Recursos propios,Presencial,6,6.31,4.19,1,6,72.8,0.0,3.5,1,654.0,0,3.6,1,2024-07-16,Economico,7.0
+EST-2025-1109,2023-S1,Medicina,El Oro,Urbana,M,23,Soltero/a,Particular,Beca completa,Presencial,5,6.8,,1,8,83.1,0.0,27.2,3,244.0,2,9.0,0,,,
+EST-2020-1110,2023-S2,Contabilidad,Pichincha,Rural,F,21,Soltero/a,Particular,Credito educativo,Presencial,2,9.1,7.98,1,5,72.8,0.0,0.5,2,431.0,4,4.6,0,,,
+EST-2021-1111,2022-S2,Derecho,Loja,Urbana,M,20,Soltero/a,Fiscal,Credito educativo,Presencial,6,7.01,8.57,1,6,68.8,37.0,47.7,0,1067.0,1,2.2,1,2024-03-27,Personal,6.0
+EST-2022-1112,2023-S1,Ingeniería Civil,Tungurahua,Rural,M,25,Soltero/a,Fiscal,Recursos propios,Presencial,3,8.86,,0,6,66.8,28.0,4.6,1,897.0,5,9.8,0,,,
+EST-2023-1113,2022-S2,Arquitectura,Pichincha,Urbana,F,22,Soltero/a,Particular,Beca parcial,Semi-presencial,1,4.51,,1,8,79.8,12.0,47.1,2,806.0,5,4.1,0,,,
+EST-2024-1114,2023-S1,Psicología,Guayas,Urbana,F,19,Union libre,Particular,Beca completa,Semi-presencial,1,9.15,7.71,0,4,62.5,15.0,45.1,3,1052.0,1,6.5,0,,,
+EST-2025-1115,2022-S1,Contabilidad,Imbabura,Urbana,M,22,Soltero/a,Fiscal,Credito educativo,Semi-presencial,6,7.52,9.72,0,7,75.3,19.0,6.2,3,632.0,0,6.1,0,,,
+EST-2020-1116,2022-S1,Psicología,Chimborazo,Urbana,F,19,Soltero/a,Particular,Recursos propios,Presencial,5,7.69,6.57,2,4,87.4,30.0,26.0,3,330.0,4,8.8,0,,,
+EST-2021-1117,2023-S1,Ciencia de Datos,Imbabura,Urbana,F,26,Soltero/a,Fiscal,Credito educativo,Presencial,4,10.0,,0,4,81.0,22.0,4.3,4,918.0,2,9.4,0,,,
+EST-2022-1118,2022-S1,Arquitectura,Guayas,Urbana,F,26,Soltero/a,Fiscal,Credito educativo,Semi-presencial,1,6.05,,2,4,64.2,10.0,,2,389.0,2,5.3,0,,,
+EST-2023-1119,2022-S2,Ciencia de Datos,Tungurahua,Urbana,M,22,Soltero/a,Fiscal,Beca parcial,Presencial,1,8.99,5.93,0,7,83.3,22.0,0.9,0,377.0,4,7.1,0,,,
+EST-2024-1120,2022-S2,Ciencia de Datos,Manabí,Urbana,F,25,Soltero/a,Fiscal,Beca parcial,Presencial,5,10.0,4.9,0,7,68.0,0.0,0.5,2,491.0,4,5.1,0,,,
+EST-2025-1121,2023-S1,Arquitectura,Manabí,Rural,M,19,Soltero/a,Fiscal,Recursos propios,Semi-presencial,6,7.87,8.44,1,5,68.5,0.0,10.4,2,396.0,4,8.0,0,,,
+EST-2020-1122,2022-S2,Contabilidad,Pichincha,Rural,M,21,Union libre,Particular,Recursos propios,Presencial,1,8.83,8.13,1,4,76.2,22.0,33.3,3,554.0,2,5.0,0,,,
+EST-2021-1123,2022-S1,Ciencia de Datos,Tungurahua,Urbana,M,22,Soltero/a,Fiscal,Credito educativo,Presencial,3,7.54,7.92,1,4,96.7,0.0,35.0,2,252.0,1,6.0,0,,,
+EST-2022-1124,2023-S1,Ingeniería Civil,Esmeraldas,Rural,F,24,Soltero/a,Fiscal,Beca parcial,Presencial,1,7.22,5.92,1,4,73.2,0.0,19.2,4,1955.0,1,4.4,0,,,
+EST-2023-1125,2023-S2,Ingeniería Civil,Pichincha,Rural,F,18,Soltero/a,Fiscal,Beca parcial,Presencial,2,5.14,7.28,2,5,73.9,21.0,3.9,0,921.0,1,8.3,1,2024-04-13,Academico,2.0
+EST-2024-1126,2023-S1,Medicina,Pichincha,Urbana,M,21,Union libre,Fiscal,Beca parcial,Presencial,4,8.55,9.2,1,5,89.2,0.0,48.9,5,513.0,1,4.9,0,,,
+EST-2025-1127,2023-S1,Administración de Empresas,Pichincha,Urbana,M,20,Soltero/a,Particular,Recursos propios,Semi-presencial,2,7.19,5.49,3,6,100.0,0.0,18.8,0,746.0,1,10.0,0,,,
+EST-2020-1128,2022-S2,Psicología,Loja,Urbana,F,26,Soltero/a,Fiscal,Beca completa,Presencial,1,7.82,7.56,1,6,55.2,0.0,34.5,0,776.0,0,9.0,1,2024-08-14,Laboral,2.0
+EST-2021-1129,2022-S2,Administración de Empresas,Tungurahua,Urbana,M,21,Union libre,Particular,Recursos propios,Presencial,6,6.98,8.65,1,8,91.2,24.0,1.8,2,429.0,4,7.3,0,,,
+EST-2022-1130,2023-S2,Arquitectura,Tungurahua,Urbana,F,27,Soltero/a,Fiscal,Recursos propios,Presencial,3,8.42,8.42,3,5,86.5,39.0,43.8,1,888.0,0,8.3,1,2024-08-05,Academico,4.0
+EST-2023-1131,2023-S2,Arquitectura,Azuay,Rural,F,17,Soltero/a,Fiscal,Recursos propios,Semi-presencial,3,8.52,4.03,1,5,74.3,36.0,2.7,2,327.0,2,7.0,1,2024-03-09,Laboral,3.0
+EST-2024-1132,2022-S1,Derecho,Chimborazo,Urbana,M,18,Soltero/a,Particular,Beca parcial,Presencial,2,6.9,6.45,1,8,68.6,38.0,20.3,6,600.0,5,3.2,0,,,
+EST-2025-1133,2023-S2,Medicina,Guayas,Urbana,F,18,Soltero/a,Fiscal,Recursos propios,Semi-presencial,4,8.41,6.57,1,5,93.9,44.0,10.5,1,359.0,4,,0,,,
+EST-2020-1134,2023-S1,Ciencia de Datos,Pichincha,Urbana,M,26,Soltero/a,Particular,Recursos propios,Presencial,1,8.68,8.09,3,4,99.3,16.0,16.7,0,491.0,2,4.1,0,,,
+EST-2021-1135,2022-S1,Psicología,Chimborazo,Urbana,F,18,Soltero/a,Fiscomisional,Credito educativo,Semi-presencial,4,8.51,10.0,1,5,70.1,27.0,7.3,2,1028.0,4,6.1,0,,,
+EST-2022-1136,2023-S1,Administración de Empresas,Chimborazo,Rural,M,20,Soltero/a,Fiscal,Recursos propios,Presencial,6,5.4,7.51,3,8,43.9,17.0,,4,1109.0,1,4.4,1,2024-07-16,Academico,7.0
+EST-2023-1137,2022-S1,Arquitectura,El Oro,Rural,F,24,Soltero/a,Particular,Credito educativo,Semi-presencial,3,6.29,8.2,1,8,55.2,30.0,3.4,1,335.0,5,,0,,,
+EST-2024-1138,2023-S1,Derecho,Manabí,Rural,F,23,Soltero/a,Particular,Beca parcial,Presencial,1,7.12,,2,7,80.5,0.0,24.3,3,985.0,4,8.3,0,,,
+EST-2025-1139,2022-S1,Arquitectura,Guayas,Urbana,F,17,Soltero/a,Particular,Beca parcial,Presencial,1,5.88,6.38,1,4,86.7,0.0,23.9,1,582.0,1,6.3,0,,,
+EST-2020-1140,2023-S1,Administración de Empresas,El Oro,Urbana,F,23,Soltero/a,Particular,Recursos propios,Presencial,5,6.15,7.13,1,6,83.1,13.0,27.4,0,649.0,0,7.2,0,,,
+EST-2021-1141,2022-S2,Medicina,Guayas,Rural,F,25,Casado/a,Particular,Recursos propios,Semi-presencial,3,7.57,6.91,0,6,73.1,0.0,,1,264.0,2,8.7,0,,,
+EST-2022-1142,2022-S2,Ciencia de Datos,Pichincha,Urbana,M,18,Soltero/a,Particular,Recursos propios,Presencial,6,6.37,9.56,0,7,68.9,18.0,0.8,0,507.0,2,6.3,0,,,
+EST-2023-1143,2022-S2,Administración de Empresas,Pichincha,Urbana,M,25,Soltero/a,Fiscal,Beca parcial,Presencial,5,7.17,10.0,2,6,73.7,29.0,9.1,2,894.0,5,7.2,0,,,
+EST-2024-1144,2022-S2,Derecho,Esmeraldas,Urbana,M,22,Soltero/a,Fiscal,Recursos propios,Presencial,6,7.08,7.36,1,6,69.4,0.0,3.7,4,670.0,0,7.7,0,,,
+EST-2025-1145,2022-S2,Psicología,Pichincha,Urbana,M,23,Soltero/a,Fiscal,Credito educativo,Presencial,5,8.04,6.74,1,7,79.9,39.0,2.0,1,933.0,5,5.8,0,,,
+EST-2020-1146,2023-S1,Contabilidad,Esmeraldas,Urbana,M,23,Soltero/a,Fiscomisional,Credito educativo,Presencial,3,7.52,6.9,1,6,77.8,0.0,7.5,2,1149.0,2,4.4,0,,,
+EST-2021-1147,2022-S2,Derecho,Tungurahua,Rural,F,20,Casado/a,Particular,Credito educativo,Semi-presencial,1,7.7,10.0,0,7,68.0,0.0,27.7,1,486.0,2,5.0,0,,,
+EST-2022-1148,2023-S2,Derecho,El Oro,Urbana,F,20,Soltero/a,Fiscal,Beca parcial,Presencial,3,9.56,7.41,2,6,63.5,0.0,74.4,4,403.0,2,5.3,1,2024-02-15,Personal,4.0
+EST-2023-1149,2022-S2,Psicología,Pichincha,Urbana,F,26,Soltero/a,Fiscal,Recursos propios,Presencial,4,7.49,9.38,1,6,98.5,0.0,,1,747.0,2,6.5,0,,,
