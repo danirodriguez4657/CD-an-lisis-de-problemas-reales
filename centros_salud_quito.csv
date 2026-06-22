@@ -1,0 +1,22 @@
+id,nombre,latitud,longitud,demanda_kg_dia,tipo
+0,Depósito ARCSA,-0.2295,-78.5243,0,Depósito
+1,Hospital Eugenio Espejo,-0.198,-78.495,98,Hospital
+2,Hospital Pablo Arturo Suárez,-0.105,-78.512,88,Hospital
+3,Hospital Enrique Garcés,-0.31,-78.548,74,Hospital
+4,Hospital Padre Carollo,-0.32,-78.56,67,Hospital
+5,Hospital Gineco Obstétrico Isidro Ayora,-0.215,-78.505,80,Hospital
+6,Hospital de Especialidades Eugenio Espejo,-0.199,-78.496,98,Hospital
+7,Centro de Salud Cotocollao,-0.1167,-78.505,40,Centro de Salud
+8,Centro de Salud Chimbacalle,-0.26,-78.515,33,Centro de Salud
+9,Centro de Salud Solanda,-0.29,-78.535,37,Centro de Salud
+10,Centro de Salud Chillogallo,-0.305,-78.543,25,Centro de Salud
+11,Centro de Salud La Libertad,-0.275,-78.53,25,Centro de Salud
+12,Centro de Salud Quitumbe,-0.33,-78.555,38,Centro de Salud
+13,Centro de Salud El Condado,-0.0731,-78.51,35,Centro de Salud
+14,Centro de Salud Carcelén,-0.054,-78.49,18,Centro de Salud
+15,Centro de Salud Comité del Pueblo,-0.0921,-78.478,22,Centro de Salud
+16,Centro de Salud Iñaquito,-0.173,-78.48,38,Centro de Salud
+17,Centro de Salud La Vicentina,-0.22,-78.478,17,Centro de Salud
+18,Centro de Salud Guápulo,-0.21,-78.47,36,Centro de Salud
+19,Centro de Salud La Magdalena,-0.25,-78.525,35,Centro de Salud
+20,Centro de Salud San Roque,-0.23,-78.52,16,Centro de Salud
